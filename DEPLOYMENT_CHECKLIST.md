@@ -4,7 +4,7 @@
 
 - [ ] Review all content for accuracy and branding
 - [ ] Update contact phone number (currently placeholder)
-- [ ] Update email addresses if different from contact@cochiselandmanagement.com
+- [ ] Update email addresses if different from inquiries@cochiselandmanagement.com
 - [ ] Verify Stronghold Precision Aerials link is correct
 - [ ] Review privacy policy and terms for your specific needs
 - [ ] Set up domain DNS records pointing to deployment

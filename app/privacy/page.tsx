@@ -134,7 +134,7 @@ export default function PrivacyPolicy() {
             <li>The right to opt-out of marketing communications</li>
           </ul>
           <p className="text-textSecondary leading-relaxed mt-4">
-            To exercise any of these rights, please contact us at contact@cochiselandmanagement.com.
+            To exercise any of these rights, please contact us at inquiries@cochiselandmanagement.com.
           </p>
         </motion.section>
 
@@ -175,7 +175,7 @@ export default function PrivacyPolicy() {
             <p className="font-bold text-accent mb-2">Cochise Land Management</p>
             <p className="text-textSecondary mb-1">A Stormhaven Enterprises LLC Company</p>
             <p className="text-textSecondary mb-1">Cochise County, Arizona</p>
-            <p className="text-textSecondary mb-1">Email: contact@cochiselandmanagement.com</p>
+            <p className="text-textSecondary mb-1">Email: inquiries@cochiselandmanagement.com</p>
             <p className="text-textSecondary">Web: cochiselandmanagement.com</p>
           </div>
         </motion.section>

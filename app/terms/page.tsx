@@ -299,7 +299,7 @@ export default function TermsOfService() {
             <p className="font-bold text-accent mb-2">Cochise Land Management</p>
             <p className="text-textSecondary mb-1">A Stormhaven Enterprises LLC Company</p>
             <p className="text-textSecondary mb-1">Cochise County, Arizona</p>
-            <p className="text-textSecondary mb-1">Email: contact@cochiselandmanagement.com</p>
+            <p className="text-textSecondary mb-1">Email: inquiries@cochiselandmanagement.com</p>
             <p className="text-textSecondary">Web: cochiselandmanagement.com</p>
           </div>
         </motion.section>

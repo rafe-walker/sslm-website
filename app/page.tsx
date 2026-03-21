@@ -736,7 +736,7 @@ export default function Home() {
             <div className="p-4 bg-bgCard border border-borderColor rounded-lg">
               <Mail size={20} className="w-5 h-5 text-accent mx-auto mb-2" />
               <p className="text-sm text-textSecondary mb-1">Email us</p>
-              <a href="mailto:contact@cochiselandmanagement.com" className="text-accent font-bold hover:text-accentLight">contact@cochiselandmanagement.com</a>
+              <a href="mailto:inquiries@cochiselandmanagement.com" className="text-accent font-bold hover:text-accentLight">inquiries@cochiselandmanagement.com</a>
             </div>
           </motion.div>
         </div>
@@ -882,7 +882,7 @@ export default function Home() {
             <div>
               <h4 className="font-bold mb-4 text-sm">Contact</h4>
               <ul className="space-y-2 text-sm text-textSecondary">
-                <li><a href="mailto:contact@cochiselandmanagement.com" className="hover:text-accent transition-colors">contact@cochiselandmanagement.com</a></li>
+                <li><a href="mailto:inquiries@cochiselandmanagement.com" className="hover:text-accent transition-colors">inquiries@cochiselandmanagement.com</a></li>
                 <li><a href="#" className="hover:text-accent transition-colors">Cochise County, AZ</a></li>
                 <li className="pt-2"><a href="#" className="text-xs text-accent hover:text-accentLight transition-colors font-bold">Stronghold Precision Aerials</a></li>
               </ul>

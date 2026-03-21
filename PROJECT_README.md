@@ -144,7 +144,7 @@ npm start
 - Owner: Joshua (US military veteran)
 - Location: Cochise County, Arizona (Sulphur Springs Valley)
 - Domain: cochiselandmanagement.com
-- Email: contact@cochiselandmanagement.com
+- Email: inquiries@cochiselandmanagement.com
 - Sister Company: Stronghold Precision Aerials (aerial surveying/mapping)
 
 **Veteran Status**: Prominently featured throughout the site with Shield icon and badge
