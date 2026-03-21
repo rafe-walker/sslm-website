@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <defs>
+    <style>
+      .mountain-bg { fill: #1A1510; }
+      .mountain-accent { fill: #7C9A3E; }
+      .mountain-highlight { fill: #9AB858; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect class="mountain-bg" width="256" height="256" rx="56"/>
+
+  <!-- Mountain peaks -->
+  <g>
+    <!-- Left peak -->
+    <path class="mountain-accent" d="M 80 180 L 120 90 L 100 90 L 60 180 Z"/>
+
+    <!-- Middle peak -->
+    <path class="mountain-highlight" d="M 120 180 L 160 50 L 170 50 L 200 180 Z"/>
+
+    <!-- Right peak -->
+    <path class="mountain-accent" d="M 160 180 L 190 100 L 210 100 L 220 180 Z"/>
+
+    <!-- Ground line -->
+    <line x1="40" y1="180" x2="220" y2="180" stroke="#7C9A3E" stroke-width="3" stroke-linecap="round"/>
+  </g>
+</svg>
