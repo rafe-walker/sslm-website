@@ -233,12 +233,19 @@ export default function Home() {
       </nav>
 
       {/* Hero Section */}
-      <section id="hero" className="pt-32 pb-20 px-4 sm:px-6 lg:px-8 relative overflow-hidden">
-        {/* Animated Background Gradient */}
-        <div className="absolute inset-0 -z-10">
-          <div className="absolute inset-0 bg-gradient-to-br from-bg via-bgCard to-bg opacity-60"></div>
-          <div className="absolute top-0 left-1/4 w-96 h-96 bg-accent/5 rounded-full mix-blend-multiply filter blur-3xl animate-blob"></div>
-          <div className="absolute bottom-0 right-1/4 w-96 h-96 bg-accentOrange/5 rounded-full mix-blend-multiply filter blur-3xl animate-blob animation-delay-2000"></div>
+      <section id="hero" className="pt-32 pb-20 px-4 sm:px-6 lg:px-8 relative overflow-hidden min-h-screen flex items-center">
+        {/* Background Video */}
+        <div className="absolute inset-0">
+          <video
+            autoPlay
+            muted
+            loop
+            playsInline
+            className="absolute inset-0 w-full h-full object-cover"
+          >
+            <source src="/hero-video.mp4" type="video/mp4" />
+          </video>
+          <div className="absolute inset-0 bg-black/60" />
         </div>
 
         <div className="max-w-4xl mx-auto text-center relative z-10">
