@@ -51,19 +51,39 @@ export default function Home() {
     }));
   };
 
-  const handleFormSubmit = (e: React.FormEvent<HTMLFormElement>) => {
+  const [formError, setFormError] = useState(false);
+  const [formSubmitting, setFormSubmitting] = useState(false);
+
+  const handleFormSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
-    // In production, this would submit to a backend service
-    setFormSubmitted(true);
-    setFormData({
-      name: '',
-      email: '',
-      phone: '',
-      serviceType: 'Land Clearing',
-      propertySize: '',
-      description: '',
-    });
-    setTimeout(() => setFormSubmitted(false), 5000);
+    setFormSubmitting(true);
+    setFormError(false);
+    try {
+      const res = await fetch('https://formspree.io/f/xeerwrbw', {
+        method: 'POST',
+        body: JSON.stringify(formData),
+        headers: {
+          Accept: 'application/json',
+          'Content-Type': 'application/json',
+        },
+      });
+      if (res.ok) {
+        setFormSubmitted(true);
+        setFormData({
+          name: '',
+          email: '',
+          phone: '',
+          serviceType: 'Land Clearing',
+          propertySize: '',
+          description: '',
+        });
+      } else {
+        setFormError(true);
+      }
+    } catch {
+      setFormError(true);
+    }
+    setFormSubmitting(false);
   };
 
   const containerVariants = {
@@ -717,13 +737,18 @@ export default function Home() {
               className="w-full px-4 py-2 bg-bgCard border border-borderColor text-textPrimary placeholder-textSecondary rounded-lg focus:border-accent focus:outline-none resize-none"
             ></textarea>
 
+            {formError && (
+              <p className="text-red-400 text-sm text-center">Something went wrong. Please try again or email us directly.</p>
+            )}
+
             <motion.button
               whileHover={{ scale: 1.02 }}
               whileTap={{ scale: 0.98 }}
               type="submit"
-              className="w-full px-6 py-3 bg-accent text-bg rounded-lg font-bold hover:bg-accentLight transition-colors"
+              disabled={formSubmitting}
+              className="w-full px-6 py-3 bg-accent text-bg rounded-lg font-bold hover:bg-accentLight transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
             >
-              Send Free Estimate Request
+              {formSubmitting ? 'Sending...' : 'Send Free Estimate Request'}
             </motion.button>
           </motion.form>
 
