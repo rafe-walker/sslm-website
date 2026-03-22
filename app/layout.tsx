@@ -10,6 +10,14 @@ export const metadata: Metadata = {
     description: 'Full-service land management for rural Cochise County properties.',
     type: 'website',
     url: 'https://cochiselandmanagement.com',
+    images: [
+      {
+        url: 'https://cochiselandmanagement.com/og-image.png',
+        width: 1200,
+        height: 630,
+        alt: 'Cochise Land Management - Rural Land Services in Arizona',
+      },
+    ],
   },
   robots: 'index, follow',
 };

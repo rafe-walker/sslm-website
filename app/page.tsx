@@ -486,7 +486,7 @@ export default function Home() {
           >
             <p className="text-textSecondary">
               Need aerial surveying for your property layout? Our sister company{' '}
-              <a href="#" className="text-accent font-bold hover:text-accentLight">
+              <a href="https://strongholdprecisionaerials.com" target="_blank" rel="noopener noreferrer" className="text-accent font-bold hover:text-accentLight">
                 Stronghold Precision Aerials
               </a>
               {' '}provides precision mapping and 3D terrain modeling.
@@ -884,7 +884,7 @@ export default function Home() {
               <ul className="space-y-2 text-sm text-textSecondary">
                 <li><a href="mailto:inquiries@cochiselandmanagement.com" className="hover:text-accent transition-colors">inquiries@cochiselandmanagement.com</a></li>
                 <li><a href="#" className="hover:text-accent transition-colors">Cochise County, AZ</a></li>
-                <li className="pt-2"><a href="#" className="text-xs text-accent hover:text-accentLight transition-colors font-bold">Stronghold Precision Aerials</a></li>
+                <li className="pt-2"><a href="https://strongholdprecisionaerials.com" target="_blank" rel="noopener noreferrer" className="text-xs text-accent hover:text-accentLight transition-colors font-bold">Stronghold Precision Aerials</a></li>
               </ul>
             </div>
           </div>
