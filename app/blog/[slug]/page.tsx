@@ -66,7 +66,8 @@ export default function BlogPostPage() {
         }) }} />
         <motion.div
           initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true }}
           transition={{ duration: 0.5 }}
           className="max-w-3xl mx-auto"
         >
@@ -108,7 +109,8 @@ export default function BlogPostPage() {
           {/* Content */}
           <motion.div
             initial={{ opacity: 0 }}
-            animate={{ opacity: 1 }}
+            whileInView={{ opacity: 1 }}
+            viewport={{ once: true }}
             transition={{ duration: 0.5, delay: 0.2 }}
             className="prose prose-invert max-w-none mb-12"
             dangerouslySetInnerHTML={{ __html: post.content }}
@@ -118,6 +120,7 @@ export default function BlogPostPage() {
           <motion.div
             initial={{ opacity: 0, y: 20 }}
             whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
             transition={{ duration: 0.5 }}
             className="bg-card border border-sage-green/20 rounded-xl p-8 my-12"
           >
@@ -144,6 +147,7 @@ export default function BlogPostPage() {
           <motion.div
             initial={{ opacity: 0, y: 20 }}
             whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
             transition={{ duration: 0.5 }}
             className="mt-16 pt-12 border-t border-sage-green/10"
           >
