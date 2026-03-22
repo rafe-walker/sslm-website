@@ -51,6 +51,19 @@ export default function BlogPostPage() {
 
       {/* Article */}
       <article className="pt-32 pb-20 px-4">
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+          '@context': 'https://schema.org',
+          '@type': 'Article',
+          headline: post.title,
+          description: post.description,
+          image: `https://cochiselandmanagement.com${post.featuredImage}`,
+          datePublished: post.date,
+          dateModified: post.date,
+          author: { '@type': 'Person', name: post.author },
+          publisher: { '@type': 'Organization', name: 'Cochise Land Management', url: 'https://cochiselandmanagement.com', logo: { '@type': 'ImageObject', url: 'https://cochiselandmanagement.com/logo.png' } },
+          mainEntityOfPage: { '@type': 'WebPage', '@id': `https://cochiselandmanagement.com/blog/${post.slug}` },
+          keywords: post.keywords.join(', '),
+        }) }} />
         <motion.div
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
@@ -65,11 +78,19 @@ export default function BlogPostPage() {
               </span>
               <span className="text-xs text-textPrimary/60">•</span>
               <span className="text-xs text-textPrimary/60">{post.date}</span>
+              <span className="text-xs text-textPrimary/60">•</span>
+              <span className="text-xs text-textPrimary/60">{post.readTime}</span>
             </div>
 
             <h1 className="text-4xl md:text-5xl font-bold mb-6 leading-tight">
               {post.title}
             </h1>
+
+            {post.featuredImage && (
+              <div className="mb-8 rounded-xl overflow-hidden border border-borderColor">
+                <img src={post.featuredImage} alt={post.title} className="w-full h-64 md:h-80 object-cover" />
+              </div>
+            )}
 
             <p className="text-xl text-textPrimary/80 mb-6">
               {post.description}
