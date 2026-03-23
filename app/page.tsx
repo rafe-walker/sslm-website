@@ -763,7 +763,7 @@ export default function Home() {
             <div className="p-4 bg-bgCard border border-borderColor rounded-lg">
               <Phone size={20} className="w-5 h-5 text-accent mx-auto mb-2" />
               <p className="text-sm text-textSecondary mb-1">Call us directly</p>
-              <a href="tel:+1" className="text-accent font-bold hover:text-accentLight">(XXX) XXX-XXXX</a>
+              <a href="tel:+15204025877" className="text-accent font-bold hover:text-accentLight">(520) 402-5877</a>
             </div>
             <div className="p-4 bg-bgCard border border-borderColor rounded-lg">
               <Mail size={20} className="w-5 h-5 text-accent mx-auto mb-2" />
