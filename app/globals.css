@@ -47,15 +47,17 @@ button {
   transition: all 0.3s ease;
 }
 
-/* Link styles */
-a {
-  color: #7C9A3E;
-  text-decoration: none;
-  transition: color 0.3s ease;
-}
+/* Link styles - inside @layer base to avoid overriding Tailwind utilities */
+@layer base {
+  a {
+    color: #7C9A3E;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
 
-a:hover {
-  color: #9AB858;
+  a:hover {
+    color: #9AB858;
+  }
 }
 
 /* Animate hero arrow */
