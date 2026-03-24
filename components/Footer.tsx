@@ -46,7 +46,7 @@ export default function Footer() {
           <div>
             <h4 className="font-bold mb-4 text-sm">Contact</h4>
             <ul className="space-y-2 text-sm text-textSecondary">
-              <li><a href="mailto:inquiries@sulfurspringslandmanagement.com" className="hover:text-accent transition-colors">inquiries@sulfurspringslandmanagement.com</a></li>
+              <li><a href="mailto:inquiries@sulfurspringslandmanagement.com" className="hover:text-accent transition-colors break-all">inquiries@sulfurspringslandmanagement.com</a></li>
               <li><a href="tel:+15204025877" className="hover:text-accent transition-colors">(520) 402-5877</a></li>
               <li><span>Cochise County, AZ</span></li>
               <li className="pt-2"><a href="https://strongholdprecisionaerials.com" target="_blank" rel="noopener noreferrer" className="text-xs text-accent hover:text-accentLight transition-colors font-bold">Stronghold Precision Aerials</a></li>
