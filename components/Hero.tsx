@@ -1,6 +1,5 @@
 'use client';
 
-import { motion } from 'framer-motion';
 import { Shield, ChevronDown } from 'lucide-react';
 
 export default function Hero() {
@@ -21,39 +20,27 @@ export default function Hero() {
       </div>
 
       <div className="max-w-4xl mx-auto text-center relative z-10">
-        <motion.div
-          initial={{ opacity: 0, y: -10 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ delay: 0.2 }}
+        <div
           className="inline-flex items-center gap-2 px-4 py-2 bg-bgCard border border-accent/30 rounded-full mb-6"
         >
           <Shield size={16} className="text-accent" />
           <span className="text-xs font-bold text-accent tracking-wider">VETERAN OWNED &amp; OPERATED</span>
-        </motion.div>
+        </div>
 
-        <motion.h1
-          initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ delay: 0.3 }}
+        <h1
           className="text-4xl sm:text-5xl lg:text-6xl font-bold mb-6 leading-tight"
         >
           Your Land.<br />
           <span className="gradient-text">Done Right.</span>
-        </motion.h1>
+        </h1>
 
-        <motion.p
-          initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ delay: 0.4 }}
+        <p
           className="text-lg sm:text-xl text-textSecondary mb-8 max-w-2xl mx-auto leading-relaxed"
         >
           Full-service land management for rural Cochise County. From raw desert to livable homestead — clearing, grading, solar, water, and everything in between.
-        </motion.p>
+        </p>
 
-        <motion.div
-          initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ delay: 0.5 }}
+        <div
           className="flex flex-col sm:flex-row gap-4 justify-center"
         >
           <button
@@ -68,12 +55,9 @@ export default function Hero() {
           >
             View Services
           </button>
-        </motion.div>
+        </div>
 
-        <motion.div
-          initial={{ opacity: 0 }}
-          animate={{ opacity: 1 }}
-          transition={{ delay: 0.8 }}
+        <div
           className="mt-12 flex justify-center"
         >
           <button
@@ -82,7 +66,7 @@ export default function Hero() {
           >
             <ChevronDown size={32} />
           </button>
-        </motion.div>
+        </div>
       </div>
     </section>
   );

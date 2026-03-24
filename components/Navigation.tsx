@@ -20,9 +20,7 @@ export default function Navigation() {
     <nav className="fixed top-0 w-full bg-bg/95 backdrop-blur-md z-50 border-b border-borderColor">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
-          <motion.div
-            initial={{ opacity: 0, x: -20 }}
-            animate={{ opacity: 1, x: 0 }}
+          <div
             className="flex items-center gap-2 cursor-pointer"
             onClick={() => scrollToSection('hero')}
           >
@@ -33,7 +31,7 @@ export default function Navigation() {
               <div className="text-xs font-bold tracking-wider text-accent">COCHISE</div>
               <div className="text-xs tracking-wider text-textSecondary">LAND MANAGEMENT</div>
             </div>
-          </motion.div>
+          </div>
 
           <div className="hidden md:flex gap-8">
             {['Services', 'Solar & Water', 'About', 'Coverage', 'Contact'].map((item) => (
@@ -68,10 +66,7 @@ export default function Navigation() {
         </div>
 
         {mobileMenuOpen && (
-          <motion.div
-            initial={{ opacity: 0, y: -10 }}
-            animate={{ opacity: 1, y: 0 }}
-            exit={{ opacity: 0, y: -10 }}
+          <div
             className="md:hidden pb-4 border-t border-borderColor"
           >
             <div className="flex flex-col gap-4 py-4">
@@ -94,7 +89,7 @@ export default function Navigation() {
                 Get a Free Estimate
               </button>
             </div>
-          </motion.div>
+          </div>
         )}
       </div>
     </nav>

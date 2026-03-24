@@ -28,8 +28,8 @@ export default function Footer() {
             <ul className="space-y-2 text-sm text-textSecondary">
               <li><a href="#services" className="hover:text-accent transition-colors">Land Clearing</a></li>
               <li><a href="#services" className="hover:text-accent transition-colors">Grading &amp; Driveways</a></li>
-              <li><a href="#solar-&amp;-water" className="hover:text-accent transition-colors">Solar Systems</a></li>
-              <li><a href="#solar-&amp;-water" className="hover:text-accent transition-colors">Water Systems</a></li>
+              <li><a href="#solar-&-water" className="hover:text-accent transition-colors">Solar Systems</a></li>
+              <li><a href="#solar-&-water" className="hover:text-accent transition-colors">Water Systems</a></li>
             </ul>
           </div>
 

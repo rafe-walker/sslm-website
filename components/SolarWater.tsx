@@ -1,6 +1,5 @@
 'use client';
 
-import { motion } from 'framer-motion';
 import { Sun, Droplets, CheckCircle } from 'lucide-react';
 
 export default function SolarWater() {
@@ -21,25 +20,19 @@ export default function SolarWater() {
   ];
 
   return (
-    <section id="solar-&amp;-water" className="py-20 px-4 sm:px-6 lg:px-8 bg-bgCard/50">
+    <section id="solar-&-water" className="py-20 px-4 sm:px-6 lg:px-8 bg-bgCard/50">
       <div className="max-w-7xl mx-auto">
-        <motion.div
-          initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.8 }}
+        <div
           className="text-center mb-16"
         >
           <h2 className="text-3xl sm:text-4xl font-bold mb-4">Solar &amp; Water Systems</h2>
           <p className="text-textSecondary max-w-2xl mx-auto">
             Independent power and water are the foundation of off-grid living. We design, install, and support complete systems built for desert reliability.
           </p>
-        </motion.div>
+        </div>
 
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
-          <motion.div
-            initial={{ opacity: 0, x: -20 }}
-            animate={{ opacity: 1, x: 0 }}
-            transition={{ duration: 0.8 }}
+          <div
             className="p-8 bg-bg border border-borderColor rounded-lg"
           >
             <div className="flex items-center gap-3 mb-6">
@@ -56,12 +49,9 @@ export default function SolarWater() {
                 </li>
               ))}
             </ul>
-          </motion.div>
+          </div>
 
-          <motion.div
-            initial={{ opacity: 0, x: 20 }}
-            animate={{ opacity: 1, x: 0 }}
-            transition={{ duration: 0.8 }}
+          <div
             className="p-8 bg-bg border border-borderColor rounded-lg"
           >
             <div className="flex items-center gap-3 mb-6">
@@ -78,13 +68,10 @@ export default function SolarWater() {
                 </li>
               ))}
             </ul>
-          </motion.div>
+          </div>
         </div>
 
-        <motion.div
-          initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.8, delay: 0.2 }}
+        <div
           className="mt-12 p-6 bg-accent/5 border border-accent/30 rounded-lg text-center"
         >
           <p className="text-textSecondary">
@@ -94,7 +81,7 @@ export default function SolarWater() {
             </a>
             {' '}provides precision mapping and 3D terrain modeling.
           </p>
-        </motion.div>
+        </div>
       </div>
     </section>
   );

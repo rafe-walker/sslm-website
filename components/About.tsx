@@ -1,16 +1,12 @@
 'use client';
 
-import { motion } from 'framer-motion';
 import { Shield } from 'lucide-react';
 
 export default function About() {
   return (
     <section id="about" className="py-20 px-4 sm:px-6 lg:px-8 bg-bgCard/50">
       <div className="max-w-4xl mx-auto">
-        <motion.div
-          initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.8 }}
+        <div
         >
           <h2 className="text-3xl sm:text-4xl font-bold mb-8 text-center">Our Story</h2>
           <div className="prose prose-invert max-w-none space-y-6 text-textSecondary leading-relaxed">
@@ -34,7 +30,7 @@ export default function About() {
               </div>
             </div>
           </div>
-        </motion.div>
+        </div>
       </div>
     </section>
   );

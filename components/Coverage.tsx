@@ -1,7 +1,5 @@
 'use client';
 
-import { motion } from 'framer-motion';
-
 const coverageAreas = {
   primary: ['Cochise', 'Sunsites', 'Pearce', 'Willcox', 'Dragoon', 'Benson'],
   extended: ['Sierra Vista', 'Tombstone', 'Bisbee', 'Douglas', 'St. David'],
@@ -11,10 +9,7 @@ export default function Coverage() {
   return (
     <section id="coverage" className="py-20 px-4 sm:px-6 lg:px-8">
       <div className="max-w-4xl mx-auto">
-        <motion.div
-          initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.8 }}
+        <div
           className="p-8 bg-bgCard border border-borderColor rounded-lg"
         >
           <h2 className="text-2xl sm:text-3xl font-bold mb-6">Service Area</h2>
@@ -41,7 +36,7 @@ export default function Coverage() {
               </p>
             </div>
           </div>
-        </motion.div>
+        </div>
       </div>
     </section>
   );

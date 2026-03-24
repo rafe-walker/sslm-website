@@ -1,6 +1,5 @@
 'use client';
 
-import { motion } from 'framer-motion';
 import Link from 'next/link';
 import { BookOpen, ArrowRight } from 'lucide-react';
 
@@ -8,10 +7,7 @@ export default function BlogPreview() {
   return (
     <section className="py-20 px-4 sm:px-6 lg:px-8">
       <div className="max-w-4xl mx-auto">
-        <motion.div
-          initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.8 }}
+        <div
           className="text-center mb-16"
         >
           <div className="flex items-center justify-center gap-2 mb-4">
@@ -23,13 +19,10 @@ export default function BlogPreview() {
           <p className="text-textSecondary text-lg max-w-2xl mx-auto">
             Expert guides on off-grid solar systems, land clearing, water management, and sustainable rural property development.
           </p>
-        </motion.div>
+        </div>
 
         <div className="grid md:grid-cols-2 gap-8 mb-8">
-          <motion.article
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.8, delay: 0.1 }}
+          <article
             className="bg-bgCard border border-sage-green/20 rounded-xl p-6 hover:border-sage-green/40 transition-all duration-300 group cursor-pointer hover:shadow-lg hover:shadow-sage-green/10"
           >
             <Link href="/blog/off-grid-solar-sizing-guide" className="block h-full">
@@ -49,12 +42,9 @@ export default function BlogPreview() {
                 </div>
               </div>
             </Link>
-          </motion.article>
+          </article>
 
-          <motion.article
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.8, delay: 0.2 }}
+          <article
             className="bg-bgCard border border-sage-green/20 rounded-xl p-6 hover:border-sage-green/40 transition-all duration-300 group cursor-pointer hover:shadow-lg hover:shadow-sage-green/10"
           >
             <Link href="/blog/off-grid-land-clearing-checklist" className="block h-full">
@@ -74,13 +64,10 @@ export default function BlogPreview() {
                 </div>
               </div>
             </Link>
-          </motion.article>
+          </article>
         </div>
 
-        <motion.div
-          initial={{ opacity: 0, y: 10 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.6, delay: 0.3 }}
+        <div
           className="text-center"
         >
           <Link
@@ -90,7 +77,7 @@ export default function BlogPreview() {
             View all articles
             <ArrowRight className="w-4 h-4" />
           </Link>
-        </motion.div>
+        </div>
       </div>
     </section>
   );

@@ -1,6 +1,5 @@
 'use client';
 
-import { motion } from 'framer-motion';
 import { Trees, Layers, Shovel, Truck, Sun, Droplets } from 'lucide-react';
 
 const services = [
@@ -40,27 +39,21 @@ export default function Services() {
   return (
     <section id="services" className="py-20 px-4 sm:px-6 lg:px-8 bg-bgCard/50">
       <div className="max-w-7xl mx-auto">
-        <motion.div
-          initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.8 }}
+        <div
           className="text-center mb-16"
         >
           <h2 className="text-3xl sm:text-4xl font-bold mb-4">Our Services</h2>
           <p className="text-textSecondary max-w-2xl mx-auto">
             Complete solutions for rural properties. Everything you need to build and maintain your off-grid homestead.
           </p>
-        </motion.div>
+        </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           {services.map((service, index) => {
             const IconComponent = service.icon;
             return (
-              <motion.div
+              <div
                 key={index}
-                initial={{ opacity: 0, y: 20 }}
-                animate={{ opacity: 1, y: 0 }}
-                transition={{ duration: 0.8, delay: index * 0.1 }}
                 className="card-hover p-6 bg-bg border border-borderColor rounded-lg"
               >
                 <div className="w-12 h-12 bg-accent/10 rounded-lg flex items-center justify-center mb-4">
@@ -68,7 +61,7 @@ export default function Services() {
                 </div>
                 <h3 className="text-lg font-bold mb-3">{service.title}</h3>
                 <p className="text-textSecondary text-sm leading-relaxed">{service.description}</p>
-              </motion.div>
+              </div>
             );
           })}
         </div>
