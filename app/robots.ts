@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: '*',
       allow: '/',
     },
-    sitemap: 'https://cochiselandmanagement.com/sitemap.xml',
+    sitemap: 'https://sulfurspringslandmanagement.com/sitemap.xml',
   }
 }

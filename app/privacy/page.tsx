@@ -52,7 +52,7 @@ export default function PrivacyPolicy() {
         <motion.section variants={itemVariants} className="mb-12">
           <h2 className="text-2xl font-bold mb-4 text-accent">1. Introduction</h2>
           <p className="text-textSecondary leading-relaxed mb-4">
-            Cochise Land Management ("we," "us," "our," or "Company"), owned and operated by Stormhaven Enterprises LLC, is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website and use our services.
+            Sulfur Springs Land Management ("we," "us," "our," or "Company"), owned and operated by Stormhaven Enterprises LLC, is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website and use our services.
           </p>
           <p className="text-textSecondary leading-relaxed">
             Please read this Privacy Policy carefully. If you do not agree with our policies and practices, please do not use our website or services.
@@ -102,7 +102,7 @@ export default function PrivacyPolicy() {
         <motion.section variants={itemVariants} className="mb-12">
           <h2 className="text-2xl font-bold mb-4 text-accent">4. How We Protect Your Information</h2>
           <p className="text-textSecondary leading-relaxed mb-4">
-            Cochise Land Management takes reasonable measures to protect your personal information from unauthorized access, alteration, disclosure, or destruction. However, no method of transmission over the internet is 100% secure. We cannot guarantee absolute security of your information.
+            Sulfur Springs Land Management takes reasonable measures to protect your personal information from unauthorized access, alteration, disclosure, or destruction. However, no method of transmission over the internet is 100% secure. We cannot guarantee absolute security of your information.
           </p>
           <p className="text-textSecondary leading-relaxed">
             All property assessment data and contact information are treated as confidential and are used only for the purposes outlined in this Privacy Policy.
@@ -134,7 +134,7 @@ export default function PrivacyPolicy() {
             <li>The right to opt-out of marketing communications</li>
           </ul>
           <p className="text-textSecondary leading-relaxed mt-4">
-            To exercise any of these rights, please contact us at inquiries@cochiselandmanagement.com.
+            To exercise any of these rights, please contact us at inquiries@sulfurspringslandmanagement.com.
           </p>
         </motion.section>
 
@@ -172,18 +172,18 @@ export default function PrivacyPolicy() {
             If you have questions about this Privacy Policy or our privacy practices, please contact us at:
           </p>
           <div className="bg-bgCard border border-borderColor p-6 rounded-lg">
-            <p className="font-bold text-accent mb-2">Cochise Land Management</p>
+            <p className="font-bold text-accent mb-2">Sulfur Springs Land Management</p>
             <p className="text-textSecondary mb-1">A Stormhaven Enterprises LLC Company</p>
             <p className="text-textSecondary mb-1">Cochise County, Arizona</p>
-            <p className="text-textSecondary mb-1">Email: inquiries@cochiselandmanagement.com</p>
-            <p className="text-textSecondary">Web: cochiselandmanagement.com</p>
+            <p className="text-textSecondary mb-1">Email: inquiries@sulfurspringslandmanagement.com</p>
+            <p className="text-textSecondary">Web: sulfurspringslandmanagement.com</p>
           </div>
         </motion.section>
 
         <motion.section variants={itemVariants} className="mb-12">
           <h2 className="text-2xl font-bold mb-4 text-accent">12. Changes to This Policy</h2>
           <p className="text-textSecondary leading-relaxed">
-            Cochise Land Management may update this Privacy Policy from time to time to reflect changes in our practices or for other operational, legal, or regulatory reasons. We will notify you of any material changes by posting the updated Privacy Policy on our website and updating the effective date. Your continued use of our website after such modifications constitutes your acknowledgment and acceptance of the updated Privacy Policy.
+            Sulfur Springs Land Management may update this Privacy Policy from time to time to reflect changes in our practices or for other operational, legal, or regulatory reasons. We will notify you of any material changes by posting the updated Privacy Policy on our website and updating the effective date. Your continued use of our website after such modifications constitutes your acknowledgment and acceptance of the updated Privacy Policy.
           </p>
         </motion.section>
 

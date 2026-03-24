@@ -19,7 +19,7 @@ export const blogPosts: BlogPost[] = [
     title: 'Off-Grid Solar System Sizing Guide for Cochise County',
     description: 'Learn how to size a solar system for off-grid living in Arizona, including sun hours, battery calculations, and cost estimates for starter, standard, and premium systems.',
     date: '2026-03-20',
-    author: 'Cochise Land Management',
+    author: 'Sulfur Springs Land Management',
     readTime: '10 min read',
     category: 'Off-Grid Living',
     keywords: ['off-grid solar Arizona', 'solar system sizing', 'Cochise County solar', 'off-grid power system', 'Arizona solar installation'],
@@ -157,11 +157,11 @@ export const blogPosts: BlogPost[] = [
 
         <h3>Getting Started with Off-Grid Solar in Cochise County</h3>
 
-        <p>If you're considering going off-grid in Cochise County, the first step is a thorough assessment: review past electricity usage, map your property for solar potential, and evaluate loads realistically. Cochise Land Management can help with land clearing and grading to optimize panel placement, and we work with qualified solar installers to design systems matched to your property and needs.</p>
+        <p>If you're considering going off-grid in Cochise County, the first step is a thorough assessment: review past electricity usage, map your property for solar potential, and evaluate loads realistically. Sulfur Springs Land Management can help with land clearing and grading to optimize panel placement, and we work with qualified solar installers to design systems matched to your property and needs.</p>
 
         <p>Off-grid living offers independence, but success requires proper design and realistic expectations. The good news is Cochise County's excellent solar resources make off-grid living more practical and affordable than in most US locations.</p>
 
-        <p><strong>Contact Cochise Land Management to assess your property for off-grid solar potential.</strong></p>
+        <p><strong>Contact Sulfur Springs Land Management to assess your property for off-grid solar potential.</strong></p>
       </div>
     `,
   },
@@ -171,7 +171,7 @@ export const blogPosts: BlogPost[] = [
     title: 'Preparing Your Off-Grid Property: Land Clearing Checklist',
     description: 'Complete step-by-step checklist for preparing off-grid land, including site survey, vegetation clearing, grading, driveway creation, drainage, utility trenching, septic, and water placement.',
     date: '2026-03-20',
-    author: 'Cochise Land Management',
+    author: 'Sulfur Springs Land Management',
     readTime: '8 min read',
     category: 'Land Preparation',
     keywords: ['land clearing Arizona', 'off-grid property prep', 'desert land clearing', 'Cochise County land management', 'rural property clearing'],
@@ -320,9 +320,9 @@ export const blogPosts: BlogPost[] = [
 
         <h3>Getting Started</h3>
 
-        <p>Cochise Land Management specializes in off-grid property preparation. We handle site assessment, clearing, grading, drainage design, and infrastructure development. Our team understands Cochise County conditions and helps you navigate common challenges. Proper site preparation is the foundation for successful off-grid living.</p>
+        <p>Sulfur Springs Land Management specializes in off-grid property preparation. We handle site assessment, clearing, grading, drainage design, and infrastructure development. Our team understands Cochise County conditions and helps you navigate common challenges. Proper site preparation is the foundation for successful off-grid living.</p>
 
-        <p><strong>Contact Cochise Land Management to assess your off-grid property and develop a preparation plan.</strong></p>
+        <p><strong>Contact Sulfur Springs Land Management to assess your off-grid property and develop a preparation plan.</strong></p>
       </div>
     `,
   },
@@ -370,7 +370,7 @@ export const blogPosts: BlogPost[] = [
       <p>The most resilient off-grid water setups combine two or more sources. Our recommended approach for Cochise County properties is to start with hauled water and a 3,000-gallon tank for immediate water access, add a rainwater collection system when your roof structure is in place, and plan for a well as a long-term investment when budget allows.</p>
       <p>This layered approach gives you water on day one while building toward full independence. Each system backs up the others, so a delayed water delivery or a dry monsoon season never leaves you without water.</p>
 
-      <h2>What Cochise Land Management Provides</h2>
+      <h2>What Sulfur Springs Land Management Provides</h2>
       <p>We handle the heavy infrastructure for your water system. Our services include tank pad grading and preparation for stable tank placement, trenching for water lines from tank to house with proper burial depth, large tank delivery and setup for tanks up to 3,000 gallons and above, pump system installation including demand pumps and pressure tanks, and connection to your existing or new plumbing.</p>
       <p>We work with local well drillers and plumbers to coordinate the full installation, so you have a single point of contact for your entire water system project.</p>
 

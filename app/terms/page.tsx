@@ -52,7 +52,7 @@ export default function TermsOfService() {
         <motion.section variants={itemVariants} className="mb-12">
           <h2 className="text-2xl font-bold mb-4 text-accent">1. Agreement to Terms</h2>
           <p className="text-textSecondary leading-relaxed">
-            These Terms of Service ("Terms") constitute a legal agreement between you and Cochise Land Management, a business operated by Stormhaven Enterprises LLC. By accessing our website, requesting services, or accepting a free estimate, you agree to be bound by these Terms. If you do not agree with any part of these Terms, you may not use our website or services.
+            These Terms of Service ("Terms") constitute a legal agreement between you and Sulfur Springs Land Management, a business operated by Stormhaven Enterprises LLC. By accessing our website, requesting services, or accepting a free estimate, you agree to be bound by these Terms. If you do not agree with any part of these Terms, you may not use our website or services.
           </p>
         </motion.section>
 
@@ -77,7 +77,7 @@ export default function TermsOfService() {
             <div>
               <h3 className="font-bold text-lg mb-2">Estimate Accuracy</h3>
               <p className="text-textSecondary leading-relaxed">
-                All free estimates provided by Cochise Land Management are good-faith assessments based on the information you provide and our on-site inspection (if applicable). Estimates may change based on:
+                All free estimates provided by Sulfur Springs Land Management are good-faith assessments based on the information you provide and our on-site inspection (if applicable). Estimates may change based on:
               </p>
               <ul className="list-disc list-inside text-textSecondary mt-2 space-y-1">
                 <li>Discovery of unexpected site conditions during work</li>
@@ -95,7 +95,7 @@ export default function TermsOfService() {
             <div>
               <h3 className="font-bold text-lg mb-2">Property Access</h3>
               <p className="text-textSecondary leading-relaxed">
-                For on-site assessments, you grant Cochise Land Management permission to access your property and assess conditions relevant to the requested services. You remain responsible for any hazards on your property and for providing safe access.
+                For on-site assessments, you grant Sulfur Springs Land Management permission to access your property and assess conditions relevant to the requested services. You remain responsible for any hazards on your property and for providing safe access.
               </p>
             </div>
           </div>
@@ -107,7 +107,7 @@ export default function TermsOfService() {
             <div>
               <h3 className="font-bold text-lg mb-2">Work Description</h3>
               <p className="text-textSecondary leading-relaxed">
-                All work performed by Cochise Land Management shall be described in a written work agreement or contract. Only work explicitly described in the agreement is included. Any additional work must be requested in writing and approved by both parties before execution.
+                All work performed by Sulfur Springs Land Management shall be described in a written work agreement or contract. Only work explicitly described in the agreement is included. Any additional work must be requested in writing and approved by both parties before execution.
               </p>
             </div>
             <div>
@@ -119,7 +119,7 @@ export default function TermsOfService() {
             <div>
               <h3 className="font-bold text-lg mb-2">Timelines</h3>
               <p className="text-textSecondary leading-relaxed">
-                While we strive to meet all project timelines, Cochise Land Management is not liable for delays caused by weather, unforeseen site conditions, equipment failure, or circumstances beyond our reasonable control. We will communicate any anticipated delays as soon as possible.
+                While we strive to meet all project timelines, Sulfur Springs Land Management is not liable for delays caused by weather, unforeseen site conditions, equipment failure, or circumstances beyond our reasonable control. We will communicate any anticipated delays as soon as possible.
               </p>
             </div>
           </div>
@@ -131,13 +131,13 @@ export default function TermsOfService() {
             <div>
               <h3 className="font-bold text-lg mb-2">Equipment Operation</h3>
               <p className="text-textSecondary leading-relaxed">
-                All equipment used by Cochise Land Management is operated by trained personnel in accordance with manufacturer specifications and applicable safety regulations. You are responsible for identifying any hazards on your property (utilities, structures, etc.) that may be affected by our work.
+                All equipment used by Sulfur Springs Land Management is operated by trained personnel in accordance with manufacturer specifications and applicable safety regulations. You are responsible for identifying any hazards on your property (utilities, structures, etc.) that may be affected by our work.
               </p>
             </div>
             <div>
               <h3 className="font-bold text-lg mb-2">Property Hazards</h3>
               <p className="text-textSecondary leading-relaxed">
-                You must disclose all known hazards on your property, including underground utilities, septic systems, wells, easements, and archaeological sites. Call 811 before digging to locate underground utilities. Cochise Land Management is not responsible for damage to unmarked utilities.
+                You must disclose all known hazards on your property, including underground utilities, septic systems, wells, easements, and archaeological sites. Call 811 before digging to locate underground utilities. Sulfur Springs Land Management is not responsible for damage to unmarked utilities.
               </p>
             </div>
             <div>
@@ -155,7 +155,7 @@ export default function TermsOfService() {
             <div>
               <h3 className="font-bold text-lg mb-2">Property Damage</h3>
               <p className="text-textSecondary leading-relaxed">
-                Cochise Land Management will exercise reasonable care to protect your property and nearby structures. However, you acknowledge that land clearing, grading, excavation, and equipment operation carry inherent risks. You are responsible for:
+                Sulfur Springs Land Management will exercise reasonable care to protect your property and nearby structures. However, you acknowledge that land clearing, grading, excavation, and equipment operation carry inherent risks. You are responsible for:
               </p>
               <ul className="list-disc list-inside text-textSecondary mt-2 space-y-1">
                 <li>Disclosing all property boundaries and easements</li>
@@ -166,13 +166,13 @@ export default function TermsOfService() {
             <div>
               <h3 className="font-bold text-lg mb-2">Warranty Disclaimer</h3>
               <p className="text-textSecondary leading-relaxed">
-                Services are provided on an "as-is" basis. Cochise Land Management makes no warranty, express or implied, regarding the results of its services or the durability of completed work. All work is subject to normal wear and maintenance responsibilities of the property owner.
+                Services are provided on an "as-is" basis. Sulfur Springs Land Management makes no warranty, express or implied, regarding the results of its services or the durability of completed work. All work is subject to normal wear and maintenance responsibilities of the property owner.
               </p>
             </div>
             <div>
               <h3 className="font-bold text-lg mb-2">Limitation of Liability</h3>
               <p className="text-textSecondary leading-relaxed">
-                Cochise Land Management's liability for any claim arising from our services is limited to the amount paid for the service in question. We are not liable for indirect, consequential, or punitive damages.
+                Sulfur Springs Land Management's liability for any claim arising from our services is limited to the amount paid for the service in question. We are not liable for indirect, consequential, or punitive damages.
               </p>
             </div>
           </div>
@@ -181,7 +181,7 @@ export default function TermsOfService() {
         <motion.section variants={itemVariants} className="mb-12">
           <h2 className="text-2xl font-bold mb-4 text-accent">7. Insurance and Permits</h2>
           <p className="text-textSecondary leading-relaxed mb-4">
-            Cochise Land Management maintains appropriate business insurance. Depending on the scope of work, applicable permits or certifications may be required. You are responsible for:
+            Sulfur Springs Land Management maintains appropriate business insurance. Depending on the scope of work, applicable permits or certifications may be required. You are responsible for:
           </p>
           <ul className="list-disc list-inside text-textSecondary space-y-2">
             <li>Obtaining all necessary local, county, and state permits</li>
@@ -200,7 +200,7 @@ export default function TermsOfService() {
             <div>
               <h3 className="font-bold text-lg mb-2">System Design</h3>
               <p className="text-textSecondary leading-relaxed">
-                Solar and water system designs are based on your stated needs, site assessment, and available resources. System performance may vary based on weather, usage patterns, maintenance, and other factors. Cochise Land Management is not responsible for system underperformance due to user modifications, lack of maintenance, or changes in usage.
+                Solar and water system designs are based on your stated needs, site assessment, and available resources. System performance may vary based on weather, usage patterns, maintenance, and other factors. Sulfur Springs Land Management is not responsible for system underperformance due to user modifications, lack of maintenance, or changes in usage.
               </p>
             </div>
             <div>
@@ -252,7 +252,7 @@ export default function TermsOfService() {
         <motion.section variants={itemVariants} className="mb-12">
           <h2 className="text-2xl font-bold mb-4 text-accent">11. Disclaimers</h2>
           <p className="text-textSecondary leading-relaxed mb-4">
-            Cochise Land Management provides services "as-is" and "as available." We make no warranties regarding:
+            Sulfur Springs Land Management provides services "as-is" and "as available." We make no warranties regarding:
           </p>
           <ul className="list-disc list-inside text-textSecondary space-y-2">
             <li>The accuracy of estimates or advice</li>
@@ -265,7 +265,7 @@ export default function TermsOfService() {
         <motion.section variants={itemVariants} className="mb-12">
           <h2 className="text-2xl font-bold mb-4 text-accent">12. Indemnification</h2>
           <p className="text-textSecondary leading-relaxed">
-            You agree to indemnify, defend, and hold harmless Cochise Land Management, Stormhaven Enterprises LLC, and their respective officers, employees, and agents from any and all claims, damages, losses, liabilities, and expenses (including legal fees) arising from your use of our services, violation of these Terms, or breach of any agreement with us.
+            You agree to indemnify, defend, and hold harmless Sulfur Springs Land Management, Stormhaven Enterprises LLC, and their respective officers, employees, and agents from any and all claims, damages, losses, liabilities, and expenses (including legal fees) arising from your use of our services, violation of these Terms, or breach of any agreement with us.
           </p>
         </motion.section>
 
@@ -286,7 +286,7 @@ export default function TermsOfService() {
         <motion.section variants={itemVariants} className="mb-12">
           <h2 className="text-2xl font-bold mb-4 text-accent">15. Modification of Terms</h2>
           <p className="text-textSecondary leading-relaxed">
-            Cochise Land Management may modify these Terms at any time. Changes are effective immediately upon posting to our website. Your continued use of our website or services after modifications constitutes acceptance of the updated Terms.
+            Sulfur Springs Land Management may modify these Terms at any time. Changes are effective immediately upon posting to our website. Your continued use of our website or services after modifications constitutes acceptance of the updated Terms.
           </p>
         </motion.section>
 
@@ -296,11 +296,11 @@ export default function TermsOfService() {
             For questions about these Terms of Service, please contact us:
           </p>
           <div className="bg-bgCard border border-borderColor p-6 rounded-lg">
-            <p className="font-bold text-accent mb-2">Cochise Land Management</p>
+            <p className="font-bold text-accent mb-2">Sulfur Springs Land Management</p>
             <p className="text-textSecondary mb-1">A Stormhaven Enterprises LLC Company</p>
             <p className="text-textSecondary mb-1">Cochise County, Arizona</p>
-            <p className="text-textSecondary mb-1">Email: inquiries@cochiselandmanagement.com</p>
-            <p className="text-textSecondary">Web: cochiselandmanagement.com</p>
+            <p className="text-textSecondary mb-1">Email: inquiries@sulfurspringslandmanagement.com</p>
+            <p className="text-textSecondary">Web: sulfurspringslandmanagement.com</p>
           </div>
         </motion.section>
 

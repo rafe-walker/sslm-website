@@ -1,7 +1,7 @@
-# Cochise Land Management Website - Complete File Index
+# Sulfur Springs Land Management Website - Complete File Index
 
 ## Project Overview
-A complete, production-ready Next.js 15 landing website for Cochise Land Management, a veteran-owned rural land services company in Cochise County, Arizona.
+A complete, production-ready Next.js 15 landing website for Sulfur Springs Land Management, a veteran-owned rural land services company in Cochise County, Arizona.
 
 **Location:** `/sessions/adoring-trusting-feynman/mnt/Documents/clm-website/`
 

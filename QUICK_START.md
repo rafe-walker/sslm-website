@@ -1,4 +1,4 @@
-# Cochise Land Management - Quick Start Guide
+# Sulfur Springs Land Management - Quick Start Guide
 
 ## Installation (5 minutes)
 
@@ -222,4 +222,4 @@ For form handling, you may need:
 
 **Version**: 1.0.0
 **Created**: March 20, 2026
-**Project**: Cochise Land Management Website
+**Project**: Sulfur Springs Land Management Website

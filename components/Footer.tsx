@@ -13,7 +13,7 @@ export default function Footer() {
                 <Mountain className="w-5 h-5 text-bg" />
               </div>
               <div>
-                <div className="text-xs font-bold tracking-wider text-accent">COCHISE</div>
+                <div className="text-xs font-bold tracking-wider text-accent">SULFUR SPRINGS</div>
                 <div className="text-xs tracking-wider text-textSecondary">LAND MANAGEMENT</div>
               </div>
             </div>
@@ -46,7 +46,7 @@ export default function Footer() {
           <div>
             <h4 className="font-bold mb-4 text-sm">Contact</h4>
             <ul className="space-y-2 text-sm text-textSecondary">
-              <li><a href="mailto:inquiries@cochiselandmanagement.com" className="hover:text-accent transition-colors">inquiries@cochiselandmanagement.com</a></li>
+              <li><a href="mailto:inquiries@sulfurspringslandmanagement.com" className="hover:text-accent transition-colors">inquiries@sulfurspringslandmanagement.com</a></li>
               <li><a href="tel:+15204025877" className="hover:text-accent transition-colors">(520) 402-5877</a></li>
               <li><span>Cochise County, AZ</span></li>
               <li className="pt-2"><a href="https://strongholdprecisionaerials.com" target="_blank" rel="noopener noreferrer" className="text-xs text-accent hover:text-accentLight transition-colors font-bold">Stronghold Precision Aerials</a></li>
@@ -56,7 +56,7 @@ export default function Footer() {
 
         <div className="border-t border-borderColor pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-textSecondary">
-            <p>&copy; 2026 Cochise Land Management. All rights reserved.</p>
+            <p>&copy; 2026 Sulfur Springs Land Management. All rights reserved.</p>
             <p>A Stormhaven Enterprises LLC Company</p>
           </div>
         </div>

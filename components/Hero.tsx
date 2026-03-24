@@ -37,7 +37,7 @@ export default function Hero() {
         <p
           className="text-lg sm:text-xl text-textSecondary mb-8 max-w-2xl mx-auto leading-relaxed"
         >
-          Full-service land management for rural Cochise County. From raw desert to livable homestead — clearing, grading, solar, water, and everything in between.
+          Full-service land management for the Sulfur Springs Valley and rural Cochise County. From raw desert to livable homestead — clearing, grading, solar, water, and everything in between.
         </p>
 
         <div

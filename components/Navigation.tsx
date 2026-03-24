@@ -28,7 +28,7 @@ export default function Navigation() {
               <Mountain className="w-5 h-5 text-bg" />
             </div>
             <div className="hidden sm:block">
-              <div className="text-xs font-bold tracking-wider text-accent">COCHISE</div>
+              <div className="text-xs font-bold tracking-wider text-accent">SULFUR SPRINGS</div>
               <div className="text-xs tracking-wider text-textSecondary">LAND MANAGEMENT</div>
             </div>
           </div>

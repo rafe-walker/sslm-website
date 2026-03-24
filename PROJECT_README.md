@@ -1,8 +1,8 @@
-# Cochise Land Management - Next.js 15 Landing Website
+# Sulfur Springs Land Management - Next.js 15 Landing Website
 
 ## Project Overview
 
-Complete, production-ready Next.js 15 landing website for Cochise Land Management (CLM), a veteran-owned rural land services company in Cochise County, Arizona.
+Complete, production-ready Next.js 15 landing website for Sulfur Springs Land Management (CLM), a veteran-owned rural land services company in Cochise County, Arizona.
 
 ## Directory Structure
 
@@ -139,12 +139,12 @@ npm start
 ## Company Information
 
 **Business Details**:
-- Company: Cochise Land Management
+- Company: Sulfur Springs Land Management
 - Parent: Stormhaven Enterprises LLC
 - Owner: Joshua (US military veteran)
 - Location: Cochise County, Arizona (Sulphur Springs Valley)
-- Domain: cochiselandmanagement.com
-- Email: inquiries@cochiselandmanagement.com
+- Domain: sulfurspringslandmanagement.com
+- Email: inquiries@sulfurspringslandmanagement.com
 - Sister Company: Stronghold Precision Aerials (aerial surveying/mapping)
 
 **Veteran Status**: Prominently featured throughout the site with Shield icon and badge
@@ -218,7 +218,7 @@ npm start
 
 ## License
 
-All rights reserved © 2026 Cochise Land Management
+All rights reserved © 2026 Sulfur Springs Land Management
 
 ## Notes
 

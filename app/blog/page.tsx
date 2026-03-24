@@ -13,7 +13,7 @@ export default function BlogPage() {
         <div className="max-w-7xl mx-auto px-4 md:px-8 flex items-center justify-between h-16">
           <Link href="/" className="flex items-center gap-2 hover:opacity-80 transition">
             <Mountain className="w-8 h-8 text-sage-green" />
-            <span className="text-lg font-bold">Cochise Land Management</span>
+            <span className="text-lg font-bold">Sulfur Springs Land Management</span>
           </Link>
           <Link href="/" className="text-textPrimary hover:text-sage-green transition">
             ← Back Home
@@ -38,7 +38,7 @@ export default function BlogPage() {
               </h1>
             </div>
             <p className="text-xl text-textPrimary/80">
-              Expert guides on off-grid solar systems, land clearing, water management, and sustainable rural property development in Cochise County.
+              Expert guides on off-grid solar systems, land clearing, water management, and sustainable rural property development in the Sulfur Springs Valley and Cochise County.
             </p>
           </motion.div>
 
@@ -104,14 +104,14 @@ export default function BlogPage() {
             Ready to Prepare Your <span className="text-sage-green">Property?</span>
           </h2>
           <p className="text-textPrimary/80 mb-8">
-            Whether you need land clearing, grading, solar system consultation, or complete off-grid property development, Cochise Land Management is here to help.
+            Whether you need land clearing, grading, solar system consultation, or complete off-grid property development, Sulfur Springs Land Management is here to help.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
               href="/#contact"
               className="bg-sage-green text-bg font-semibold px-6 py-3 rounded-lg transition-all hover:shadow-lg hover:shadow-sage-green/30 inline-flex items-center justify-center gap-2"
             >
-              Contact CLM for a Consultation
+              Contact SSLM for a Consultation
               <ArrowRight className="w-4 h-4" />
             </a>
           </div>
@@ -121,7 +121,7 @@ export default function BlogPage() {
       {/* Footer */}
       <footer className="bg-bg/50 border-t border-sage-green/10 py-8 px-4">
         <div className="max-w-7xl mx-auto text-center text-textPrimary/60 text-sm">
-          <p>&copy; 2026 Cochise Land Management. All rights reserved. | <Link href="/privacy" className="hover:text-sage-green">Privacy</Link> | <Link href="/terms" className="hover:text-sage-green">Terms</Link></p>
+          <p>&copy; 2026 Sulfur Springs Land Management. All rights reserved. | <Link href="/privacy" className="hover:text-sage-green">Privacy</Link> | <Link href="/terms" className="hover:text-sage-green">Terms</Link></p>
         </div>
       </footer>
     </div>

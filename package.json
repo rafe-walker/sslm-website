@@ -1,7 +1,7 @@
 {
-  "name": "cochise-land-management",
+  "name": "sulfur-springs-land-management",
   "version": "1.0.0",
-  "description": "Cochise Land Management - Veteran-owned rural land services",
+  "description": "Sulfur Springs Land Management - Veteran-owned rural land services",
   "private": true,
   "scripts": {
     "dev": "next dev",

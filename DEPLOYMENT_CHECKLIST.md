@@ -1,10 +1,10 @@
-# Cochise Land Management Website - Deployment Checklist
+# Sulfur Springs Land Management Website - Deployment Checklist
 
 ## Pre-Deployment Setup
 
 - [ ] Review all content for accuracy and branding
 - [ ] Update contact phone number (currently placeholder)
-- [ ] Update email addresses if different from inquiries@cochiselandmanagement.com
+- [ ] Update email addresses if different from inquiries@sulfurspringslandmanagement.com
 - [ ] Verify Stronghold Precision Aerials link is correct
 - [ ] Review privacy policy and terms for your specific needs
 - [ ] Set up domain DNS records pointing to deployment
@@ -158,6 +158,6 @@ If issues occur post-deployment:
 
 ---
 
-**Project**: Cochise Land Management Website
+**Project**: Sulfur Springs Land Management Website
 **Created**: March 20, 2026
 **Version**: 1.0.0

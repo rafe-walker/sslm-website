@@ -169,7 +169,7 @@ export default function Contact() {
           <div className="p-4 bg-bgCard border border-borderColor rounded-lg">
             <Mail size={20} className="w-5 h-5 text-accent mx-auto mb-2" />
             <p className="text-sm text-textSecondary mb-1">Email us</p>
-            <a href="mailto:inquiries@cochiselandmanagement.com" className="text-accent font-bold hover:text-accentLight">inquiries@cochiselandmanagement.com</a>
+            <a href="mailto:inquiries@sulfurspringslandmanagement.com" className="text-accent font-bold hover:text-accentLight">inquiries@sulfurspringslandmanagement.com</a>
           </div>
         </div>
       </div>

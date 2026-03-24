@@ -17,7 +17,7 @@ export default function OffGridSpecialists() {
         >
           <h2 className="text-3xl sm:text-4xl font-bold mb-6">The Off-Grid Specialists</h2>
           <p className="text-lg text-textSecondary leading-relaxed max-w-3xl mx-auto">
-            Most land service companies are built for subdivisions and city lots. We&apos;re built for the real Cochise County — the RU-4 parcels, the off-grid homesteads, the raw desert that needs to become home. We live out here too, and we know what it takes to build a life off the grid.
+            Most land service companies are built for subdivisions and city lots. We&apos;re built for the real Sulfur Springs Valley — the RU-4 parcels, the off-grid homesteads, the raw desert that needs to become home. We live out here too, and we know what it takes to build a life off the grid.
           </p>
         </div>
 

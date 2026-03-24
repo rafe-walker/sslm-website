@@ -37,7 +37,7 @@ export default function BlogPostPage() {
         <div className="max-w-7xl mx-auto px-4 md:px-8 flex items-center justify-between h-16">
           <Link href="/" className="flex items-center gap-2 hover:opacity-80 transition">
             <Mountain className="w-8 h-8 text-sage-green" />
-            <span className="text-lg font-bold">Cochise Land Management</span>
+            <span className="text-lg font-bold">Sulfur Springs Land Management</span>
           </Link>
           <Link
             href="/blog"
@@ -56,12 +56,12 @@ export default function BlogPostPage() {
           '@type': 'Article',
           headline: post.title,
           description: post.description,
-          image: `https://cochiselandmanagement.com${post.featuredImage}`,
+          image: `https://sulfurspringslandmanagement.com${post.featuredImage}`,
           datePublished: post.date,
           dateModified: post.date,
           author: { '@type': 'Person', name: post.author },
-          publisher: { '@type': 'Organization', name: 'Cochise Land Management', url: 'https://cochiselandmanagement.com', logo: { '@type': 'ImageObject', url: 'https://cochiselandmanagement.com/logo.png' } },
-          mainEntityOfPage: { '@type': 'WebPage', '@id': `https://cochiselandmanagement.com/blog/${post.slug}` },
+          publisher: { '@type': 'Organization', name: 'Sulfur Springs Land Management', url: 'https://sulfurspringslandmanagement.com', logo: { '@type': 'ImageObject', url: 'https://sulfurspringslandmanagement.com/logo.png' } },
+          mainEntityOfPage: { '@type': 'WebPage', '@id': `https://sulfurspringslandmanagement.com/blog/${post.slug}` },
           keywords: post.keywords.join(', '),
         }) }} />
         <motion.div
@@ -131,13 +131,13 @@ export default function BlogPostPage() {
                   Ready to Develop Your Land?
                 </h3>
                 <p className="text-textPrimary/80 mb-6">
-                  Cochise Land Management specializes in land clearing, grading, solar system consultation, and comprehensive off-grid property development. Let's turn your land into your dream off-grid property.
+                  Sulfur Springs Land Management specializes in land clearing, grading, solar system consultation, and comprehensive off-grid property development. Let's turn your land into your dream off-grid property.
                 </p>
                 <a
                   href="/#contact"
                   className="bg-sage-green text-bg font-semibold px-6 py-3 rounded-lg transition-all hover:shadow-lg hover:shadow-sage-green/30 inline-block"
                 >
-                  Contact CLM Today
+                  Contact SSLM Today
                 </a>
               </div>
             </div>
@@ -180,7 +180,7 @@ export default function BlogPostPage() {
       {/* Footer */}
       <footer className="bg-bg/50 border-t border-sage-green/10 py-8 px-4">
         <div className="max-w-7xl mx-auto text-center text-textPrimary/60 text-sm">
-          <p>&copy; 2026 Cochise Land Management. All rights reserved. | <Link href="/privacy" className="hover:text-sage-green">Privacy</Link> | <Link href="/terms" className="hover:text-sage-green">Terms</Link></p>
+          <p>&copy; 2026 Sulfur Springs Land Management. All rights reserved. | <Link href="/privacy" className="hover:text-sage-green">Privacy</Link> | <Link href="/terms" className="hover:text-sage-green">Terms</Link></p>
         </div>
       </footer>
     </div>

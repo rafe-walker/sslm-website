@@ -11,7 +11,7 @@ export default function About() {
           <h2 className="text-3xl sm:text-4xl font-bold mb-8 text-center">Our Story</h2>
           <div className="prose prose-invert max-w-none space-y-6 text-textSecondary leading-relaxed">
             <p>
-              Cochise Land Management was born from necessity. When our founder — a 10-year tech industry veteran — moved off-grid in Cochise County to build his own homestead, he discovered that quality land services for rural properties were nearly impossible to find.
+              Sulfur Springs Land Management was born from necessity. When our founder — a 10-year tech industry veteran — moved off-grid in the Sulfur Springs Valley to build his own homestead, he discovered that quality land services for rural properties were nearly impossible to find.
             </p>
             <p>
               The companies that did exist were built for city lots, not 5-acre desert parcels with no utilities. So he built the company he wished existed — one that understands off-grid living because we live it ourselves.
