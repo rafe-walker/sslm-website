@@ -26,7 +26,7 @@ const services = [
     icon: Truck,
     title: 'Bulk Debris & Trash Removal',
     href: '/services/debris-removal',
-    description: 'Haul away construction debris, old materials, abandoned items, and property cleanout waste. We bring the muscle and the trailer â you get a clean property.',
+    description: 'Haul away construction debris, old materials, abandoned items, and property cleanout waste. We bring the muscle and the trailer — you get a clean property.',
   },
   {
     icon: Sun,

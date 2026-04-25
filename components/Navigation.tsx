@@ -17,7 +17,7 @@ export default function Navigation() {
   };
 
   return (
-    <nav className="fixed top-0 w-full bg-bg/95 backdrop-blur-md z-50 border-b border-borderColor">
+    <nav className="fixed top-0 w-full bg-bg/95 backdrop-blur-md z-50 border-b border-borderColor" aria-label="Main navigation">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
           <div
@@ -60,6 +60,9 @@ export default function Navigation() {
           <button
             onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
             className="md:hidden text-accent p-2"
+            aria-label={mobileMenuOpen ? 'Close navigation menu' : 'Open navigation menu'}
+            aria-expanded={mobileMenuOpen}
+            aria-controls="mobile-menu"
           >
             {mobileMenuOpen ? <X size={24} /> : <Menu size={24} />}
           </button>
@@ -67,6 +70,7 @@ export default function Navigation() {
 
         {mobileMenuOpen && (
           <div
+            id="mobile-menu"
             className="md:hidden pb-4 border-t border-borderColor"
           >
             <div className="flex flex-col gap-4 py-4">

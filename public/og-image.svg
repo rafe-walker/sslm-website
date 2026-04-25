@@ -1,0 +1,56 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1200" height="630" fill="#0a0e0b"/>
+
+  <!-- Subtle texture overlay -->
+  <rect width="1200" height="630" fill="url(#grid)" opacity="0.05"/>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#4ade80" stroke-width="0.5"/>
+    </pattern>
+  </defs>
+
+  <!-- Accent bar left -->
+  <rect x="0" y="0" width="6" height="630" fill="#4ade80"/>
+
+  <!-- Mountain silhouette decoration -->
+  <polygon points="900,450 1050,200 1200,450" fill="#4ade80" opacity="0.06"/>
+  <polygon points="980,450 1100,280 1200,380 1200,450" fill="#4ade80" opacity="0.04"/>
+  <polygon points="800,450 950,310 1050,380 1050,450" fill="#4ade80" opacity="0.05"/>
+
+  <!-- Logo mark -->
+  <rect x="80" y="100" width="56" height="56" rx="12" fill="#4ade80"/>
+  <polygon points="108,120 124,140 92,140" fill="#0a0e0b"/>
+  <line x1="108" y1="120" x2="108" y2="112" stroke="#0a0e0b" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Company name -->
+  <text x="80" y="210" font-family="system-ui, -apple-system, sans-serif" font-weight="800" font-size="52" fill="#ffffff" letter-spacing="-1">Sulfur Springs</text>
+  <text x="80" y="272" font-family="system-ui, -apple-system, sans-serif" font-weight="800" font-size="52" fill="#4ade80" letter-spacing="-1">Land Management</text>
+
+  <!-- Tagline -->
+  <text x="80" y="340" font-family="system-ui, -apple-system, sans-serif" font-weight="400" font-size="26" fill="#9ca3af">Your Land. Done Right.</text>
+
+  <!-- Divider line -->
+  <line x1="80" y1="375" x2="600" y2="375" stroke="#4ade80" stroke-width="1" opacity="0.3"/>
+
+  <!-- Service tags -->
+  <rect x="80" y="400" width="160" height="36" rx="18" fill="#4ade80" fill-opacity="0.1" stroke="#4ade80" stroke-width="1" stroke-opacity="0.3"/>
+  <text x="160" y="423" font-family="system-ui, sans-serif" font-size="15" fill="#4ade80" text-anchor="middle">Land Clearing</text>
+
+  <rect x="256" y="400" width="120" height="36" rx="18" fill="#4ade80" fill-opacity="0.1" stroke="#4ade80" stroke-width="1" stroke-opacity="0.3"/>
+  <text x="316" y="423" font-family="system-ui, sans-serif" font-size="15" fill="#4ade80" text-anchor="middle">Grading</text>
+
+  <rect x="392" y="400" width="110" height="36" rx="18" fill="#4ade80" fill-opacity="0.1" stroke="#4ade80" stroke-width="1" stroke-opacity="0.3"/>
+  <text x="447" y="423" font-family="system-ui, sans-serif" font-size="15" fill="#4ade80" text-anchor="middle">Solar</text>
+
+  <rect x="518" y="400" width="110" height="36" rx="18" fill="#4ade80" fill-opacity="0.1" stroke="#4ade80" stroke-width="1" stroke-opacity="0.3"/>
+  <text x="573" y="423" font-family="system-ui, sans-serif" font-size="15" fill="#4ade80" text-anchor="middle">Water</text>
+
+  <!-- Bottom info -->
+  <text x="80" y="530" font-family="system-ui, sans-serif" font-size="18" fill="#6b7280">Cochise County, Arizona  |  Sulfur Springs Valley</text>
+  <text x="80" y="560" font-family="system-ui, sans-serif" font-size="18" fill="#6b7280">sulfurspringslandmanagement.com  |  (520) 402-5877</text>
+
+  <!-- Veteran badge -->
+  <rect x="960" y="510" width="180" height="48" rx="8" fill="#4ade80" fill-opacity="0.1" stroke="#4ade80" stroke-width="1"/>
+  <text x="1050" y="540" font-family="system-ui, sans-serif" font-size="14" font-weight="700" fill="#4ade80" text-anchor="middle" letter-spacing="1">VETERAN OWNED</text>
+</svg>

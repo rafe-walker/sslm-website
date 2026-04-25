@@ -70,81 +70,110 @@ export default function Contact() {
         <form
           onSubmit={handleFormSubmit}
           className="bg-bg border border-borderColor rounded-lg p-8 space-y-6"
+          aria-label="Free estimate request form"
         >
           {formSubmitted && (
             <div
               className="p-4 bg-accent/10 border border-accent text-accent rounded-lg text-sm font-medium"
+              role="alert"
             >
               Thank you! We&apos;ve received your inquiry and will be in touch within 24 hours.
             </div>
           )}
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div>
+              <label htmlFor="name" className="sr-only">Your Name</label>
+              <input
+                id="name"
+                type="text"
+                name="name"
+                value={formData.name}
+                onChange={handleFormChange}
+                placeholder="Your Name"
+                required
+                aria-required="true"
+                className="w-full px-4 py-2 bg-bgCard border border-borderColor text-textPrimary placeholder-textSecondary rounded-lg focus:border-accent focus:outline-none"
+              />
+            </div>
+            <div>
+              <label htmlFor="email" className="sr-only">Email Address</label>
+              <input
+                id="email"
+                type="email"
+                name="email"
+                value={formData.email}
+                onChange={handleFormChange}
+                placeholder="Email Address"
+                required
+                aria-required="true"
+                className="w-full px-4 py-2 bg-bgCard border border-borderColor text-textPrimary placeholder-textSecondary rounded-lg focus:border-accent focus:outline-none"
+              />
+            </div>
+          </div>
+
+          <div>
+            <label htmlFor="phone" className="sr-only">Phone Number</label>
             <input
-              type="text"
-              name="name"
-              value={formData.name}
+              id="phone"
+              type="tel"
+              name="phone"
+              value={formData.phone}
               onChange={handleFormChange}
-              placeholder="Your Name"
-              required
-              className="w-full px-4 py-2 bg-bgCard border border-borderColor text-textPrimary placeholder-textSecondary rounded-lg focus:border-accent focus:outline-none"
-            />
-            <input
-              type="email"
-              name="email"
-              value={formData.email}
-              onChange={handleFormChange}
-              placeholder="Email Address"
-              required
+              placeholder="Phone Number"
               className="w-full px-4 py-2 bg-bgCard border border-borderColor text-textPrimary placeholder-textSecondary rounded-lg focus:border-accent focus:outline-none"
             />
           </div>
 
-          <input
-            type="tel"
-            name="phone"
-            value={formData.phone}
-            onChange={handleFormChange}
-            placeholder="Phone Number"
-            className="w-full px-4 py-2 bg-bgCard border border-borderColor text-textPrimary placeholder-textSecondary rounded-lg focus:border-accent focus:outline-none"
-          />
+          <div>
+            <label htmlFor="serviceType" className="sr-only">Service Type</label>
+            <select
+              id="serviceType"
+              name="serviceType"
+              value={formData.serviceType}
+              onChange={handleFormChange}
+              className="w-full px-4 py-2 bg-bgCard border border-borderColor text-textPrimary rounded-lg focus:border-accent focus:outline-none"
+              aria-label="Select service type"
+            >
+              <option value="Land Clearing">Land Clearing &amp; Brush Removal</option>
+              <option value="Grading">Grading, Driveways &amp; Pad Prep</option>
+              <option value="Trenching">Trenching &amp; Earthwork</option>
+              <option value="Debris">Bulk Debris &amp; Trash Removal</option>
+              <option value="Solar">Solar System Design &amp; Installation</option>
+              <option value="Water">Off-Grid Water Systems</option>
+              <option value="Multiple">Multiple Services</option>
+              <option value="Other">Other</option>
+            </select>
+          </div>
 
-          <select
-            name="serviceType"
-            value={formData.serviceType}
-            onChange={handleFormChange}
-            className="w-full px-4 py-2 bg-bgCard border border-borderColor text-textPrimary rounded-lg focus:border-accent focus:outline-none"
-          >
-            <option value="Land Clearing">Land Clearing &amp; Brush Removal</option>
-            <option value="Grading">Grading, Driveways &amp; Pad Prep</option>
-            <option value="Trenching">Trenching &amp; Earthwork</option>
-            <option value="Debris">Bulk Debris &amp; Trash Removal</option>
-            <option value="Solar">Solar System Design &amp; Installation</option>
-            <option value="Water">Off-Grid Water Systems</option>
-            <option value="Multiple">Multiple Services</option>
-            <option value="Other">Other</option>
-          </select>
+          <div>
+            <label htmlFor="propertySize" className="sr-only">Property Size</label>
+            <input
+              id="propertySize"
+              type="text"
+              name="propertySize"
+              value={formData.propertySize}
+              onChange={handleFormChange}
+              placeholder="Property Size (e.g., 5 acres)"
+              className="w-full px-4 py-2 bg-bgCard border border-borderColor text-textPrimary placeholder-textSecondary rounded-lg focus:border-accent focus:outline-none"
+            />
+          </div>
 
-          <input
-            type="text"
-            name="propertySize"
-            value={formData.propertySize}
-            onChange={handleFormChange}
-            placeholder="Property Size (e.g., 5 acres)"
-            className="w-full px-4 py-2 bg-bgCard border border-borderColor text-textPrimary placeholder-textSecondary rounded-lg focus:border-accent focus:outline-none"
-          />
-
-          <textarea
-            name="description"
-            value={formData.description}
-            onChange={handleFormChange}
-            placeholder="Describe your project..."
-            rows={5}
-            className="w-full px-4 py-2 bg-bgCard border border-borderColor text-textPrimary placeholder-textSecondary rounded-lg focus:border-accent focus:outline-none resize-none"
-          ></textarea>
+          <div>
+            <label htmlFor="description" className="sr-only">Project Description</label>
+            <textarea
+              id="description"
+              name="description"
+              value={formData.description}
+              onChange={handleFormChange}
+              placeholder="Describe your project..."
+              rows={5}
+              className="w-full px-4 py-2 bg-bgCard border border-borderColor text-textPrimary placeholder-textSecondary rounded-lg focus:border-accent focus:outline-none resize-none"
+            ></textarea>
+          </div>
 
           {formError && (
-            <p className="text-red-400 text-sm text-center">Something went wrong. Please try again or email us directly.</p>
+            <p className="text-red-400 text-sm text-center" role="alert">Something went wrong. Please try again or email us directly.</p>
           )}
 
           <motion.button
@@ -153,6 +182,7 @@ export default function Contact() {
             type="submit"
             disabled={formSubmitting}
             className="w-full px-6 py-3 bg-accent text-bg rounded-lg font-bold hover:bg-accentLight transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
+            aria-busy={formSubmitting}
           >
             {formSubmitting ? 'Sending...' : 'Send Free Estimate Request'}
           </motion.button>
@@ -162,14 +192,14 @@ export default function Contact() {
           className="mt-8 grid grid-cols-1 md:grid-cols-2 gap-4 text-center"
         >
           <div className="p-4 bg-bgCard border border-borderColor rounded-lg">
-            <Phone size={20} className="w-5 h-5 text-accent mx-auto mb-2" />
+            <Phone size={20} className="w-5 h-5 text-accent mx-auto mb-2" aria-hidden="true" />
             <p className="text-sm text-textSecondary mb-1">Call us directly</p>
-            <a href="tel:+15204025877" className="text-accent font-bold hover:text-accentLight">(520) 402-5877</a>
+            <a href="tel:+15204025877" className="text-accent font-bold hover:text-accentLight" aria-label="Call us at (520) 402-5877">(520) 402-5877</a>
           </div>
           <div className="p-4 bg-bgCard border border-borderColor rounded-lg">
-            <Mail size={20} className="w-5 h-5 text-accent mx-auto mb-2" />
+            <Mail size={20} className="w-5 h-5 text-accent mx-auto mb-2" aria-hidden="true" />
             <p className="text-sm text-textSecondary mb-1">Email us</p>
-            <a href="mailto:inquiries@sulfurspringslandmanagement.com" className="text-accent font-bold hover:text-accentLight break-all text-sm">inquiries@sulfurspringslandmanagement.com</a>
+            <a href="mailto:inquiries@sulfurspringslandmanagement.com" className="text-accent font-bold hover:text-accentLight break-all text-sm" aria-label="Email us at inquiries@sulfurspringslandmanagement.com">inquiries@sulfurspringslandmanagement.com</a>
           </div>
         </div>
       </div>

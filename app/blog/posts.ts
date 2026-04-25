@@ -327,6 +327,307 @@ export const blogPosts: BlogPost[] = [
     `,
   },
   {
+    id: '4',
+    slug: 'off-grid-solar-panels-arizona-cost-2026',
+    title: 'Off-Grid Solar in Arizona: How Many Panels Do You Really Need? (2026 Cost Guide)',
+    description: 'Step-by-step guide to sizing an off-grid solar system in Arizona. Calculate how many panels you need, compare 2026 battery storage costs, and understand Cochise County permit requirements.',
+    date: '2026-04-25',
+    author: 'Sulfur Springs Land Management',
+    readTime: '11 min read',
+    category: 'Off-Grid Living',
+    keywords: ['off-grid solar Arizona', 'how many solar panels off grid', 'solar system cost Arizona 2026', 'off grid solar Cochise County', 'off-grid solar panels'],
+    featuredImage: '/blog/solar-panels-arizona.png',
+    content: `
+      <div class="blog-content">
+        <h2>Off-Grid Solar in Arizona: How Many Panels Do You Really Need? (2026 Cost Guide)</h2>
+
+        <p>Arizona is one of the best states in the country for off-grid solar — and Cochise County is one of the best corners of Arizona. With 300-plus sunny days per year and seven to eight peak sun hours per day during peak months, the solar resource here is exceptional. But "great solar" does not mean you can install anything and call it good. Undersized systems are the number one cause of off-grid frustration, and oversized systems waste money you could have spent elsewhere on your property.</p>
+
+        <p>This guide walks you through exactly how to size an off-grid solar system for a Cochise County property in 2026 — from calculating your daily load to comparing battery chemistry options to understanding what permits you actually need. We will also cover where Sulfur Springs Land Management fits into the picture, because a solar system is only as good as the site it sits on.</p>
+
+        <h3>Arizona's Solar Advantage: Why This State Is Different</h3>
+
+        <p>Most solar sizing guides are written for average US conditions — roughly four to five peak sun hours per day. Cochise County consistently delivers more than that. The valley floor typically sees seven to eight peak sun hours per day in summer and four to five even in winter. That matters for two reasons.</p>
+
+        <p>First, your panels produce more power per watt of installed capacity than they would in Oregon or Michigan. Second, even in December — your worst solar month — production stays high enough that a well-designed system rarely needs generator backup.</p>
+
+        <p>The caveat: "300 sunny days" does not mean every day is full production. Monsoon season (July through September) brings afternoon cloud cover that cuts generation by 20 to 40 percent on storm days. Your battery bank needs to cover those gaps. Seasonal averages to use in your calculations:</p>
+
+        <p><strong>Summer (June–August):</strong> 7–8 peak sun hours/day<br/>
+        <strong>Spring and Fall (March–May, September–November):</strong> 6–7 peak sun hours/day<br/>
+        <strong>Winter (December–February):</strong> 4.5–5.5 peak sun hours/day</p>
+
+        <p>Always size for your worst-case month. In Cochise County, that is December or January.</p>
+
+        <h3>Step 1: Calculate Your Daily kWh Load</h3>
+
+        <p>The most important number in any solar design is how much electricity you consume each day. Pull 12 months of utility bills if you have them, find your monthly average in kWh, and divide by 30. No utility history? Add up your appliances.</p>
+
+        <p>Go through your home appliance by appliance. Write down the wattage (usually on the label or in the manual) and how many hours per day you run it. Multiply wattage by hours to get watt-hours, then divide by 1,000 for kWh. Sum everything up.</p>
+
+        <p>Common loads for Cochise County off-grid homes:</p>
+
+        <p><strong>Refrigerator:</strong> 1–2 kWh/day<br/>
+        <strong>Mini-split AC (1.5-ton unit, 6 hours/day in summer):</strong> 5–9 kWh/day<br/>
+        <strong>LED lighting (whole house):</strong> 0.5–1 kWh/day<br/>
+        <strong>Well pump (1 HP, 2 hours/day):</strong> 1.5 kWh/day<br/>
+        <strong>Washing machine:</strong> 1–2 kWh/day<br/>
+        <strong>Electric water heater:</strong> 3–5 kWh/day<br/>
+        <strong>Laptop and devices:</strong> 0.5–1 kWh/day<br/>
+        <strong>Misc small loads:</strong> 0.5–1 kWh/day</p>
+
+        <p>Rough daily totals by lifestyle:</p>
+
+        <p><strong>Minimal setup (no AC, propane water heater and cooking):</strong> 5–8 kWh/day<br/>
+        <strong>Comfortable cabin (AC in worst months only):</strong> 12–18 kWh/day<br/>
+        <strong>Full-time family home (regular AC, electric appliances):</strong> 20–35 kWh/day</p>
+
+        <p>Use your winter load for sizing, not summer — winter days are shorter, but heating loads add up. If you heat with propane or wood, your winter load may actually be lower than summer because you are not running AC.</p>
+
+        <h3>Step 2: Calculate How Many Panels You Need</h3>
+
+        <p>Once you have your daily kWh load, the math is straightforward. Divide your daily load by your peak sun hours for the worst-case month, then add a 25 percent buffer for real-world losses (wiring resistance, inverter inefficiency, dust on panels, temperature derating).</p>
+
+        <p><strong>Formula: Required kW = (Daily kWh ÷ Peak Sun Hours) × 1.25</strong></p>
+
+        <p>Example: A household using 20 kWh/day in winter, with 5 peak sun hours:</p>
+        <p>(20 ÷ 5) × 1.25 = 5 kW of panels</p>
+
+        <p>At 400 watts per panel (the current standard for residential panels in 2026), that is 12.5 panels — round up to 13, or spec 14 to give yourself headroom for future loads.</p>
+
+        <p>Quick reference for Cochise County (winter production, 5 peak sun hours, 25% buffer):</p>
+
+        <p><strong>8 kWh/day:</strong> ~2 kW, 5–6 panels<br/>
+        <strong>12 kWh/day:</strong> ~3 kW, 7–8 panels<br/>
+        <strong>18 kWh/day:</strong> ~4.5 kW, 11–12 panels<br/>
+        <strong>25 kWh/day:</strong> ~6.25 kW, 15–16 panels<br/>
+        <strong>35 kWh/day:</strong> ~8.75 kW, 22–23 panels</p>
+
+        <h3>Three System Tiers: Costs and Configurations in 2026</h3>
+
+        <p>Off-grid solar systems fall into three practical tiers based on daily load and use case. Here is what each looks like in Cochise County at 2026 pricing.</p>
+
+        <p><strong>STARTER CABIN SYSTEM</strong><br/>
+        Best for: Part-time use, small cabins, hunting camps, weekend retreats<br/>
+        Daily load: 5–10 kWh<br/>
+        Panel count: 2–4 panels (800W–1.6 kW)<br/>
+        Battery storage: 10–20 kWh<br/>
+        Total system cost: $3,000–$6,000 (DIY kit) / $8,000–$14,000 (professional install)<br/>
+        Notes: This tier handles lights, a small refrigerator, phone charging, and a fan. It will not run central AC. A generator for backup is highly recommended.</p>
+
+        <p><strong>STANDARD HOME SYSTEM</strong><br/>
+        Best for: Full-time primary residence, 1–4 people, modest AC use<br/>
+        Daily load: 15–25 kWh<br/>
+        Panel count: 8–12 panels (3.2 kW–4.8 kW)<br/>
+        Battery storage: 30–60 kWh<br/>
+        Total system cost: $15,000–$25,000 (equipment) / $25,000–$40,000 (professional install)<br/>
+        Notes: This is the most common tier for Cochise County homesteaders. It handles mini-split AC, a full-size refrigerator, washer, lights, and devices comfortably. Size batteries at the upper end if you want to run AC through overcast monsoon days without generator support.</p>
+
+        <p><strong>PREMIUM OFF-GRID SYSTEM</strong><br/>
+        Best for: Larger homes, high-comfort living, electric vehicle charging, small agricultural loads<br/>
+        Daily load: 30–50 kWh<br/>
+        Panel count: 16–24 panels (6.4 kW–9.6 kW)<br/>
+        Battery storage: 60–120 kWh<br/>
+        Total system cost: $30,000–$50,000 (equipment) / $45,000–$70,000+ (professional install)<br/>
+        Notes: This tier handles everything without compromise — full central AC, electric water heater, EV charging, and multiple-day cloudy weather autonomy. At this size, installation complexity increases significantly and professional design is not optional.</p>
+
+        <h3>Battery Storage: Lithium vs. Lead-Acid in 2026</h3>
+
+        <p>Battery storage is where most of the cost lives in an off-grid system, and the chemistry you choose dramatically affects long-term economics.</p>
+
+        <p><strong>Lithium Iron Phosphate (LiFePO4)</strong> is the dominant technology in 2026 for good reason. It offers 4,000 to 10,000+ charge cycles (10–20 years of daily use), 95 percent round-trip efficiency, 80–100 percent usable depth of discharge, and no maintenance. It also does not off-gas, so it can live indoors in a closet or utility room.</p>
+
+        <p>2026 LiFePO4 pricing has come down significantly: expect to pay $800–$1,200 per kWh for quality battery systems from established manufacturers, including the battery management system. Premium integrated systems with built-in inverter/charger run $1,200–$1,400 per kWh all-in.</p>
+
+        <p><strong>Lead-acid batteries</strong> (flooded or AGM) still exist and still work. Upfront cost is lower — around $200–$400 per kWh — but you only get 500 to 1,200 cycles and can only use 50 percent of rated capacity without damaging the batteries. That means you need twice the rated capacity to get the same usable storage as lithium. Factor in replacement every 3–5 years and the economics shift sharply toward lithium for anyone planning to stay on the property long-term.</p>
+
+        <p>For a Cochise County property you intend to use for 10+ years, lithium iron phosphate is the right choice. If you are building a temporary or low-budget setup and cost is the primary constraint, AGM lead-acid gets you running for less upfront.</p>
+
+        <h3>Arizona Permits and Regulations for Off-Grid Solar in Cochise County</h3>
+
+        <p>Cochise County is one of the more permissive jurisdictions in the state for rural off-grid development, but there are still requirements to be aware of.</p>
+
+        <p>For residential solar installations, Arizona requires a licensed electrical contractor to pull the permit and perform the final connection. The permit itself runs $100–$300 depending on system size. Some unincorporated rural parcels in Cochise County may fall under reduced permitting requirements — check with the Cochise County Development Services office before assuming anything.</p>
+
+        <p>If your system is truly off-grid (no utility interconnection), you avoid the utility interconnection agreement process entirely. No net metering application, no utility inspection hold, no waiting for APS or TEP approval. This is one of the practical advantages of going fully off-grid in rural Cochise County — the regulatory path is simpler.</p>
+
+        <p>Arizona does not have a specific setback requirement for ground-mounted solar panels at the state level, but Cochise County zoning may apply restrictions based on your parcel's zoning designation. SR (Single Residence Rural) and GR (General Rural) zones typically have minimal restrictions on ground-mounted arrays, but verify for your specific parcel.</p>
+
+        <p>Battery storage systems above a certain capacity (typically 20 kWh and above) may require a separate electrical permit and fire-rated enclosure in some jurisdictions. Confirm requirements with your licensed electrician during the design phase.</p>
+
+        <h3>Site Prep: Why the Ground Matters as Much as the Panels</h3>
+
+        <p>A solar array is a permanent structure. It sits on the ground — or on a roof — for 25 to 30 years. The quality of that foundation determines whether the system performs as designed or slowly degrades.</p>
+
+        <p>On raw Cochise County land, ground-mounted arrays need a properly prepared pad. The soil here ranges from rocky caliche to expansive clay to sandy washes, and none of those are ideal for equipment installation without preparation. A concrete ballast or racking system driven into unprepared ground will shift, tilt, and lose optimal angle over time.</p>
+
+        <p>Shade is the other site issue that gets overlooked. Mesquite trees grow dense and wide, and what looks like a sunny clearing in March becomes partially shaded by 9 a.m. in December when the sun angle is low. Palo verde and desert willow also cast enough shade to meaningfully impact production. A site assessment should include a winter sun path analysis, not just a summer one.</p>
+
+        <p>Cochise County's monsoon season brings another consideration: water. A solar array pad that has not been graded for drainage can turn into a pond during a July storm, undermining the pad base and potentially damaging equipment. Proper grading with drainage swales around the array protects your investment for the long term.</p>
+
+        <p>This is where Sulfur Springs Land Management fits in. We handle the site preparation that makes a solar installation go smoothly: clearing mesquite and brush from the array area, grading a level compacted pad, cutting drainage swales to redirect monsoon water, and trenching conduit runs from the array to the battery house or structure. We work alongside solar installers so the electrical contractor shows up to a site that is ready — not to raw desert that needs a week of prep before the first rack goes in the ground.</p>
+
+        <h3>Common Mistakes That Cost Real Money</h3>
+
+        <p><strong>Undersizing the battery bank.</strong> Panels are the visible part of an off-grid system, but batteries are the functional core. The most common design error is buying more panels than batteries can absorb. A 6 kW array feeding a 10 kWh battery fills up by mid-morning and wastes the rest of the day's production. Size batteries first, then match panels to charge them properly.</p>
+
+        <p><strong>Ignoring winter production.</strong> It feels counterintuitive to size a solar system in Arizona for winter, but December is your bottleneck month. Summer takes care of itself. If your system works in January, it works year-round.</p>
+
+        <p><strong>Shade from mesquite trees.</strong> A single mesquite branch crossing one panel for two hours per day can cost you 10–15 percent of system production due to how string inverters handle shading. Micro-inverters or power optimizers mitigate this, but the better solution is clearing shade sources before installation — something that costs far less than an equipment upgrade.</p>
+
+        <p><strong>Putting the battery bank in an uninsulated structure.</strong> Lithium iron phosphate batteries have a narrow optimal temperature range. In an uninsulated metal shed, Cochise County summer heat can push battery temperatures above 40°C (104°F), accelerating degradation and triggering thermal management shutdowns. Battery storage should be in a conditioned or well-insulated space.</p>
+
+        <p><strong>Forgetting about the inverter/charger.</strong> This is the most underbudgeted component. A quality hybrid inverter/charger that handles battery charging, loads, and optional generator integration runs $2,000–$6,000 depending on size. Cheap inverters fail, and a failed inverter takes down your entire system.</p>
+
+        <h3>Ready to Start? SSLM Handles the Site Work</h3>
+
+        <p>If you are planning an off-grid solar installation on a Cochise County property, the site preparation phase is where mistakes are hardest and most expensive to fix later. Sulfur Springs Land Management specializes in exactly this work — clearing, grading, trenching, and pad prep for solar installations on rural Arizona land.</p>
+
+        <p>We can assess your property, identify shading issues, recommend array placement, and prepare the site so your solar installer can hit the ground running. Contact us to schedule a site visit and get a quote for the ground work behind your off-grid solar system.</p>
+
+        <p><strong>Call (520) 402-5877 or email inquiries@sulfurspringslandmanagement.com to discuss your project.</strong></p>
+      </div>
+    `,
+  },
+  {
+    id: '5',
+    slug: 'land-clearing-cochise-county-guide',
+    title: 'Land Clearing in Cochise County: What to Know Before You Start',
+    description: 'Everything you need to know about land clearing in Cochise County, Arizona — from mesquite and creosote removal to permits, protected species, equipment, costs, and timeline expectations.',
+    date: '2026-04-22',
+    author: 'Sulfur Springs Land Management',
+    readTime: '10 min read',
+    category: 'Land Clearing',
+    keywords: ['land clearing Cochise County', 'land clearing Arizona', 'rural property clearing cost', 'mesquite removal Arizona', 'land clearing cost Arizona'],
+    featuredImage: '/blog/land-clearing-cochise.png',
+    content: `
+      <div class="blog-content">
+        <h2>Land Clearing in Cochise County: What to Know Before You Start</h2>
+
+        <p>Raw land in Cochise County is not empty land. Even a parcel that looks open from the road typically has decades of mesquite growth, dense creosote brush, rocky outcrops, and terrain that does not reveal its challenges until you walk every acre. Before you can build a home, install solar panels, run a driveway, or put land into agricultural use, you need to understand what clearing actually involves — what it costs, what equipment does the work, what Arizona law protects, and how long it realistically takes.</p>
+
+        <p>This guide covers all of it. We work on land clearing projects across Cochise County every week, and this is the honest version of what property owners should know before they start.</p>
+
+        <h3>Why Cochise County Land Often Needs Clearing</h3>
+
+        <p>The Sulphur Springs Valley has been ranched and farmed for over a century, but large sections of the valley — and essentially all of the surrounding terrain — have seen vegetation encroachment accelerate over the past 50 years. Several factors drive this:</p>
+
+        <p><strong>Mesquite expansion.</strong> Honey mesquite is one of the most aggressive plants in the Sonoran Desert ecosystem. Cattle grazing throughout the 20th century spread mesquite seeds across formerly open grasslands. Decades later, properties that were once grassland now have mesquite trees 10 to 20 feet tall with root systems that can reach 50 feet deep. Mesquite is not just a visual issue — it competes aggressively with grass and native vegetation, and its root system can undermine building pads and compacted surfaces if not fully removed.</p>
+
+        <p><strong>Creosote and cholla density.</strong> On drier portions of parcels, creosote bush forms dense thickets that make the land impassable and unusable. Jumping cholla presents physical hazards for workers and equipment. Both need to be cleared before any productive use of the land.</p>
+
+        <p><strong>Rocky terrain.</strong> Cochise County sits at the intersection of the Chihuahuan and Sonoran deserts, with the geology of the Basin and Range Province underneath. Surface rock, subsurface caliche hardpan, and scattered boulders are common on many parcels. Rock has to be moved, broken, or worked around before grading and construction can proceed.</p>
+
+        <p><strong>Uneven terrain and drainages.</strong> The valley floor is cut by numerous seasonal washes and arroyos. Many parcels have significant grade changes, natural drainages that require careful handling, and low spots that collect water during monsoon season. These are not obstacles you discover at closing — but their full extent often is not apparent until you put equipment on the ground.</p>
+
+        <h3>What Land Clearing Actually Includes</h3>
+
+        <p>Land clearing is not a single service — it is a sequence of operations that vary based on your property and your goals. Here is what a full clearing project typically involves:</p>
+
+        <p><strong>Brush removal and vegetation clearing.</strong> Cutting and removing brush, shrubs, small trees, and ground cover from the project area. This is usually the first pass, done with a brush hog, skid steer with a mulching head, or hand clearing for tighter areas. The result is a cleared surface with stumps and root masses still in place.</p>
+
+        <p><strong>Tree clearing.</strong> Removing larger trees — mesquite, palo verde, desert willow, or Emory oak on higher-elevation parcels. This involves felling, sectioning, and hauling or chipping. On parcels with heavy mesquite growth, tree clearing is often the most time-intensive part of the project.</p>
+
+        <p><strong>Stump grinding and root removal.</strong> Stumps left in place will resprout — mesquite in particular is extremely aggressive about resprouting from the root crown. Stump grinding removes the visible stump to ground level. For mesquite, the taproot extends far deeper than the grinder reaches, so chemical treatment of the ground stump is often combined with mechanical grinding to prevent regrowth.</p>
+
+        <p><strong>Rock clearing and boulder removal.</strong> Moving surface rock off building areas, driveways, and pads. Large boulders may require an excavator. Subsurface rock discovered during grading requires different equipment and adds to project time and cost.</p>
+
+        <p><strong>Debris hauling.</strong> Everything removed has to go somewhere. Cut brush can be chipped on-site and spread as mulch, burned (if permitted), or hauled to a disposal site. Logs from tree clearing can be stacked for firewood or hauled. Rock can be stockpiled for use in drainage work or hauled off. Your contractor should have a clear plan for debris management before the first day of work.</p>
+
+        <p><strong>Finish grading.</strong> After clearing, the raw surface needs to be graded — cut and filled to create level or properly sloped areas for building, solar, driveways, or agriculture. Grading is usually a separate scope from clearing, but the two phases are closely coordinated.</p>
+
+        <h3>Arizona Environmental Regulations: What You Can and Cannot Clear</h3>
+
+        <p>Arizona is more permissive than most western states when it comes to clearing vegetation on private land, but there are real limits — and violating them carries serious consequences.</p>
+
+        <p><strong>What you can generally clear without a permit on private land:</strong> Most non-native invasive species, mesquite, creosote, cholla, prickly pear, and most shrubs and grasses on your own private property for the purposes of development, agriculture, or fire mitigation. Cochise County does not require a vegetation clearing permit for routine land clearing on private parcels in unincorporated areas.</p>
+
+        <p><strong>What requires permits or specific authorizations:</strong> Any clearing within a regulated floodplain (FEMA 100-year floodplain) requires coordination with Cochise County Flood Control and potentially the Army Corps of Engineers under Section 404 of the Clean Water Act if your clearing would impact Waters of the United States. Seasonal washes and arroyos often fall into this category. Do not assume a wash on your property is automatically yours to fill or clear without review.</p>
+
+        <p><strong>What you cannot clear:</strong> Arizona Revised Statutes protect certain native plants under the Native Plant Protection Act. The key species with the strongest protections in Cochise County are saguaro cactus, ironwood trees, and blue palo verde. Removing a saguaro or ironwood from private land without a permit is a criminal offense. Even on your own property, large saguaros and ironwoods cannot be removed without a permit from the Arizona Department of Agriculture. The permit process involves tagging the plant and either transplanting it or documenting why transplanting is not feasible.</p>
+
+        <p>In practice, most of the Sulphur Springs Valley floor is at elevations where saguaro is sparse or absent, but ironwood trees do appear on some parcels, and the higher terrain around the valley — toward the Dragoon, Chiricahua, and Dos Cabezas ranges — has significant ironwood presence. Know what is on your land before you clear it.</p>
+
+        <h3>Protected Species and Native Plant Considerations</h3>
+
+        <p>Beyond the Native Plant Protection Act, there are federal endangered species considerations that can affect clearing projects. The lesser long-nosed bat (a federal endangered species) uses saguaro, agave, and other flowering plants across southern Arizona. While bat habitat protection rarely halts private land clearing projects outright, it can require seasonal restrictions or site assessments in areas with documented bat activity.</p>
+
+        <p>Cochise County also has documented populations of the Chiricahua leopard frog and several plant species listed under the Endangered Species Act. These are most relevant for projects near riparian areas — along the San Pedro River corridor, Whitewater Draw, and other perennial or near-perennial water features. Standard upland mesquite clearing projects on valley floor parcels away from these areas are rarely affected by federal species protections.</p>
+
+        <p>When in doubt, a pre-project site review with a qualified biologist is inexpensive insurance against enforcement action later. For most standard clearing projects in the valley, it is not necessary — but for projects near drainages or in higher-elevation terrain, it is worth the investment.</p>
+
+        <h3>Cost Factors: What Drives the Price of Land Clearing</h3>
+
+        <p>Land clearing costs in Cochise County vary widely based on several factors. Here is how to think about what will drive your project cost:</p>
+
+        <p><strong>Acreage.</strong> The base unit of cost for clearing is acres, but the relationship is not perfectly linear. Mobilization costs are fixed regardless of size, so smaller projects cost more per acre. Rough ranges for Cochise County in 2026:</p>
+
+        <p>• Light brush clearing (creosote, cholla, sparse growth): $800–$1,500/acre<br/>
+        • Moderate clearing (mixed brush and mesquite under 6 inches diameter): $1,500–$3,000/acre<br/>
+        • Heavy clearing (dense mesquite stands, trees over 8 inches diameter): $3,000–$6,000/acre<br/>
+        • Rock-heavy terrain (significant boulder and surface rock removal): Add $1,000–$3,000/acre</p>
+
+        <p><strong>Vegetation density and species.</strong> Dense, mature mesquite is the most expensive clearing scenario in this region. A mature mesquite stand with 15-foot canopy trees at 50-plus trees per acre takes significantly more time and equipment than scattered creosote on open ground.</p>
+
+        <p><strong>Terrain and access.</strong> Flat, accessible parcels are the cheapest to clear. Steep terrain, soft or sandy soil, parcels with seasonal standing water, and parcels with no existing access road all add cost. Equipment mobilization on rough terrain takes longer, and some equipment may not be operable on extreme grades without additional preparation.</p>
+
+        <p><strong>Access roads.</strong> If your parcel has no existing access, you may need to clear and grade a temporary or permanent access road before any other clearing can happen. Budget $2,000–$8,000 for a basic 12-foot-wide access road depending on length and terrain.</p>
+
+        <p><strong>Debris disposal.</strong> What happens to what you remove significantly affects cost. On-site chipping and mulching is the most cost-effective option if you can use the mulch. Hauling debris off-site adds $500–$3,000 or more depending on volume and haul distance. Burning is sometimes an option with the appropriate permits during non-fire-restriction periods.</p>
+
+        <h3>Equipment: What Does the Work</h3>
+
+        <p>Different clearing jobs require different equipment. Here is what we deploy for different scenarios on Cochise County properties:</p>
+
+        <p><strong>Brush hog / rotary cutter.</strong> Tractor-mounted rotary mowers are efficient for clearing light to moderate brush on relatively flat, accessible terrain. Fast and cost-effective for open ground with vegetation under 4 inches in diameter. Not effective for trees or rocky terrain.</p>
+
+        <p><strong>Skid steer with mulching head.</strong> A mulching head on a track skid steer is one of the most versatile tools for Cochise County clearing. It grinds brush and small trees to chips in one pass, leaving the material on-site as mulch. Effective in tight areas and can handle vegetation up to 6–8 inches in diameter. Good maneuverability around terrain features you want to preserve.</p>
+
+        <p><strong>Bulldozer.</strong> For heavy mesquite stands and bulk clearing, a dozer pushing trees and brush into windrows for later removal is the fastest approach on open terrain. A D6 or D8 class dozer can clear several acres per day in moderate-density mesquite. Dozers are not precision instruments — they clear everything in their path — so plan your clearing boundaries carefully before the blade goes in.</p>
+
+        <p><strong>Excavator.</strong> Excavators are essential for stump removal, boulder extraction, and clearing near drainages where you need precision control. An excavator can grip and pull mesquite stumps from the ground far more completely than grinding, which matters for preventing regrowth. Also used for rock removal and for working near features you do not want disturbed.</p>
+
+        <p><strong>Chipper/grinder.</strong> A tow-behind or self-propelled brush chipper processes cut material into mulch. On projects where we want to keep material on-site, the chipper runs behind the clearing equipment and processes piles throughout the day.</p>
+
+        <h3>Before and After: What Cleared Land Enables</h3>
+
+        <p>Land clearing is rarely the end goal — it is the prerequisite for something else. Here is how cleared land translates to usable property:</p>
+
+        <p><strong>Building site preparation.</strong> A building pad requires cleared, graded, compacted ground. Clearing removes vegetation and surface obstacles; grading shapes the pad to the correct elevation and slope; compaction testing confirms the soil bearing capacity for foundation work. The transition from raw desert to a buildable pad typically takes two to four weeks for a standard single-family building envelope.</p>
+
+        <p><strong>Solar installation.</strong> Ground-mounted solar arrays require cleared, level or gently sloped ground free of shading vegetation. After clearing, a compacted gravel pad is typically prepared for the array area, with conduit trenches cut to the building. Clearing and pad prep for a standard 5–10 kW ground-mounted array takes two to five days.</p>
+
+        <p><strong>Agricultural use.</strong> Converting Cochise County land to agricultural use — hay fields, garden plots, orchard planting — requires clearing and often deep ripping of caliche hardpan layers that prevent root penetration. Agricultural clearing is typically heavier work than building site prep because you are preparing the entire acreage rather than targeted building envelopes.</p>
+
+        <p><strong>Pasture restoration.</strong> Many parcels in the valley were once open grassland and can be restored to productive pasture with mesquite removal and reseeding. The mesquite roots do not need full removal for pasture — grinding stumps and applying herbicide to the cut surface, combined with grass reseeding, can restore pasture productivity within one to two growing seasons.</p>
+
+        <h3>Timeline Expectations for Different Project Sizes</h3>
+
+        <p>One of the most common questions we get is how long a clearing project takes. Here are realistic timelines for different scopes:</p>
+
+        <p><strong>Single building envelope or solar pad (less than 1 acre):</strong> 1–3 days for clearing, plus 1–2 days for grading and pad prep. Total: 3–5 working days from equipment mobilization to finished pad.</p>
+
+        <p><strong>Small parcel clearing (1–5 acres):</strong> 3–10 working days depending on density and terrain. Scheduling, mobilization, and debris management add time beyond pure cutting time.</p>
+
+        <p><strong>Medium parcel clearing (5–20 acres):</strong> 2–5 weeks. At this scale, multiple equipment types typically run simultaneously, and debris management becomes a significant coordination task.</p>
+
+        <p><strong>Large parcel clearing (20+ acres):</strong> 1–3+ months. Large-scale clearing projects require detailed phasing plans, coordination with multiple crews, and careful attention to drainage and access road development throughout the project.</p>
+
+        <p>Weather matters. Cochise County's monsoon season (July through September) does not stop clearing work, but afternoon storms can halt operations on any given day and can make access roads temporarily impassable on soft-soil parcels. Spring (March through May) is typically the best time of year for clearing — mild temperatures, dry ground, and low fire risk.</p>
+
+        <h3>Getting Started: Free Site Assessment from SSLM</h3>
+
+        <p>Every clearing project in Cochise County is different. The parcel across the road from yours may have completely different vegetation density, terrain challenges, drainage issues, or permit requirements. Generic pricing and timelines only go so far — what you really need is someone who has walked your specific ground and given you an honest assessment.</p>
+
+        <p>Sulfur Springs Land Management offers free site assessments for clearing projects in Cochise County. We walk the property with you, assess vegetation density and terrain, identify any drainage or regulatory considerations, and give you a clear written scope and estimate before any equipment is committed.</p>
+
+        <p>We are veteran-owned, based in the Sulphur Springs Valley, and we do this work every week. We know the land here, we know what the equipment can and cannot do, and we will tell you straight what your project involves and what it costs.</p>
+
+        <p><strong>Call (520) 402-5877 or email inquiries@sulfurspringslandmanagement.com to schedule your free site assessment.</strong></p>
+      </div>
+    `,
+  },
+  {
     id: '3',
     slug: 'water-systems-off-grid-arizona',
     title: 'Complete Guide to Off-Grid Water Systems in Rural Arizona',
