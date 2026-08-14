@@ -17,12 +17,12 @@ export const blogPosts: BlogPost[] = [
     id: '9',
     slug: 'hauled-water-vs-drilling-a-well-in-sulfur-springs-valley-real-numbers',
     title: "Hauled Water vs. Drilling a Well in Sulfur Springs Valley: Real Numbers",
-    description: "",
+    description: "What a well actually costs in Sulfur Springs Valley at 200-350 ft static water level, what hauled water costs per month, and the ADWR Active Management Area rules that change the maths.",
     date: '2026-05-04',
     author: 'Sulfur Springs Land Management',
     readTime: '10 min read',
     category: 'Industry',
-    keywords: ["hauled", "water", "drilling", "well", "sulfur", "springs", "valley", "real"],
+    keywords: ["hauled water vs well arizona", "drilling a well cochise county", "sulfur springs valley water", "well cost arizona", "ADWR active management area", "off grid water hauling cost"],
     featuredImage: '/blog/hauled-water-vs-drilling-a-well-in-sulfur-springs-valley-real-numbers.webp',
     content: `<div class="blog-content">
   <p>When you're buying raw land in Sulfur Springs Valley and there's no municipal water hookup, you face a fundamental choice: drill a well or haul water. It sounds simple. It's not. The decision affects your monthly costs, your property's resale value, your ability to build, and your day-to-day life for the next decade or more. Both options work in Cochise County. Both have hard limits and hidden costs. This post walks through the real numbers so you can make an informed choice based on your specific property and situation.</p>
@@ -78,18 +78,29 @@ export const blogPosts: BlogPost[] = [
   <h2>Getting Started: Next Steps</h2>
   <p>Whether you choose a well or hauled water, Sulfur Springs Land Management can help you plan the infrastructure. We've sized solar systems for well pumps, designed tank placement and drainage for monsoon season, and guided landowners through ADWR registration. We understand Cochise County conditions and the specific challenges of Sulfur Springs Valley.</p>
   <p>The water decision is foundational. Get it right, and your off-grid property works smoothly for decades. Get it wrong, and you're dealing with high costs or unreliable service for years. Contact Sulfur Springs Land Management to assess your property, research local aquifer conditions, and develop a water plan that fits your situation and budget.</p>
-  </div>`
+  
+  <section class="gear-block">
+    <h2>Gear for this job</h2>
+    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually put on a job.</em></p>
+    <ul>
+      <li><a href="https://www.amazon.com/dp/B01BFC5Q9Q?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">RomoTech 550 Gallon Storage Tank with Legs</a> — Legs give you gravity head without building a stand.</li>
+      <li><a href="https://www.amazon.com/dp/B002XM5G70?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">SHURFLO 4008 12V Fresh Water Pump, 3.0 GPM</a> — The standard 12V pressure pump for hauled-water systems.</li>
+      <li><a href="https://www.amazon.com/dp/B00WOUTDJ8?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Amtrol Well-X-Trol WX-202 20 Gallon Pressure Tank</a> — Stops the pump short-cycling itself to death.</li>
+      <li><a href="https://www.amazon.com/dp/B0837Z5PBJ?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Varify 17-in-1 Drinking Water Test Kit</a> — Baseline your water before you plumb anything to a tap.</li>
+    </ul>
+  </section>
+</div>`
   },
   {
     id: '8',
     slug: 'off-grid-solar-sizing-for-cochise-county-properties-a-practical-guide',
     title: "Off-Grid Solar Sizing for Cochise County Properties: A Practical Guide",
-    description: "",
+    description: "How to size an off-grid array for Cochise County sun hours and winter loads — panel wattage, battery bank capacity, depth of discharge and the autonomy days that actually matter here.",
     date: '2026-05-01',
     author: 'Sulfur Springs Land Management',
     readTime: '10 min read',
     category: 'Rural Living',
-    keywords: ["grid", "solar", "sizing", "cochise", "county", "properties", "practical", "guide"],
+    keywords: ["off grid solar sizing cochise county", "solar array size arizona", "off grid battery bank sizing", "peak sun hours arizona", "off grid solar guide arizona", "solar autonomy days"],
     featuredImage: '/blog/off-grid-solar-sizing-for-cochise-county-properties-a-practical-guide.webp',
     content: `<div class="blog-content">
   <p>Going off-grid in Cochise County requires more than optimism and a southern exposure. It requires honest math, local knowledge, and a clear-eyed assessment of what your property can actually deliver. Too many landowners in Sulfur Springs Valley size their solar arrays based on national averages or vendor spreadsheets, then find themselves rationing power in December or watching battery banks drain faster than expected. The difference between a well-sized system and an undersized one is the difference between comfortable off-grid living and constant compromise.</p>
@@ -181,18 +192,28 @@ export const blogPosts: BlogPost[] = [
   <h2>Final Thoughts</h2>
   <p>Off-grid solar sizing for Cochise County is not guesswork. It's math grounded in local solar resource data, honest assessment of your consumption, and realistic expectations about battery capacity and seasonal variation. The systems that work best are sized conservatively—they meet your actual needs, not your fantasy of unlimited power. They account for winter, not just summer. They're built with quality components that last, not cheap panels that degrade fast.</p>
   <p>Cochise County's excellent solar resource makes off-grid living more practical and affordable than in most US locations. But that practicality depends on getting the sizing right from the start. Contact Sulfur Springs Land Management to assess your property for off-grid solar potential and develop a system design tailored to your consumption, your terrain, and the real conditions of Cochise County.</p>
-  </div>`
+  
+  <section class="gear-block">
+    <h2>Gear for this job</h2>
+    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually put on a job.</em></p>
+    <ul>
+      <li><a href="https://www.amazon.com/dp/B0BJ78JZ2B?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">LiTime 12V 100Ah LiFePO4 Battery (Group 31)</a> — LiFePO4 tolerates the depth of discharge that lead-acid will not.</li>
+      <li><a href="https://www.amazon.com/dp/B073ZJ43L1?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Victron SmartSolar MPPT 100/50 Charge Controller</a> — MPPT recovers meaningful yield over PWM on a cold, bright morning.</li>
+      <li><a href="https://www.amazon.com/dp/B075RTSTKS?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Victron BMV-712 Smart Battery Monitor with 500A Shunt</a> — A shunt-based monitor is the only honest state-of-charge reading.</li>
+    </ul>
+  </section>
+</div>`
   },
   {
     id: '7',
     slug: 'should-i-save-money-with-b-grade-panels-or-go-a-grade',
-    title: "Should I save money with B-grade panels or go A-grade?",
-    description: "I\u2019m planning an off-grid solar setup and would like to get advice from people who\u2019ve already been through this.\n\nWhile comparing solar panels on Amazon, eBay, and Alibaba, I\u2019ve noticed they\u2019re often labeled as A-grade or B-grade, sometimes at very different price points.\n\nFrom what I underst",
+    title: "B-Grade vs A-Grade Solar Panels: Is the Discount Worth It Off-Grid?",
+    description: "What the A/B grade distinction actually describes, why B-grade panels are cheaper, and when the cosmetic-versus-performance trade-off is worth taking on a remote Arizona array.",
     date: '2026-05-01',
     author: 'Sulfur Springs Land Management',
     readTime: '8 min read',
     category: 'Rural Living',
-    keywords: ["should", "save", "money", "with", "grade", "panels"],
+    keywords: ["b grade solar panels", "a grade vs b grade solar panels", "cheap solar panels off grid", "solar panel grades explained", "off grid solar panel buying"],
     featuredImage: '/blog/should-i-save-money-with-b-grade-panels-or-go-a-grade.webp',
     content: `<div class="blog-content">
   <p>Going off-grid in Cochise County means making dozens of equipment decisions, and solar panel grade is one that catches a lot of landowners off guard. You're shopping online, you see a B-grade panel at 30 percent less than the A-grade equivalent, and the question lands hard: <em>Can I save that money without tanking my system?</em></p>
@@ -258,18 +279,27 @@ export const blogPosts: BlogPost[] = [
   <p>B-grade panels are a legitimate product category, and in some contexts—grid-tied systems, oversized arrays, experienced DIYers—they're a reasonable choice. But for off-grid living in Sulfur Springs Valley, where you're designing a system to be self-sufficient and you're living with the consequences of underperformance every day, A-grade is the right call.</p>
   <p>Our solar resource is exceptional. Our climate is stable. What we don't have is a grid to bail us out if our panels underdeliver. Spend the extra $1,000–1,500 on A-grade panels, design your system with margin, and you'll have reliable power for decades.</p>
   <p>If you're sizing an off-grid solar system for your Cochise County property and you're weighing these decisions, Sulfur Springs Land Management can help you design a system that's right-sized for our conditions and backed by equipment you can count on. Contact us to assess your property and develop a solar plan that accounts for Sulfur Springs Valley's unique climate and your actual power needs.</p>
-  </div>`
+  
+  <section class="gear-block">
+    <h2>Gear for this job</h2>
+    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually put on a job.</em></p>
+    <ul>
+      <li><a href="https://www.amazon.com/dp/B073ZJ43L1?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Victron SmartSolar MPPT 100/50 Charge Controller</a> — MPPT recovers meaningful yield over PWM on a cold, bright morning.</li>
+      <li><a href="https://www.amazon.com/dp/B075RTSTKS?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Victron BMV-712 Smart Battery Monitor with 500A Shunt</a> — A shunt-based monitor is the only honest state-of-charge reading.</li>
+    </ul>
+  </section>
+</div>`
   },
   {
     id: '6',
     slug: 'goat-kids-like-to-hide-always-use-the-chihuahua-rule',
-    title: "Goat kids like to hide. Always use the Chihuahua rule.",
-    description: "If you have goats on your homestead or farm for landscaping and goat purposes then you'll wanna breed them to get more. It's cheaper that way. But then comes the day the goat kid is born. You go to look for the goat kid and it's gone. \n\nDon't panic. \n\nThis is common. \n\nGoat kids like to hide. It's a",
+    title: "Goat Kids Hide: The Chihuahua Rule for Off-Grid Livestock",
+    description: "Newborn goat kids hide by instinct and are easy to miss on cleared desert ground. A simple sizing rule for checking a pasture before you move equipment or livestock across it.",
     date: '2026-05-01',
     author: 'Sulfur Springs Land Management',
     readTime: '8 min read',
     category: 'Rural Living',
-    keywords: ["goat", "kids", "like", "hide", "always", "chihuahua", "rule"],
+    keywords: ["goat kids hiding", "off grid goats arizona", "homestead goat breeding", "livestock on cleared land", "desert homestead goats"],
     featuredImage: '/blog/goat-kids-like-to-hide-always-use-the-chihuahua-rule.webp',
     content: `<div class="blog-content">
   <p>Breeding your own goats on an off-grid property in Cochise County makes economic sense. A healthy doe produces milk, meat, and offspring without the feed costs of buying animals from outside. But the first time you walk out to check on a newborn kid and find an empty pen, the panic sets in fast.</p>
@@ -324,7 +354,16 @@ export const blogPosts: BlogPost[] = [
   <p>Breeding goats on your off-grid property is one of the most cost-effective ways to produce milk, meat, and land management in a single animal. But it requires infrastructure, planning, and realistic expectations. A properly designed kidding pen, an understanding of normal kid behavior, and a willingness to let nature do its job are the foundations of success.</p>
   <p>The Chihuahua rule—design for small, determined animals—applies to more than just kidding pens. It applies to your entire property infrastructure. Off-grid homesteads in Cochise County need systems that account for the landscape, the heat, the wildlife, and the unpredictability of desert living.</p>
   <p>Sulfur Springs Land Management helps property owners in Cochise County build sustainable systems for livestock, water, land clearing, and off-grid living. Whether you're setting up your first kidding pen or planning a full-scale homestead, our team understands the specific challenges of rural property development in this region. Contact Sulfur Springs Land Management to assess your property and develop a plan for successful goat breeding and land management.</p>
-  </div>`
+  
+  <section class="gear-block">
+    <h2>Gear for this job</h2>
+    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually put on a job.</em></p>
+    <ul>
+      <li><a href="https://www.amazon.com/dp/B07VNGQYYZ?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Crackshot Guardz Snake Bite Leg Gaiters</a> — Most bites land below the knee, and brush work is exactly where they happen.</li>
+      <li><a href="https://www.amazon.com/dp/B00DF29ISK?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Ironclad Ranchworx Leather Gloves</a> — Catclaw and mesquite thorns go straight through fabric gloves.</li>
+    </ul>
+  </section>
+</div>`
   },
   {
     id: '1',
@@ -475,8 +514,18 @@ export const blogPosts: BlogPost[] = [
         <p>Off-grid living offers independence, but success requires proper design and realistic expectations. The good news is Cochise County's excellent solar resources make off-grid living more practical and affordable than in most US locations.</p>
 
         <p><strong>Contact Sulfur Springs Land Management to assess your property for off-grid solar potential.</strong></p>
-      </div>
-    `,
+      
+  <section class="gear-block">
+    <h2>Gear for this job</h2>
+    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually put on a job.</em></p>
+    <ul>
+      <li><a href="https://www.amazon.com/dp/B0BJ78JZ2B?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">LiTime 12V 100Ah LiFePO4 Battery (Group 31)</a> — LiFePO4 tolerates the depth of discharge that lead-acid will not.</li>
+      <li><a href="https://www.amazon.com/dp/B073ZJ43L1?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Victron SmartSolar MPPT 100/50 Charge Controller</a> — MPPT recovers meaningful yield over PWM on a cold, bright morning.</li>
+      <li><a href="https://www.amazon.com/dp/B07PNGVMZK?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Renogy 3000W Pure Sine Inverter Charger with Transfer Switch</a> — Pure sine matters for pumps, compressors and anything with a motor.</li>
+      <li><a href="https://www.amazon.com/dp/B075RTSTKS?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Victron BMV-712 Smart Battery Monitor with 500A Shunt</a> — A shunt-based monitor is the only honest state-of-charge reading.</li>
+    </ul>
+  </section>
+</div>`,
   },
   {
     id: '2',
@@ -636,8 +685,18 @@ export const blogPosts: BlogPost[] = [
         <p>Sulfur Springs Land Management specializes in off-grid property preparation. We handle site assessment, clearing, grading, drainage design, and infrastructure development. Our team understands Cochise County conditions and helps you navigate common challenges. Proper site preparation is the foundation for successful off-grid living.</p>
 
         <p><strong>Contact Sulfur Springs Land Management to assess your off-grid property and develop a preparation plan.</strong></p>
-      </div>
-    `,
+      
+  <section class="gear-block">
+    <h2>Gear for this job</h2>
+    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually put on a job.</em></p>
+    <ul>
+      <li><a href="https://www.amazon.com/dp/B001VU6BGA?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Komelon Open Reel Fiberglass Tape Measure, 300 ft</a> — Long enough to lay out a pad or a setback without pacing it.</li>
+      <li><a href="https://www.amazon.com/dp/B01I3IXTGW?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Rust-Oleum Inverted Marking Paint, Fluorescent Orange</a> — Marks corners and utility routes so nobody has to guess.</li>
+      <li><a href="https://www.amazon.com/dp/B00002NCJD?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Wooden Grading Stakes, bundle of 24</a> — For holding a grade line where you set it.</li>
+      <li><a href="https://www.amazon.com/dp/B0CQPSSSXN?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Sandbaggy Type C Silt Fence, 3 ft x 100 ft</a> — Erosion control on disturbed ground before monsoon, not after.</li>
+    </ul>
+  </section>
+</div>`,
   },
   {
     id: '4',
@@ -799,8 +858,17 @@ export const blogPosts: BlogPost[] = [
         <p>We can assess your property, identify shading issues, recommend array placement, and prepare the site so your solar installer can hit the ground running. Contact us to schedule a site visit and get a quote for the ground work behind your off-grid solar system.</p>
 
         <p><strong>Call (520) 402-5877 or email inquiries@sulfurspringslandmanagement.com to discuss your project.</strong></p>
-      </div>
-    `,
+      
+  <section class="gear-block">
+    <h2>Gear for this job</h2>
+    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually put on a job.</em></p>
+    <ul>
+      <li><a href="https://www.amazon.com/dp/B0BJ78JZ2B?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">LiTime 12V 100Ah LiFePO4 Battery (Group 31)</a> — LiFePO4 tolerates the depth of discharge that lead-acid will not.</li>
+      <li><a href="https://www.amazon.com/dp/B073ZJ43L1?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Victron SmartSolar MPPT 100/50 Charge Controller</a> — MPPT recovers meaningful yield over PWM on a cold, bright morning.</li>
+      <li><a href="https://www.amazon.com/dp/B07PNGVMZK?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Renogy 3000W Pure Sine Inverter Charger with Transfer Switch</a> — Pure sine matters for pumps, compressors and anything with a motor.</li>
+    </ul>
+  </section>
+</div>`,
   },
   {
     id: '5',
@@ -937,8 +1005,18 @@ export const blogPosts: BlogPost[] = [
         <p>We are veteran-owned, based in the Sulphur Springs Valley, and we do this work every week. We know the land here, we know what the equipment can and cannot do, and we will tell you straight what your project involves and what it costs.</p>
 
         <p><strong>Call (520) 402-5877 or email inquiries@sulfurspringslandmanagement.com to schedule your free site assessment.</strong></p>
-      </div>
-    `,
+      
+  <section class="gear-block">
+    <h2>Gear for this job</h2>
+    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually put on a job.</em></p>
+    <ul>
+      <li><a href="https://www.amazon.com/dp/B000KL2V6A?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Truper 5 lb Pick Mattock, 36 in Fibreglass Handle</a> — The tool that actually works in caliche when a shovel will not.</li>
+      <li><a href="https://www.amazon.com/dp/B0014C4QMG?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Silky ZUBAT Curved Hand Saw, 330 mm</a> — Cuts mesquite and catclaw faster than a bow saw and fits on a belt.</li>
+      <li><a href="https://www.amazon.com/dp/B00DF29ISK?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Ironclad Ranchworx Leather Gloves</a> — Catclaw and mesquite thorns go straight through fabric gloves.</li>
+      <li><a href="https://www.amazon.com/dp/B07VNGQYYZ?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Crackshot Guardz Snake Bite Leg Gaiters</a> — Most bites land below the knee, and brush work is exactly where they happen.</li>
+    </ul>
+  </section>
+</div>`,
   },
   {
     id: '3',
@@ -990,7 +1068,16 @@ export const blogPosts: BlogPost[] = [
 
       <h2>Get Started</h2>
       <p>Every off-grid property in Cochise County has unique water challenges based on location, terrain, and intended use. Contact us for a free site evaluation and we will recommend the most practical and cost-effective water solution for your specific property.</p>
-    </div>
-  `
+    
+  <section class="gear-block">
+    <h2>Gear for this job</h2>
+    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually put on a job.</em></p>
+    <ul>
+      <li><a href="https://www.amazon.com/dp/B01BFC5Q9Q?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">RomoTech 550 Gallon Storage Tank with Legs</a> — Legs give you gravity head without building a stand.</li>
+      <li><a href="https://www.amazon.com/dp/B002XM5G70?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">SHURFLO 4008 12V Fresh Water Pump, 3.0 GPM</a> — The standard 12V pressure pump for hauled-water systems.</li>
+      <li><a href="https://www.amazon.com/dp/B0837Z5PBJ?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Varify 17-in-1 Drinking Water Test Kit</a> — Baseline your water before you plumb anything to a tap.</li>
+    </ul>
+  </section>
+</div>`
   },
 ]
