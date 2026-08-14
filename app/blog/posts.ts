@@ -14,6 +14,393 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    id: '19',
+    slug: 'floodplain-use-permit-cochise-county-watercourse-setback',
+    title: "Floodplain Rules Reach Further Than the Flood Map",
+    description: "A floodplain use permit covers grading and fencing, not just building — and watercourse setbacks of 50 to 300 feet apply to every structure.",
+    date: '2026-07-06',
+    author: 'Sulfur Springs Land Management',
+    readTime: '10 min read',
+    category: 'Rural Living',
+    keywords: ["floodplain use permit cochise county", "cochise county flood control district", "100 year floodplain arizona", "watercourse setback arizona", "fema flood map cochise county"],
+    featuredImage: '/blog/water-systems.png',
+    content: `<div class="blog-content">
+  <p>Most people treat the flood map as a yes-or-no question about the house pad. Am I in it? No? Good, carry on.</p>
+
+  <p>Two things about Cochise County's floodplain rules break that assumption, and both of them catch work that has nothing to do with a foundation.</p>
+
+  <div class="callout"><p><strong>First: the permit is triggered by far more than building.</strong> If you are working within a designated floodplain you may need a Floodplain Use Permit before you <strong>build, grade, fill, install any type of wall or fencing, or make any other man-made change to the property</strong>.</p>
+  <p><strong>Second: watercourse setbacks apply to every structure, mapped floodplain or not.</strong> All structures must be set back from the primary bank of any watercourse to protect against erosion, and the distance runs from <strong>50 to 300 feet</strong> depending on the peak flow rate of that watercourse.</p></div>
+
+  <p>Read those together and the practical scope is much wider than the shaded area on a map. A fence line across a wash, a graded pad, a pushed-up berm to divert runoff — these are the things people do without thinking of them as floodplain work.</p>
+
+  <h2>What the county actually regulates</h2>
+
+  <p>Cochise County regulates the <strong>100-year floodplain</strong> — ground with a one percent chance of flooding in any given year. Permits are issued by the Flood Control District of Cochise County, and the coverage extends to extraction of sand and gravel or other material as well as construction.</p>
+
+  <p>The mapping sits in the Flood Insurance Study for Cochise County and its accompanying Flood Insurance Rate Maps, both dated <strong>28 August 2008</strong> and adopted by reference along with subsequent amendments and revisions. They are held at the county's Engineering and Natural Resources Department in Bisbee and on FEMA's website, and the county's INFOMap carries a National Flood Hazard Layer so you can check a parcel yourself.</p>
+
+  <p>Note the date. Mapping adopted in 2008 with later amendments is not the same as mapping that reflects the wash that moved in the last big monsoon. It is the regulatory picture, not necessarily the current physical one — which is why the erosion setback exists as a separate requirement.</p>
+
+  <h2>Building inside a regulated floodplain</h2>
+
+  <p>Where a structure is going into a regulatory floodplain or a FEMA special flood hazard area, the elevation requirement is specific:</p>
+
+  <ul>
+    <li><strong>Conventional homes</strong> — the lowest floor must be at least one foot above the expected 100-year flood, where a water surface elevation is known.</li>
+    <li><strong>Manufactured homes</strong> — the same one-foot margin, measured to the lowest structural frame.</li>
+  </ul>
+
+  <p>That applies to new residential structures and to substantial improvements of existing ones, which is worth knowing before a renovation turns into a floodplain matter.</p>
+
+  <h2>The setback that applies everywhere</h2>
+
+  <p>The erosion setback is the requirement we would most like people to internalise, because it is not conditional on being mapped. Every structure must sit back from the primary bank of any watercourse, at a distance between 50 and 300 feet driven by the peak flow rate.</p>
+
+  <p>On a parcel with a wash through it, that band is frequently the difference between a house site and a very expensive view. It interacts with everything else you are trying to place:</p>
+
+  <ul>
+    <li>The <strong>septic reserve area</strong>, which already has to be kept clear and undisturbed — see our <a href="/blog/septic-permit-cochise-county-composting-toilet">septic guide</a>.</li>
+    <li>The <strong>access drive</strong>, which wants twelve feet of width and somewhere to turn around — <a href="/blog/defensible-space-cochise-county-driveway-access">defensible space</a> covers why.</li>
+    <li>The <strong>building envelope</strong> once ordinary zoning setbacks are also applied, measured from the property line or the edge of road travelway, whichever is closer.</li>
+  </ul>
+
+  <p>Stack those constraints on a forty-acre parcel with a wash and it is common to find the workable building area is a fraction of what the acreage suggests. Better to discover that with a map than with a permit refusal.</p>
+
+  <h2>Where this sits in the sequence</h2>
+
+  <p>Floodplain belongs early, alongside <a href="/blog/legal-access-landlocked-property-cochise-county">legal access</a> and before any machinery arrives. The order that avoids rework:</p>
+
+  <ol>
+    <li>Check the parcel on the county's INFOMap with the flood hazard layer switched on.</li>
+    <li>Walk the ground and find the washes, including the ones that are dry and unobvious in June.</li>
+    <li>Establish whether a floodplain use permit is required for what you intend — including the grading and fencing, not just the house.</li>
+    <li>Fix the building envelope only after the watercourse setback and the septic areas are known.</li>
+    <li>Then site prep, following our <a href="/blog/off-grid-land-clearing-checklist">checklist</a>, with erosion control in place before monsoon rather than after.</li>
+  </ol>
+
+  <p>That last point is the one that costs money quietly. Disturbed desert soil moves in the first serious storm, and sediment leaving your parcel is both a practical problem and somebody else's.</p>
+
+  <h2>What we could not confirm</h2>
+
+  <ul>
+    <li>We could not confirm the fee for a floodplain use permit, how long review takes, or how long an approval lasts. Ask the Flood Control District.</li>
+    <li>We could not confirm exactly how the 50-to-300-foot setback band is calculated for a given watercourse, or who determines the peak flow rate. That is an engineering determination and it is not something to estimate yourself.</li>
+    <li>We could not confirm what counts as a "substantial improvement" for the elevation requirement, which is a defined term in floodplain regulation and matters for renovations.</li>
+    <li>We could not confirm whether the 2008 FIS and FIRMs have been superseded for the Sulfur Springs Valley specifically, or what amendments and revisions have been adopted since. Check the current effective mapping rather than relying on the adoption date.</li>
+    <li>We could not confirm the process or likelihood of a map amendment if you believe your parcel is wrongly shown as floodplain. The county has published guidance on that question; it is a FEMA process and it is not quick.</li>
+    <li>Nothing here is engineering or legal advice, and none of it substitutes for asking the Flood Control District about your parcel.</li>
+  </ul>
+
+  <h2>The short version</h2>
+
+  <p>Cochise County regulates the 100-year floodplain, and a floodplain use permit is not only about houses — building, grading, filling, walls, fencing and any other man-made change can all trigger it. Inside a regulated floodplain or a FEMA special flood hazard area, the lowest floor of a conventional home or the lowest structural frame of a manufactured home has to sit at least a foot above the expected 100-year flood where the elevation is known. And separately from all of that, every structure must be set back from the primary bank of any watercourse by somewhere between 50 and 300 feet depending on peak flow — a rule that applies whether or not you are in the mapped floodplain, and one that quietly decides where the house goes on a lot of parcels in this valley. Check the map, then walk the washes, then draw the building envelope.</p>
+
+  <p>Sulfur Springs Land Management grades, builds access and installs erosion control across the valley. Getting the drainage right before monsoon is cheaper than fixing it afterwards, every time.</p>
+</div>
+  <section class="gear-block">
+    <h2>Gear for this job</h2>
+    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually put on a job.</em></p>
+    <ul>
+      <li><a href="https://www.amazon.com/dp/B0DWZMB7SP?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Farm Plastic Supply Straw Wattle, 9 in x 25 ft</a> — Goes on contour across disturbed ground and slows sheet flow before it becomes a rill. Cheaper than regrading in August.</li>
+      <li><a href="https://www.amazon.com/dp/B0CQPSSSXN?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Sandbaggy Type C Silt Fence, 3 ft x 100 ft, with Stakes</a> — For keeping your sediment on your parcel, which is a neighbour problem as much as an erosion one.</li>
+      <li><a href="https://www.amazon.com/dp/B000W6900S?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">DeWitt Pro-5 Woven Weed Barrier Fabric, 4 ft x 250 ft</a> — Under gravel on slopes and drive edges, it holds the surface together through a storm.</li>
+      <li><a href="https://www.amazon.com/dp/B01I3IXTGW?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Rust-Oleum Inverted Marking Paint, Fluorescent Orange</a> — Mark the watercourse setback on the ground once it is worked out. An operator cannot see a line that only exists on a plan.</li>
+    </ul>
+  </section>
+`,
+  },
+  {
+    id: '18',
+    slug: 'cochise-county-owner-builder-certificate-of-occupancy',
+    title: "The Owner-Builder Option That Costs You the Certificate",
+    description: "Cochise County's no-inspection owner-builder path is cheaper and never gets a Certificate of Occupancy. What that means for lenders, insurers and buyers.",
+    date: '2026-06-29',
+    author: 'Sulfur Springs Land Management',
+    readTime: '11 min read',
+    category: 'Rural Living',
+    keywords: ["cochise county owner builder", "owner builder amendment arizona", "certificate of occupancy cochise county", "build your own home arizona", "owner builder affidavit ars 32-1121"],
+    featuredImage: '/blog/land-clearing.png',
+    content: `<div class="blog-content">
+  <p>Cochise County has one of the more permissive owner-builder regimes in the country, and it is a genuine reason people buy land here. It comes in two versions, and the cheaper one has a consequence stated plainly on the county's own page that a lot of people find out about years later.</p>
+
+  <div class="callout"><p><strong>Option 2 — no plan review and no building inspections — is not eligible for a Certificate of Occupancy.</strong> The county's reasoning is exactly what you would expect: it does not issue one "because the County does not verify construction safety or code compliance."</p>
+  <p>And per the county, a conditioned Certificate of Occupancy "confirms that minimum life-safety elements were reviewed but does not certify full code compliance. <strong>Lenders, insurers, or future buyers may request additional inspections or documentation.</strong>"</p></div>
+
+  <p>That is the trade. Not a hidden one — it is written down — but one that gets weighed at the wrong moment, when you are choosing between permit costs at the start rather than thinking about a mortgage application or an insurance renewal in year six.</p>
+
+  <h2>The two options, side by side</h2>
+
+  <table>
+    <thead><tr><th></th><th>Option 1</th><th>Option 2</th></tr></thead>
+    <tbody>
+      <tr><td><strong>Plan review</strong></td><td>Full construction plan review</td><td>None</td></tr>
+      <tr><td><strong>Building inspections</strong></td><td>Limited — mechanical, electrical, plumbing, fire prevention</td><td>None</td></tr>
+      <tr><td><strong>Certificate of Occupancy</strong></td><td>May be eligible for a <em>conditioned</em> CO</td><td><strong>Not eligible</strong></td></tr>
+      <tr><td><strong>Final visit</strong></td><td>Final inspection, may yield the conditioned CO</td><td>A site visit for administrative record only — not a code compliance inspection</td></tr>
+      <tr><td><strong>Who is responsible for code compliance</strong></td><td>You</td><td>You</td></tr>
+    </tbody>
+  </table>
+
+  <p>That last row is the same in both columns and worth saying out loud. Under the amendment the county does not verify full code compliance either way — the owner-builder remains responsible for meeting all applicable requirements. Option 1 buys you a second pair of eyes on the life-safety items and a document at the end. It does not transfer the responsibility.</p>
+
+  <h2>Eligibility is stricter than "four acres"</h2>
+
+  <p>The parcel size test has a second half that catches people, and the county spells it out with an example:</p>
+
+  <ul>
+    <li><strong>Minimum parcel size of 4 acres</strong>, and</li>
+    <li><strong>the zoning district's own site area minimum must also be at least 4 acres.</strong></li>
+  </ul>
+
+  <p>So RU-4 zoning, with a four-acre minimum, is eligible. An RU-2 parcel is <strong>not</strong> eligible even if the parcel itself is larger than four acres, because the district's minimum is smaller. Owning enough land is not the same as being in the right district, and the map is where you check — the county's INFOMap will show the zoning, and a Zoning Verification Letter gives it to you in writing.</p>
+
+  <p>Two further limits worth knowing before you plan around this. It is for owner-builders rather than commercial builders, and it is residential rather than commercial. And you may use it <strong>once every five years</strong> across all properties you own in unincorporated Cochise County — though that limit does not apply to non-habitable accessory structures or additions on the same property.</p>
+
+  <h2>The other owner-builder route, and its one-year string</h2>
+
+  <p>Separate from the amendment, you can simply build your own home as your own contractor. That requires all the usual permits plus an owner-builder affidavit, and the affidavit carries a condition people sign without reading.</p>
+
+  <p>By signing it you affirm that the property is intended for your <strong>sole occupancy</strong> and will not be offered for sale or rent <strong>within one year of completion</strong>, under A.R.S. &sect; 32-1121(A)(5). If your plan is to build and flip, or build and rent, that is the provision to take advice on before you sign rather than after.</p>
+
+  <h2>What still applies regardless</h2>
+
+  <p>The amendment reduces building inspections. It does not switch off the rest of the county:</p>
+
+  <ul>
+    <li><strong>Septic</strong> is still required and still permitted separately — and those permits expire after two years. See our <a href="/blog/septic-permit-cochise-county-composting-toilet">septic guide</a>.</li>
+    <li><strong>Zoning, floodplain and well</strong> approvals all still apply. A floodplain use permit may be required, and a right-of-way permit if you are accessed from a county road.</li>
+    <li><strong>Statewide codes</strong> continue to apply — plumbing, fire safety, smoke detectors — as do county and fire district codes.</li>
+    <li><strong>Building permits are required</strong> for new structures or renovations meeting or exceeding $1,000 in value, per state law, with some exemptions listed by the county.</li>
+    <li><strong>Alternative materials and methods are permitted</strong> but must still meet safety and code standards, which is the part that makes strawbale and earthbag builds viable here and also the part that makes them your problem to evidence.</li>
+  </ul>
+
+  <p>Timing: work must begin within 180 days of the permit being issued, and the permit stays active as long as work is not suspended or abandoned for 180 days. The Building Official may grant an extension.</p>
+
+  <h2>Addressing, and one detail that ties back to fire</h2>
+
+  <p>The county assigns an address automatically when a habitable structure permit is issued — no separate request. Once assigned, <strong>the address must be visibly posted at the driveway entrance</strong>. Mail is on you; the county does not activate USPS delivery.</p>
+
+  <p>That posted address is not a formality. It is the same number a fire engine is looking for at speed in poor visibility, which is the other end of the <a href="/blog/defensible-space-cochise-county-driveway-access">defensible space</a> question — where the twelve-foot width and fifteen-foot overhead clearance live.</p>
+
+  <h2>How to choose</h2>
+
+  <p>Option 2 makes sense if you are building for yourself, paying cash, intending to stay, comfortable being wholly responsible for code compliance, and clear-eyed that the house may be harder to finance, insure or sell later.</p>
+
+  <p>Option 1 makes sense if any of those is untrue — and particularly if a lender is involved at any point in the building's life, including a future buyer's lender rather than only your own.</p>
+
+  <p>The cost difference is real and so is the consequence. Weigh both, once, at the start.</p>
+
+  <h2>What we could not confirm</h2>
+
+  <ul>
+    <li>We could not confirm current permit fees or the cost difference between the two options. The county publishes a Development Services fee schedule and interactive fee calculators — use those rather than any figure from an article.</li>
+    <li><strong>We could not confirm how lenders or insurers in this area actually treat a house with no Certificate of Occupancy.</strong> The county warns they may request additional inspections or documentation; what any particular lender or insurer does is a question for them, and worth asking before you choose an option rather than after.</li>
+    <li>We could not confirm whether a house built under Option 2 can later obtain a Certificate of Occupancy retrospectively, or what that would involve.</li>
+    <li>We could not confirm which zoning districts besides RU-4 satisfy the four-acre site area minimum.</li>
+    <li>This is not legal or financial advice. The A.R.S. § 32-1121(A)(5) sole-occupancy affidavit in particular has consequences worth taking advice on.</li>
+    <li>The county's building code adoptions listed on its FAQ are 2015-edition I-codes with NFPA 70 (2014) and Appendix Q of the 2018 IRC for tiny homes, subject to local amendments. Codes get re-adopted; confirm the current editions when you apply.</li>
+  </ul>
+
+  <h2>The short version</h2>
+
+  <p>Cochise County lets you build your own rural house with reduced cost and reduced inspection, in two flavours. Option 1 gives you plan review, limited inspections of the mechanical, electrical, plumbing and fire items, and possibly a conditioned Certificate of Occupancy. Option 2 gives you neither review nor inspections and no Certificate of Occupancy at all, because the county has not verified anything — and the county itself flags that lenders, insurers and future buyers may then want more from you. Eligibility needs a parcel of at least four acres <em>in a district whose own minimum is at least four acres</em>, and you get one use of it every five years. Everything else — septic, zoning, floodplain, well, statewide codes — applies exactly as before. And if you take the plain owner-builder route instead, read the affidavit: sole occupancy, no sale or rent within a year of completion.</p>
+
+  <p>Sulfur Springs Land Management handles the site work either way — access, pad, drainage and the approvals that sit outside the building permit.</p>
+</div>
+  <section class="gear-block">
+    <h2>Gear for this job</h2>
+    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually put on a job.</em></p>
+    <ul>
+      <li><a href="https://www.amazon.com/dp/B003825F0M?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Johnson Level 40-6517 Self-Levelling Rotary Laser System</a> — If nobody is inspecting your work, your own layout has to be right. Foundations and pads are where that starts.</li>
+      <li><a href="https://www.amazon.com/dp/B008F6UJB6?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Bon Tool 8 x 8 in Dirt Tamper, Steel Handle</a> — Compaction around footings and trenches, done by hand where a machine cannot reach.</li>
+      <li><a href="https://www.amazon.com/dp/B001VU6BGA?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Komelon Open Reel Fiberglass Tape Measure, 300 ft</a> — Setbacks are measured from the property line or the edge of road travelway, whichever is closer. Long enough to check that yourself.</li>
+      <li><a href="https://www.amazon.com/dp/B00002NCJD?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Wooden Grading Stakes, bundle of 24</a> — Cheap, and the difference between a site plan and a building that sits where the site plan said.</li>
+    </ul>
+  </section>
+`,
+  },
+  {
+    id: '17',
+    slug: 'living-in-rv-while-building-cochise-county',
+    title: "You Cannot Camp on Your Own Vacant Land in Cochise County",
+    description: "The county's answer is a flat no — camping needs an established use on the parcel. What a temporary use permit actually allows while you build.",
+    date: '2026-06-22',
+    author: 'Sulfur Springs Land Management',
+    readTime: '9 min read',
+    category: 'Rural Living',
+    keywords: ["live in rv while building arizona", "cochise county temporary use permit", "camping on my own land arizona", "rv on vacant land cochise county", "temporary occupancy permit arizona"],
+    featuredImage: '/blog/land-clearing.png',
+    content: `<div class="blog-content">
+  <p>The plan is close to universal among people buying rural acreage: get the land cheap, park a travel trailer on it, live there while you build, and let the house happen at whatever pace the budget allows.</p>
+
+  <p>The first half of that plan is not permitted in unincorporated Cochise County, and the county's own wording is not ambiguous about it.</p>
+
+  <div class="callout"><p><strong>Cochise County, on camping on vacant property:</strong> "No. There must be a house, or some other established use, on the property in order to camp. This applies to <strong>all forms and durations</strong> of camping requests."</p></div>
+
+  <p>That last sentence closes the door people usually try next. It is not a question of a weekend versus a season, or a tent versus a trailer. Without an established use on the parcel, camping is not a permitted activity.</p>
+
+  <h2>What is actually allowed</h2>
+
+  <p>Two routes exist, and both require a permit rather than merely good intentions:</p>
+
+  <table>
+    <thead><tr><th>Situation</th><th>What the county allows</th></tr></thead>
+    <tbody>
+      <tr><td>There is already a principal use on the parcel, such as a house</td><td>You may be eligible to live in an RV for <strong>up to six months in a calendar year</strong>, with an approved temporary use permit</td></tr>
+      <tr><td>A principal use is <strong>being constructed</strong></td><td>You may live in an RV during construction, with an approved temporary use permit</td></tr>
+      <tr><td>Nothing on the parcel and nothing being built</td><td><strong>Neither camping nor RV occupancy</strong></td></tr>
+      <tr><td>Renting the RV out</td><td>Not permitted. "Recreational vehicles may not be rented out."</td></tr>
+    </tbody>
+  </table>
+
+  <p>The construction route is specifically framed as temporary occupancy of <strong>one</strong> RV in conjunction with the construction of a permitted principal use, residential or non-residential. One. Not a trailer for you and another for whoever is helping.</p>
+
+  <h2>The sequence this forces, and why that is not a bad thing</h2>
+
+  <p>Read together, those rules mean the RV cannot come first. Something has to be under construction before living on site becomes lawful, which means the permit comes before the trailer.</p>
+
+  <p>That order is more sensible than it first appears, because it forces the expensive discoveries to happen before you are committed:</p>
+
+  <ol>
+    <li><strong>Legal access</strong>, before anything — a parcel you cannot lawfully reach cannot be built on or delivered to. See <a href="/blog/legal-access-landlocked-property-cochise-county">owning land you cannot legally reach</a>.</li>
+    <li><strong>Zoning check.</strong> The county's interactive map will tell you the district; a Zoning Verification Letter gives you it in writing.</li>
+    <li><strong>Septic.</strong> A soil and site evaluation, then a design, then a permit — and remember that septic permits expire after two years, so do not pull one three years before you build. Our <a href="/blog/septic-permit-cochise-county-composting-toilet">septic guide</a> covers the process and the composting toilet trap.</li>
+    <li><strong>Water.</strong> Well or hauled, decided on numbers rather than hope — <a href="/blog/hauled-water-vs-drilling-a-well-in-sulfur-springs-valley-real-numbers">hauled water versus drilling</a>.</li>
+    <li><strong>Building permit</strong>, then the temporary use permit for the RV.</li>
+    <li><strong>Site work</strong> — pad, drive, drainage. Our <a href="/blog/off-grid-land-clearing-checklist">site prep checklist</a> has the phases.</li>
+  </ol>
+
+  <p>The people who get into trouble are the ones who do this in reverse: buy, move a trailer on, live there for a year, and then discover the perc test fails, or the access is not legal, or the zoning district will not carry what they intended to build.</p>
+
+  <h2>Things the RV still needs</h2>
+
+  <p>An approved temporary use permit is permission to occupy, not a suspension of everything else. In particular:</p>
+
+  <ul>
+    <li><strong>Wastewater has to go somewhere legitimate.</strong> If you are in the county's Owner-Builder Program you will be required to obtain a septic or alternative waste treatment permit, and an RV holding tank is not a wastewater system.</li>
+    <li><strong>Water has to arrive.</strong> Hauling to a tank is normal here; sizing it for a trailer plus a build is the part people underestimate.</li>
+    <li><strong>Power.</strong> A trailer plus tools plus a December week is a real load — see <a href="/blog/off-grid-solar-sizing-for-cochise-county-properties-a-practical-guide">off-grid solar in winter</a>.</li>
+    <li><strong>A right-of-way permit</strong> may be required if the property is accessed from a county road, and a <strong>floodplain use permit</strong> if any of it sits in a designated floodplain.</li>
+  </ul>
+
+  <h2>What we could not confirm</h2>
+
+  <ul>
+    <li>We could not confirm the fee for a temporary use permit, how long review takes, or how long an approval remains valid. The county reviews the application and sends written authorisation approving or denying — ask about duration when you apply, because a build that outlasts the permit is a predictable problem.</li>
+    <li>We could not confirm whether a temporary use permit for construction can be renewed or extended, or what happens if the build stalls.</li>
+    <li>We could not confirm whether the six-month allowance for an RV alongside an existing house must be continuous or can be split across a calendar year.</li>
+    <li>We could not confirm how the county treats a park model, a converted bus, or a tiny house on wheels for these purposes. The county has adopted Appendix Q of the 2018 IRC for tiny homes, which is a building code question rather than an occupancy one, and the two do not obviously line up. Ask before you buy the thing.</li>
+    <li>We could not confirm enforcement practice — how the rule is complained about, investigated or acted on. Absence of enforcement is not permission, and it is not a plan.</li>
+    <li>Rules change and this is a summary. Development Services is the authority for your parcel.</li>
+  </ul>
+
+  <h2>The short version</h2>
+
+  <p>You cannot camp on vacant land you own in unincorporated Cochise County — the county's answer is a flat no covering all forms and all durations, because camping requires an established use on the parcel. Living in an RV is allowed in two situations only: alongside an existing principal use such as a house, for up to six months in a calendar year, or while a principal use is under construction. Both need an approved temporary use permit, it is one RV rather than several, and renting it out is not permitted. So the trailer cannot lead — the access, the zoning, the septic and the building permit all come first, and the practical effect is that you find out whether the parcel works before you are living on it.</p>
+
+  <p>Sulfur Springs Land Management does the groundwork that has to happen in that window — access, pad, drainage — and doing it in the right order is most of the value.</p>
+</div>
+  <section class="gear-block">
+    <h2>Gear for this job</h2>
+    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually put on a job.</em></p>
+    <ul>
+      <li><a href="https://www.amazon.com/dp/B004ME11FS?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Camco TastePURE 25 ft Potable Water Hose</a> — Drinking-water rated rather than a garden hose. Obvious until the first summer, when a garden hose starts tasting like a garden hose.</li>
+      <li><a href="https://www.amazon.com/dp/B01BFC5Q32?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">RomoTech 325 Gallon Polyethylene Storage Tank with Legs</a> — Legs give you gravity feed without building a stand, which is what you want for a trailer rather than a house.</li>
+      <li><a href="https://www.amazon.com/dp/B00AUVSR1S?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Yaktek Levetator Water Tank Level Gauge</a> — Hauled water runs out on a schedule you set. Knowing the number beats climbing up to look.</li>
+      <li><a href="https://www.amazon.com/dp/B002XM5G70?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">SHURFLO Revolution 12V Fresh Water Pump, 3.0 GPM</a> — Runs off the trailer's 12 volt system, which matters when the house circuit does not exist yet.</li>
+    </ul>
+  </section>
+`,
+  },
+  {
+    id: '16',
+    slug: 'open-range-arizona-lawful-fence-cochise-county',
+    title: "Open Range: In Arizona You Fence Cattle Out, Not In",
+    description: "Arizona law bars recovery for livestock trespass unless your land sits inside a statutory lawful fence — and the statute specifies the wire spacing.",
+    date: '2026-06-15',
+    author: 'Sulfur Springs Land Management',
+    readTime: '10 min read',
+    category: 'Rural Living',
+    keywords: ["open range arizona", "arizona lawful fence definition", "livestock trespass arizona", "fence out state", "cochise county livestock rules", "no fence district arizona"],
+    featuredImage: '/blog/land-clearing.png',
+    content: `<div class="blog-content">
+  <p>A neighbour's cattle come through, eat the young trees you planted and flatten a section of drip line. In most of the country the next step is obvious: the animals' owner is responsible for the animals.</p>
+
+  <p>Arizona inverts that, and the inversion is written into statute.</p>
+
+  <div class="callout"><p><strong>A.R.S. &sect; 3-1427:</strong> an owner or occupant of land "is not entitled to recover for damage resulting from the trespass of animals unless the land is enclosed within a lawful fence" — except for land inside a no-fence district.</p>
+  <p>The burden sits with you. Arizona is a fence-out state: the obligation is on the landowner who wants animals kept off, not on the owner of the animals.</p></div>
+
+  <p>This is the single most consequential thing a buyer moving here from elsewhere does not know, and it is worth understanding before you plant anything you care about.</p>
+
+  <h2>"Lawful fence" is a technical term, not a description</h2>
+
+  <p>The statute does not say "a good fence" or "a stock-proof fence". A.R.S. &sect; 3-1426 gives a specification, and it is unusually precise:</p>
+
+  <table>
+    <thead><tr><th>Element</th><th>The statutory standard</th></tr></thead>
+    <tbody>
+      <tr><td>Posts</td><td>Good and substantial, firmly placed in the ground, at intervals of <strong>not more than 30 feet</strong></td></tr>
+      <tr><td>Wire</td><td><strong>At least four</strong> barbed wires of the usual type, tightly stretched and secured to the posts</td></tr>
+      <tr><td>Top wire</td><td><strong>50 inches</strong> above the ground</td></tr>
+      <tr><td>Remaining wires</td><td>At <strong>12, 22 and 32 inches</strong> below the top wire</td></tr>
+    </tbody>
+  </table>
+
+  <p>Work the spacing through and the four wires sit at roughly 50, 38, 28 and 18 inches above ground. That is a specific fence, and a great many fences that look entirely respectable do not meet it — three strands, posts at 40 feet, a top wire at 42 inches.</p>
+
+  <p>There is a sensible escape hatch. The statute also deems lawful any fence built of other materials "equally as strong and otherwise effective to turn livestock" as the specified design. So a well-built pipe fence or heavy field fencing is not disqualified for failing to be barbed wire. But the test is whether it turns livestock, and that is a question someone else may end up deciding.</p>
+
+  <h2>The asymmetry worth sitting with</h2>
+
+  <p>Here is where it gets uncomfortable. Cochise County's own rules say that livestock kept for private use — cattle, horses, sheep, llamas, alpacas, goats, mules, swine, asses and ratites such as ostriches and emus — are allowed on any parcel of at least 36,000 square feet, roughly 0.82 acres, in any zoning district, and that <strong>all livestock must be confined to prevent roaming</strong>. Corrals, stables, shade structures and manure piles must sit at least 50 feet from every property line.</p>
+
+  <p>So your animals must be confined. Somebody else's animals, wandering onto unfenced land under open range, leave you without a claim unless you had already built a lawful fence. Both propositions are true at once, and they are not in conflict — one is a county land-use rule about keeping stock, the other is a state rule about who bears the cost of keeping stock out.</p>
+
+  <p>The practical reading: budget fencing as infrastructure, not as landscaping. It sits alongside <a href="/blog/legal-access-landlocked-property-cochise-county">legal access</a> and water in the list of things that determine whether a parcel does what you want, and it is frequently the largest single line after the well.</p>
+
+  <h2>Fence the thing, not the boundary</h2>
+
+  <p>On a forty-acre parcel, perimeter fencing to statutory spec is a serious number. It is also usually the wrong first purchase.</p>
+
+  <p>What you actually need protected is small and specific: the house yard, the orchard, the garden, the septic reserve area you are not allowed to drive on, the young trees. Fencing those to a proper standard and leaving the rest of the parcel open costs a fraction of the perimeter and solves most of the problem — at the cost of accepting that cattle will use the rest of your land.</p>
+
+  <p>Whether that trade is acceptable depends on what you bought the land for. If you are running your own stock it is not, and the perimeter becomes unavoidable. If you are building a house and want a garden that survives, it very much is.</p>
+
+  <p>Two related points from elsewhere on this site. Goats are a special case, because kids hide by instinct and are easy to lose on cleared ground — see <a href="/blog/goat-kids-like-to-hide-always-use-the-chihuahua-rule">the Chihuahua rule</a>. And a fence line still has to be cleared before it can be built, which is subject to the same rules as any other clearing work in our <a href="/blog/land-clearing-cochise-county-guide">land clearing guide</a>.</p>
+
+  <h2>What we could not confirm</h2>
+
+  <ul>
+    <li><strong>We are not attorneys and this is not legal advice.</strong> Livestock trespass disputes turn on facts, on the exact condition of the fence, and on Arizona case law we have not reviewed. If damage has already happened, that is a conversation with a lawyer, not with a blog.</li>
+    <li>We could not confirm whether any part of Cochise County or the Sulfur Springs Valley is inside a designated <strong>no-fence district</strong>, which would reverse the default entirely. This matters enormously and we could not settle it from a primary source. Ask the County, and ask the Arizona Department of Agriculture.</li>
+    <li>We could not confirm how the "equally as strong and otherwise effective to turn livestock" alternative is assessed in practice, or by whom.</li>
+    <li>We could not confirm whether open range affects liability the other way — for a collision with livestock on a road, for example. That is a different question with different law and we have not researched it.</li>
+    <li>We have not reviewed Arizona case law on this, and there is some. If a dispute is live, assume the statute is the beginning of the analysis rather than the end of it.</li>
+    <li>Statutory text is from the current Arizona Revised Statutes as published. Check the current text before relying on it.</li>
+  </ul>
+
+  <h2>The short version</h2>
+
+  <p>Arizona is a fence-out state. Under A.R.S. &sect; 3-1427 you cannot recover for damage done by trespassing animals unless your land was already enclosed within a lawful fence, and "lawful fence" is a statutory specification rather than a compliment — posts no more than 30 feet apart, at least four barbed wires, top wire at 50 inches, the others 12, 22 and 32 inches below it, or something demonstrably as effective at turning livestock. Meanwhile the county requires your own livestock to be confined, on any parcel over about 0.82 acres, with corrals set 50 feet off the property lines. The cheap and usually correct answer is to fence what matters — house yard, garden, orchard, septic reserve — to a proper standard, rather than running a perimeter you cannot afford to build properly.</p>
+
+  <p>Sulfur Springs Land Management clears fence lines and builds access across the valley. If you are pricing a perimeter, the clearing is usually the part people forget to cost.</p>
+</div>
+  <section class="gear-block">
+    <h2>Gear for this job</h2>
+    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually put on a job.</em></p>
+    <ul>
+      <li><a href="https://www.amazon.com/dp/B006767T96?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">6-1/2 ft Green Studded Steel T-Post</a> — The statute allows 30-foot post spacing as a maximum. On uneven desert ground, closer is what actually keeps wire at the right height.</li>
+      <li><a href="https://www.amazon.com/dp/B074F1DN8C?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">2 Ton Come Along Power Puller with 10 ft Cable</a> — "Tightly stretched" is in the statute. A come-along is how four wires get there without a tractor.</li>
+      <li><a href="https://www.amazon.com/dp/B00DF29ISK?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Ironclad Ranchworx Leather Gloves</a> — Barbed wire under tension. Buy the good ones once.</li>
+      <li><a href="https://www.amazon.com/dp/B000KL0WDE?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Keson GB500 Braided Nylon Mason Twine, 500 ft</a> — A straight fence is a cheaper fence, because you buy the wire you planned for.</li>
+    </ul>
+  </section>
+`,
+  },
+
+  {
     id: '15',
     slug: 'rural-internet-cochise-county-broadband-map',
     title: "Rural Internet: The FCC Map Shows Claims, Not Service",
