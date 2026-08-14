@@ -14,6 +14,326 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    id: '22',
+    slug: 'home-occupation-permit-cochise-county-rural-business',
+    title: "Running a Business From Rural Land: The 25% Rule",
+    description: "Cochise County caps a home occupation at 25% of the residence floor area — even in a detached shop — and prohibits outdoor storage entirely.",
+    date: '2026-07-27',
+    author: 'Sulfur Springs Land Management',
+    readTime: '10 min read',
+    category: 'Rural Living',
+    keywords: ["home occupation cochise county", "run a business from home arizona", "home business permit rural arizona", "workshop on rural property arizona", "cochise county zoning business"],
+    featuredImage: '/blog/land-clearing.png',
+    content: `<div class="blog-content">
+  <p>Part of the appeal of forty acres is the assumption that what you do on it is your business. For actual business, that assumption needs adjusting — Cochise County permits home occupations in every zoning district except Heavy Industry, and it regulates them with a specific goal in mind.</p>
+
+  <p>The county states that goal outright: home occupations are regulated to preserve residential character, and <strong>generally, business activities should be invisible to the neighbourhood</strong>.</p>
+
+  <p>Invisible is a high bar, and two of the standards enforce it in ways that catch rural trades hard.</p>
+
+  <div class="callout"><p><strong>The 25% rule, and where it is measured.</strong> A home occupation may occupy an area no greater than <strong>25% of the floor area of the residence</strong> — and this applies "whether occurring within the residence or in a detached structure."</p>
+  <p>The county's own example: a 1,200 square foot home permits 300 square feet of home occupation, in the house or in a workshop. Build a 2,000 square foot shop and you still only get 300 square feet of business use out of it, because the cap is calculated from the <em>house</em>.</p></div>
+
+  <h2>The other one that ends most rural trades</h2>
+
+  <p>Among the prohibited items, alongside hazardous materials and anything generating noise, vibration, odour, dust, heat or glare detectable beyond a property line, is this:</p>
+
+  <p><strong>"Any outdoor display or storage of materials, goods, supplies, or equipment."</strong></p>
+
+  <p>No qualifier, no screening exception, no acreage threshold. If your business involves a skid steer, a stack of pipe, a pallet of block, a trailer of tools or a yard of anything, it does not fit inside a home occupation as written — and the size of your parcel does not change that.</p>
+
+  <p>This is worth confronting early, because it is the difference between a landscaping business run from a rural parcel and a landscaping business that needs a different zoning basis entirely.</p>
+
+  <h2>The full standards</h2>
+
+  <table>
+    <thead><tr><th>Requirement</th><th>Standard</th></tr></thead>
+    <tbody>
+      <tr><td>Where permitted</td><td>All zoning districts <strong>except Heavy Industry (HI)</strong>, as an accessory use</td></tr>
+      <tr><td>Floor area</td><td>No more than <strong>25% of the residence's</strong> floor area, wherever the activity happens</td></tr>
+      <tr><td>Appearance</td><td><strong>No change</strong> to the residential appearance of the premises</td></tr>
+      <tr><td>Employees</td><td>No more than <strong>two people</strong> on site other than residents or immediate family</td></tr>
+      <tr><td>Parking</td><td>Any parking generated must be met <strong>onsite, off the street</strong></td></tr>
+      <tr><td>Traffic</td><td>No greater volume than normally expected in a residential neighbourhood</td></tr>
+      <tr><td>Signage</td><td>One on-site, non-illuminated identification sign, <strong>maximum 4 square feet and 5 feet high</strong></td></tr>
+      <tr><td>Outdoor storage</td><td><strong>Prohibited entirely</strong></td></tr>
+    </tbody>
+  </table>
+
+  <p>The signage rule has a sensible carve-out. Vehicle signage does not count against it — signs permanently painted or wrapped on a vehicle, adhesive vinyl on a window, or magnetic signs on vehicles actively used in the business. Those vehicles must be operable and lawfully parked, which is the county's way of saying a dead truck with your logo on it is not signage, it is outdoor storage.</p>
+
+  <h2>Applying</h2>
+
+  <p>The process is administrative and reasonably quick:</p>
+
+  <ol>
+    <li>Complete the Home Occupation Application.</li>
+    <li>Prepare a <strong>site plan</strong> if the occupation is in a detached structure, or a <strong>floor plan</strong> if it is inside the residence.</li>
+    <li>Submit through the county permitting portal under "Apply for a P&amp;Z project".</li>
+    <li>Planning staff review it and provide instructions for the processing fee.</li>
+    <li>You receive a written decision by email — approved, denied, or approved with conditions.</li>
+  </ol>
+
+  <p>One useful detail at the end: if you are constructing an accessory structure to house the home occupation, you apply for a residential building permit for that structure. <strong>If you are not constructing anything, no other permits are necessary.</strong> A consultancy run from a spare room is genuinely just the one application.</p>
+
+  <p>If the structure is new, the <a href="/blog/building-permit-exemptions-cochise-county">permit exemptions</a> are worth checking first — though note that a 200 square foot shed exemption requires no utilities, which a workshop will almost certainly have.</p>
+
+  <h2>When a home occupation is the wrong instrument</h2>
+
+  <p>If the outdoor storage prohibition or the 25% cap rules you out, the answer is not to proceed quietly. The county has other mechanisms — a Special Use Authorization, a rezoning, or in the case of an ADU used commercially, a Special Use Authorization is specifically required for any use beyond a permitted home occupation. Those are real processes with real timelines, and they are the correct route for a business with a yard.</p>
+
+  <p>It is also worth knowing what the county does <em>not</em> regulate here. Livestock for private use is a separate allowance entirely, permitted on parcels over 36,000 square feet in all districts, with the county not regulating numbers — see <a href="/blog/open-range-arizona-lawful-fence-cochise-county">open range and fencing</a>. And agricultural exemptions are a distinct category from home occupations, which is a question worth asking if what you are doing is farming rather than trading.</p>
+
+  <h2>What we could not confirm</h2>
+
+  <ul>
+    <li>We could not confirm which specific activities the county considers eligible. It publishes an FAQ on what may qualify; the safest approach on anything unusual is to describe the activity to Planning before applying.</li>
+    <li><strong>A home occupation permit is not a business licence</strong> — the county has a separate FAQ making that distinction, and we have not researched state or local licensing, TPT registration or anything else your business may separately need.</li>
+    <li>We could not confirm current processing fees. They are in the county's planning fee schedule.</li>
+    <li>We could not confirm how "detectable beyond any property line" is measured for noise, dust or glare, or whether it is complaint-driven in practice.</li>
+    <li>We could not confirm whether the 25% cap uses gross or livable floor area for the residence, which matters at the margin.</li>
+    <li>We could not confirm whether an approval runs with the property or with the applicant, or whether it needs renewal.</li>
+    <li>This is a summary of county materials rather than advice on your business. Development Services decides.</li>
+  </ul>
+
+  <h2>The short version</h2>
+
+  <p>Home occupations are permitted in every Cochise County zoning district except Heavy Industry, as an accessory use, and the governing idea is that the business should be invisible from outside. The floor area cap is 25% of the <em>residence</em> — not of the workshop — so a big shop does not buy you more business space. No more than two non-family employees on site, parking met on your own ground, no change to residential appearance, and one non-illuminated sign of four square feet at five feet high, with vehicle signage exempt. The rule that decides it for most rural trades is the flat prohibition on any outdoor display or storage of materials, goods, supplies or equipment. If your work needs a yard, a home occupation is the wrong instrument and a Special Use Authorization is the conversation to have instead. If it does not, and you are not building anything, it is one application and no other permits.</p>
+
+  <p>Sulfur Springs Land Management builds the pads, access and hardstanding a rural workshop sits on — and knowing which side of the outdoor-storage line you are on before pouring concrete is worth the phone call.</p>
+</div>
+  <section class="gear-block">
+    <h2>Gear for this job</h2>
+    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually put on a job.</em></p>
+    <ul>
+      <li><a href="https://www.amazon.com/dp/B07NWFJH9B?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">LEPOWER Solar LED Security Light, 1600 lm, Motion Sensor</a> — A workshop a long way from the house wants light on approach, and solar avoids trenching a circuit you would then need permitted.</li>
+      <li><a href="https://www.amazon.com/dp/B077Q5XM87?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">iCrimp MC4 Solar Crimping Tool Kit, 14-10 AWG</a> — If the shop gets its own small array, properly crimped MC4 ends are the difference between a connection and a fire.</li>
+      <li><a href="https://www.amazon.com/dp/B07S6WQ1DY?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Amazon Basics Aluminium Storage Clipboard, two-tier</a> — Site plan, floor plan and the approval letter, in one place, for the day somebody asks.</li>
+      <li><a href="https://www.amazon.com/dp/B00DF29ISK?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Ironclad Ranchworx Leather Gloves</a> — Unglamorous, and the thing you actually reach for every day in a rural shop.</li>
+    </ul>
+  </section>
+`,
+  },
+  {
+    id: '21',
+    slug: 'accessory-dwelling-unit-cochise-county-park-model',
+    title: "Second Dwellings: What Cochise County Allows on One Parcel",
+    description: "An ADU needs planning approval before any building permit, the owner must live on site, and an RV never qualifies. Park models do, with conditions.",
+    date: '2026-07-20',
+    author: 'Sulfur Springs Land Management',
+    readTime: '11 min read',
+    category: 'Rural Living',
+    keywords: ["accessory dwelling unit cochise county", "adu arizona rules", "park model as adu arizona", "guest house cochise county", "second home on my land arizona", "casita permit arizona"],
+    featuredImage: '/blog/land-clearing.png',
+    content: `<div class="blog-content">
+  <p>The question comes in several forms — a casita for a parent, a guest house, somewhere for a caretaker, a second small place to rent. Cochise County has a specific answer, and it is more permissive than most people expect in one respect and considerably stricter in another.</p>
+
+  <div class="callout"><p><strong>Start here, because it reverses the usual order.</strong> Written planning review and approval are required <strong>before any building permit is issued</strong>. An ADU is a planning application first and a construction project second — you do not apply for a building permit and sort the zoning out later.</p></div>
+
+  <h2>What counts as an ADU</h2>
+
+  <p>The county defines it as a self-contained living unit on the same lot or parcel as a single-family dwelling of greater square footage, including its own sleeping and sanitation facilities and possibly its own kitchen. The stated intent is to enhance housing options and affordability while preserving the character of residential and rural districts.</p>
+
+  <p>Three requirements gate the whole thing:</p>
+
+  <ul>
+    <li><strong>An existing primary dwelling.</strong> The parcel must already have a single-family home. An ADU cannot come first, which rules out the popular plan of building the small place, living in it, and adding the main house later.</li>
+    <li><strong>Owner occupancy.</strong> The property owner must live in either the primary dwelling or the ADU as their primary residence. This is the requirement that stops a parcel becoming two rentals.</li>
+    <li><strong>Zoning compliance.</strong> ADUs are permitted where a single-family dwelling is permitted.</li>
+  </ul>
+
+  <p>The permissive part: the county allows <strong>at least one attached and one detached ADU per parcel</strong>, and <strong>on lots one acre or larger, one additional detached ADU</strong> — subject to the rest of the standards, and excepting areas with high-noise or accident-potential zoning near airports. On rural acreage that is a genuinely useful allowance.</p>
+
+  <h2>Size, and a discrepancy worth knowing about</h2>
+
+  <p>Height is simple: the ADU must be equal to or lesser in height than the existing principal dwelling.</p>
+
+  <p>Size is where we have to be careful, because <strong>the county's own materials do not agree with each other</strong>. The Accessory Dwelling Units page states the ADU is limited to a maximum of <strong>75%</strong> of the gross square footage of the principal dwelling or 1,000 square feet, whichever is less. The county's Development Services FAQ, answering the same question, says <strong>50%</strong> of the livable square footage or 1,000 square feet, whichever is less.</p>
+
+  <p>Those produce very different answers on a 1,200 square foot house — 900 square feet against 600. We are not going to pick one for you. <strong>Confirm the current figure with Planning in writing before you design anything</strong>, and see the caveats below.</p>
+
+  <p>Gross square footage, for these purposes, is the interior habitable area — the county glosses it as the area that is heated or cooled.</p>
+
+  <h2>What cannot be an ADU, and the one that can</h2>
+
+  <p>Recreational vehicles, railroad cars and camper shells are <strong>not permitted</strong> for use as an ADU in any zoning district. That is worth reading next to the separate rule that you may live in an RV during construction with a temporary use permit — a permitted temporary occupancy and a permanent second dwelling are different things, and the first does not become the second by the passage of time. Our post on <a href="/blog/living-in-rv-while-building-cochise-county">living in an RV while you build</a> covers that side.</p>
+
+  <p>Park model trailers are the exception, and they are a statutory one. Under A.R.S. &sect; 11-820.03 the county must allow a park model trailer as an ADU for use as a single-family residence on any parcel zoned for <strong>one dwelling unit per three acres or greater</strong>, placed on a semi-permanent or permanent foundation and connected to utilities.</p>
+
+  <p>The installation standards are specific:</p>
+
+  <table>
+    <thead><tr><th>Requirement</th><th>Standard</th></tr></thead>
+    <tbody>
+      <tr><td>Size</td><td>Gross interior area <strong>at least 320 and no more than 400 square feet</strong></td></tr>
+      <tr><td>Foundation</td><td>Concrete pads and piers with Minuteman anchors, <em>or</em> concrete pads and piers with block skirting on a footing using straps and wedges</td></tr>
+      <tr><td>Skirting</td><td>Vinyl skirting if block skirting is not used</td></tr>
+      <tr><td>Utilities</td><td>Proper connections — water, septic, electric</td></tr>
+      <tr><td>Door landings</td><td><strong>36 by 36 inches</strong> at all door openings; a handrail where there are four or more risers</td></tr>
+      <tr><td>Axles and wheels</td><td><strong>All must be removed</strong></td></tr>
+    </tbody>
+  </table>
+
+  <p>That last line is the philosophical one. The park model stops being a vehicle and becomes a building, and the county wants that to be irreversible.</p>
+
+  <p>Manufactured homes and rehabilitated mobile homes may be permitted as an ADU only in zoning districts where they are already a permitted use.</p>
+
+  <h2>The practical constraints people hit</h2>
+
+  <p><strong>Ownership cannot be split.</strong> An ADU may not be subdivided or otherwise segregated in ownership from the principal dwelling. If the plan was to build a second house and sell it separately, that is a land division question, not an ADU one.</p>
+
+  <p><strong>Septic has to carry it.</strong> If the ADU uses a septic system, the system must be sized to handle the additional waste, and enlargement or an entirely new system may be required. This is frequently the real cost of an ADU and it is worth pricing before the walls — our <a href="/blog/septic-permit-cochise-county-composting-toilet">septic guide</a> covers the evaluation and the reserve area, which the ADU also cannot sit on.</p>
+
+  <p><strong>Utility easements are hard boundaries.</strong> An ADU may not be built on top of a current or planned public utility easement unless you have written consent from any utility currently using it or that may use it in future. Note "may use in future" — the absence of a line today is not the absence of an easement.</p>
+
+  <p><strong>Utilities can be shared or separate.</strong> Meters may be either, which matters more on an off-grid parcel than a metered one, because a second dwelling is a second load through a December week. See <a href="/blog/off-grid-solar-sizing-for-cochise-county-properties-a-practical-guide">off-grid solar in winter</a> before you assume the existing array will carry it.</p>
+
+  <h2>When you need more than administrative approval</h2>
+
+  <ul>
+    <li>A <strong>Special Use Authorization</strong> is required to use an ADU for commercial purposes, or for any use other than a permitted home occupation.</li>
+    <li>A <strong>Variance</strong> is required for any deviation from the development standards.</li>
+  </ul>
+
+  <p>The process itself is straightforward: application plus a site plan showing compliance, submitted through the county's permitting portal, reviewed by planning staff, decided in writing by email as approval, denial or conditional approval. Only then do you apply for the residential building permit.</p>
+
+  <h2>What we could not confirm</h2>
+
+  <ul>
+    <li><strong>The maximum size.</strong> The county's ADU page says 75% of gross square footage; its Development Services FAQ says 50% of livable square footage. Both cap at 1,000 square feet. We could not determine which is current and we are not going to guess — get it in writing from Planning before you design.</li>
+    <li>We could not confirm whether "livable" and "gross" square footage are intended to mean the same thing in those two sources, which may be the whole explanation or may not be.</li>
+    <li>We could not confirm current application or permit processing fees. The county's planning fee schedule is published in its ordinances.</li>
+    <li>We could not confirm how the owner-occupancy requirement is monitored or enforced over time, or what happens if the owner later moves away.</li>
+    <li>We could not confirm whether a park model that meets the 320 to 400 square foot range is also subject to the percentage size cap, or whether the statutory allowance overrides it.</li>
+    <li>We could not confirm which zoning districts in the valley permit manufactured homes, which decides whether that route is open on your parcel.</li>
+    <li>This is a summary of county materials, not planning advice for your parcel. Development Services is the authority.</li>
+  </ul>
+
+  <h2>The short version</h2>
+
+  <p>A second dwelling on one parcel is allowed, but as a planning application that must be approved in writing before any building permit is issued. You need an existing single-family home first, you must live on the parcel yourself, and the ADU must be no taller than the main house. The county permits at least one attached and one detached ADU per parcel, plus one additional detached ADU on lots of an acre or more. An RV, a railroad car or a camper shell can never be the ADU; a park model can, under A.R.S. &sect; 11-820.03 on parcels zoned one dwelling per three acres or more, at 320 to 400 square feet, on a proper foundation, with the axles and wheels removed. Ownership can never be split from the main house. And check the size cap directly with Planning, because the county's own two published answers do not match.</p>
+
+  <p>Sulfur Springs Land Management does the pads, access and utility trenching a second dwelling needs. The septic capacity question is usually the one worth answering first.</p>
+</div>
+  <section class="gear-block">
+    <h2>Gear for this job</h2>
+    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually put on a job.</em></p>
+    <ul>
+      <li><a href="https://www.amazon.com/dp/B0DJ2P2XN5?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Victron SmartShunt 300A Battery Monitor</a> — A second dwelling is a second load. Knowing what the bank actually does over a week beats guessing before you add one.</li>
+      <li><a href="https://www.amazon.com/dp/B07KT9F38P?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">EPEVER 40A MPPT Charge Controller (Tracer4210AN G3)</a> — If the ADU gets its own small array rather than sharing, this is the sensible size to start at.</li>
+      <li><a href="https://www.amazon.com/dp/B00BSYSLXU?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">MidNite Solar MNEPV60 DC Breaker, 150VDC 60A</a> — Separate or shared metering is a county question. Proper DC overcurrent protection is not optional either way.</li>
+      <li><a href="https://www.amazon.com/dp/B00002NCJD?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Wooden Grading Stakes, bundle of 24</a> — Stake the ADU footprint against the utility easement and the septic reserve before anyone digs.</li>
+    </ul>
+  </section>
+`,
+  },
+  {
+    id: '20',
+    slug: 'building-permit-exemptions-cochise-county',
+    title: "What You Can Build Without a Permit in Cochise County",
+    description: "A 200 sq ft shed is exempt until you run power to it. The county's exemption list, the $1,000 threshold, and the fence rule that catches people.",
+    date: '2026-07-13',
+    author: 'Sulfur Springs Land Management',
+    readTime: '10 min read',
+    category: 'Rural Living',
+    keywords: ["building permit exemptions cochise county", "shed without permit arizona", "do i need a permit for a fence arizona", "water tank permit arizona", "cochise county building permit threshold"],
+    featuredImage: '/blog/land-clearing.png',
+    content: `<div class="blog-content">
+  <p>Cochise County publishes a list of single-family residential projects that do not need a building permit. It is genuinely useful, and it is also narrower than people remember it being — because most of the entries carry a condition, and the conditions are where the trouble is.</p>
+
+  <p>Start with the threshold everything sits on. Per state law, building permits are required for new structures or renovations of existing structures that <strong>meet or exceed $1,000 in value</strong>. Below that, and within the exemption list, you are clear. Above it and outside the list, you are not.</p>
+
+  <div class="callout"><p><strong>The condition people forget:</strong> the shed exemption covers "one-story detached accessory structures used as tool and storage sheds, playhouses, and similar uses, provided that the floor area is not greater than <strong>200 square feet</strong> and there are <strong>no utilities</strong>."</p>
+  <p>Two conditions, and the second is the one that bites. Run a light circuit or a hose bib to that shed and it is no longer the thing the exemption describes.</p></div>
+
+  <h2>The entries that matter most on rural land</h2>
+
+  <p>The full list covers building, electrical, gas, mechanical, plumbing and a catch-all "other". These are the ones that come up on parcels out here:</p>
+
+  <table>
+    <thead><tr><th>Project</th><th>The limit</th></tr></thead>
+    <tbody>
+      <tr><td>Storage shed</td><td>≤200 sq ft, one storey, detached, <strong>no utilities</strong></td></tr>
+      <tr><td>Water tank on grade</td><td>Capacity <strong>≤5,000 gallons</strong> and height-to-width ratio <strong>no more than 2:1</strong></td></tr>
+      <tr><td>Deck</td><td><strong>Under 30 inches</strong> above the lowest grade within 5 feet of the deck edge</td></tr>
+      <tr><td>Retaining wall</td><td>Up to <strong>4 feet</strong> in height</td></tr>
+      <tr><td>Fence — wood, block or wire</td><td>Up to <strong>7 feet</strong> high, but see the informational permit trap below</td></tr>
+      <tr><td>Satellite dish / residential antenna</td><td>Exempt</td></tr>
+      <tr><td>Concrete walkways and patio slabs</td><td>Exempt, provided not in county right-of-way</td></tr>
+      <tr><td>Prefabricated pool</td><td>Under 24 in deep, ≤5,000 gallons, entirely above ground</td></tr>
+      <tr><td>Re-roof, re-side, replace windows or doors</td><td>Exempt where there are <strong>no structural changes</strong></td></tr>
+    </tbody>
+  </table>
+
+  <p>The water tank entry is the one worth writing down if you are on hauled water. Five thousand gallons is a serious tank, and the 2:1 ratio quietly rules out the tall narrow ones — a tank twice as tall as it is wide is at the limit, and anything more slender than that is outside the exemption regardless of capacity. Our <a href="/blog/hauled-water-vs-drilling-a-well-in-sulfur-springs-valley-real-numbers">hauled water versus drilling</a> piece covers the storage sizing side.</p>
+
+  <h2>The fence trap</h2>
+
+  <p>Fences up to seven feet are exempt from a building permit — and then the county adds a list of situations where an <strong>informational permit</strong> is required anyway. A fence needs one if any of these apply:</p>
+
+  <ul>
+    <li>it is on a corner lot and greater than 3 feet in height;</li>
+    <li>it is within a designated FEMA Flood Hazard Area;</li>
+    <li>it is within a designated wash; or</li>
+    <li>it is in a platted subdivision.</li>
+  </ul>
+
+  <p>Two of those four are about water, which is not a coincidence. Fencing is one of the activities that can trigger a <a href="/blog/floodplain-use-permit-cochise-county-watercourse-setback">floodplain use permit</a> in its own right — building, grading, filling, walls and fencing are all named. So a fence line crossing a wash is a fence line with paperwork, even though a fence is nominally permit-exempt.</p>
+
+  <p>Worth reading alongside the fencing question generally, because in <a href="/blog/open-range-arizona-lawful-fence-cochise-county">open range</a> the fence you actually need is a statutory one — posts no more than 30 feet apart, four wires, top wire at 50 inches — and that specification has nothing to do with whether a permit is required.</p>
+
+  <h2>Exempt from a permit is not exempt from the rules</h2>
+
+  <p>This is the distinction the whole page turns on, and the county states it plainly: regardless of whether your project requires a building permit, it must still be constructed in conformance with the regulations of the jurisdiction and all applicable state laws.</p>
+
+  <p>Concretely, a permit exemption does not exempt you from:</p>
+
+  <ul>
+    <li><strong>Zoning setbacks</strong> — measured from the closest point on the property line or the edge of road travelway, whichever is closer.</li>
+    <li><strong>Floodplain rules</strong>, which the exemption page itself flags: depending on location, a floodplain permit may still be required.</li>
+    <li><strong>The watercourse erosion setback</strong>, 50 to 300 feet from the primary bank depending on peak flow, which applies to structures whether or not you are in mapped floodplain.</li>
+    <li><strong>Septic protection.</strong> Nothing about a permit exemption makes it acceptable to put a shed or a slab on the reserve area your evaluator identified — see the <a href="/blog/septic-permit-cochise-county-composting-toilet">septic guide</a>.</li>
+  </ul>
+
+  <p>And one scope limit that catches people running anything commercial: the exemption list is for <strong>single-family residential</strong> projects. A permit is required regardless of the dollar value of the improvement when building code requirements apply for non-residential uses.</p>
+
+  <h2>How this fits the build sequence</h2>
+
+  <p>The exemptions are most useful in the gap between buying and building, when you want somewhere to put tools and a tank without starting the permit clock. A 200 square foot unpowered shed and a 5,000 gallon tank on grade will cover a surprising amount of that.</p>
+
+  <p>What they will not do is let you live there. Camping on vacant land is not permitted, and an RV needs an existing principal use or an active build — covered in <a href="/blog/living-in-rv-while-building-cochise-county">living in an RV while you build</a>. And if you are heading for the <a href="/blog/cochise-county-owner-builder-certificate-of-occupancy">owner-builder</a> route, none of these exemptions change the eligibility rules there.</p>
+
+  <h2>What we could not confirm</h2>
+
+  <ul>
+    <li>We could not confirm what an informational permit costs, how long it takes, or exactly what it involves beyond being required in the four fence situations listed.</li>
+    <li>We could not confirm how "no utilities" is assessed for the shed exemption — whether a solar panel and a battery on the shed counts, for instance. Ask before you wire it.</li>
+    <li>We could not confirm whether the 200 square foot shed limit is measured to the exterior wall or the interior floor area, which matters at the margin.</li>
+    <li>We could not confirm how the county treats several exempt sheds on one parcel, or whether they are considered cumulatively.</li>
+    <li>We could not confirm the current fee schedule for anything on this page. The county publishes a Development Services fee schedule and interactive calculators.</li>
+    <li>The exemption list is described by the county as typical examples rather than an exhaustive statement. If your project is not obviously on it, that is a phone call rather than an assumption.</li>
+  </ul>
+
+  <h2>The short version</h2>
+
+  <p>State law sets the threshold at $1,000 in value, and Cochise County publishes a list of single-family residential projects that are exempt below and around it. The useful ones out here are a detached storage shed at 200 square feet or less with no utilities, a water tank on grade up to 5,000 gallons with a height-to-width ratio no steeper than 2:1, a deck under 30 inches, a retaining wall up to 4 feet, and fences up to 7 feet. That last one carries a catch: an informational permit is still required on a corner lot above 3 feet, in a FEMA flood hazard area, in a designated wash, or in a platted subdivision. And exempt from a permit never means exempt from the rules — setbacks, floodplain, the watercourse erosion setback and your septic reserve area all still apply. The shed exemption dies the moment you run a wire to it.</p>
+
+  <p>Sulfur Springs Land Management does the pads, access and drainage that sit underneath all of this, permitted or not.</p>
+</div>
+  <section class="gear-block">
+    <h2>Gear for this job</h2>
+    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually put on a job.</em></p>
+    <ul>
+      <li><a href="https://www.amazon.com/dp/B008OMGHS0?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Robert Manufacturing R400-1 Bob Red Brass Float Valve, 1 in NPT</a> — If you are running a tank under the 5,000 gallon exemption, a mechanical float is what stops a delivery becoming a flood.</li>
+      <li><a href="https://www.amazon.com/dp/B0002DKAL4?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Lifegard Aquatics 1 Inch Bulkhead Fitting Kit</a> — Tank penetrations done properly the first time. The exemption covers the tank; it does not cover the puddle.</li>
+      <li><a href="https://www.amazon.com/dp/B002C0A7ZY?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">HM Digital TDS-EZ Water Quality Tester</a> — Cheap way to notice when what comes out of storage is not what went in.</li>
+      <li><a href="https://www.amazon.com/dp/B001VU6BGA?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Komelon Open Reel Fiberglass Tape Measure, 300 ft</a> — Setbacks, the 200 square foot shed, and the 30-inch deck are all things worth measuring rather than estimating.</li>
+    </ul>
+  </section>
+`,
+  },
+
+  {
     id: '19',
     slug: 'floodplain-use-permit-cochise-county-watercourse-setback',
     title: "Floodplain Rules Reach Further Than the Flood Map",
