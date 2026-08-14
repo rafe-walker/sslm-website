@@ -14,6 +14,209 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    id: '24',
+    slug: 'electric-line-extension-rural-cochise-county-ssvec',
+    title: "Getting Power to Rural Land: The Estimate Is Not a Price",
+    description: "SSVEC can bill for unanticipated costs up to six months after the work, and obtaining the easements is your job. What a line extension involves.",
+    date: '2026-08-10',
+    author: 'Sulfur Springs Land Management',
+    readTime: '10 min read',
+    category: 'Rural Living',
+    keywords: ["ssvec line extension", "electric service rural cochise county", "power to vacant land arizona", "cost to run power to property arizona", "off grid vs grid connection arizona"],
+    featuredImage: '/blog/solar-sizing.png',
+    content: `<div class="blog-content">
+  <p>Whether to connect to the grid or go off-grid is usually framed as a cost comparison. It is really a comparison between a known cost and an estimate — and the estimate has two properties that are easy to miss.</p>
+
+  <div class="callout"><p><strong>It is not a fixed price.</strong> Sulphur Springs Valley Electric Cooperative states that it reserves the right to adjust cost estimates to reflect the actual cost of doing business, and to bill an applicant for additional anticipated or unanticipated costs <strong>within six months after the work is completed</strong>.</p>
+  <p><strong>And the easements are your problem.</strong> Customers must acquire the right-of-way easements the cooperative requires, <strong>at no cost to SSVEC</strong>.</p></div>
+
+  <p>Neither of those is unreasonable for a not-for-profit member-owned co-op building line across other people's land. Both change how you should treat the number you are quoted, and how early you should start.</p>
+
+  <h2>First: work out who serves you</h2>
+
+  <p>Three providers cover unincorporated Cochise County depending on where the parcel sits — <strong>Sulphur Springs Valley Electric Cooperative (SSVEC)</strong>, <strong>Arizona Public Service (APS)</strong>, and <strong>Columbus Electric Cooperative (CEC)</strong>. Which one is yours is a matter of service territory, not proximity, and the county's INFOMap has a "Utility — Electric Service Area" layer that will tell you.</p>
+
+  <p>Check that before you ring anyone. The nearest pole is not necessarily your utility's pole.</p>
+
+  <p>SSVEC itself is a member-owned distribution cooperative serving more than 60,000 services over roughly 4,100 miles of energised line across parts of Cochise, Graham, Pima and Santa Cruz counties. Member-owned matters here: the cost of extending line to a remote parcel is not absorbed by shareholders, which is precisely why the applicant carries it.</p>
+
+  <h2>What the process looks like</h2>
+
+  <p>SSVEC's Engineering Services team handles new service, temporary service, upgrades, relocations and retirements. For a new extension the shape is:</p>
+
+  <ol>
+    <li>Download the <strong>Line Extension Packet</strong>, which includes a line extension checklist intended to walk you through it in order.</li>
+    <li>Complete the application and pay a <strong>non-refundable design fee deposit</strong>.</li>
+    <li>Engineering designs the extension and produces a cost estimate.</li>
+    <li><strong>You obtain any right-of-way easements</strong> the cooperative requires, at no cost to them.</li>
+    <li><strong>You mark the meter location</strong> and provide the information requested.</li>
+    <li>Construction proceeds — SSVEC states that engineering and construction move expeditiously once the meter location is marked and the information is in.</li>
+  </ol>
+
+  <p>The named obstacles that delay completion are worth planning around: difficulty obtaining easements, governmental permits, and supply chain issues. Two of those three are outside anyone's control and one of them is squarely yours.</p>
+
+  <h2>The easement problem, again</h2>
+
+  <p>If the line has to cross someone else's land to reach you, you need a recorded easement from that owner — and you need it before the co-op will build. This is the same class of problem as physical access to the parcel itself, and it has the same solutions and the same failure modes. Our post on <a href="/blog/legal-access-landlocked-property-cochise-county">owning land you cannot legally reach</a> covers where easements live and why Schedule B of a title report is the place to look.</p>
+
+  <p>Two specific traps out here. If the route crosses <strong>State Trust land</strong>, that is an instrument from the Arizona State Land Department rather than a conversation with a neighbour. And if the parcel was created by a split, the utility easements should have been <strong>reserved at the time of division</strong> — one of the four criteria for a <a href="/blog/minor-land-division-cochise-county-splitting-a-parcel">minor land division</a> approval. Where that was done properly your route may already exist on paper. Where it was not, you are negotiating.</p>
+
+  <h2>Comparing honestly against off-grid</h2>
+
+  <p>The comparison people run is line extension cost against system cost. A fairer one includes:</p>
+
+  <ul>
+    <li><strong>Estimate risk.</strong> A grid quote can move after the fact, within six months of completion. A solar array quote generally cannot.</li>
+    <li><strong>Easement risk.</strong> A neighbour who will not sign can stop a grid connection outright. Nothing stops a solar array except your roof and your budget.</li>
+    <li><strong>Time.</strong> Design, easements, permits and construction against a few days of installation.</li>
+    <li><strong>What happens later.</strong> Grid capacity is effectively unlimited once connected; an off-grid system has to be sized for a December week and enlarged deliberately. Our <a href="/blog/off-grid-solar-sizing-for-cochise-county-properties-a-practical-guide">winter sizing post</a> covers why that season governs.</li>
+    <li><strong>Loads you forgot.</strong> A well pump, a UV steriliser or a septic pump are continuous or heavy loads that change the sizing conclusion. So does a <a href="/blog/accessory-dwelling-unit-cochise-county-park-model">second dwelling</a>.</li>
+  </ul>
+
+  <p>Neither answer is universally right. On a parcel a quarter mile from existing line, grid is usually obvious. Several miles out, the extension can exceed the cost of a substantial off-grid system, which is exactly why so much of this valley is off-grid by arithmetic rather than by ideology. The <a href="/blog/off-grid-solar-panels-arizona-cost-2026">panel count and cost guide</a> is the other half of that comparison.</p>
+
+  <h2>Sequence it with everything else</h2>
+
+  <p>Power sits in the same early cluster as access, water and septic, and for the same reason — it can change where the house goes, or whether the parcel works at all. Get the service territory answer and a design fee paid early enough that the estimate arrives before you are committed, not after.</p>
+
+  <p>And if the answer is a mast, a trench or a cleared route, that is groundwork that wants doing alongside the pad and the drive rather than after them — the <a href="/blog/off-grid-land-clearing-checklist">site prep checklist</a> has the order.</p>
+
+  <h2>What we could not confirm</h2>
+
+  <ul>
+    <li><strong>We could not confirm any costs.</strong> Not the design fee deposit, not a per-foot rate, not a typical total. SSVEC does not publish those in a form we could verify, and they will depend entirely on distance, terrain and what already exists. Anyone quoting you a per-mile figure from the internet is guessing.</li>
+    <li>We could not confirm typical timelines from application to energisation.</li>
+    <li>We could not confirm whether SSVEC operates any form of aid-to-construction credit, refund or contribution-in-aid arrangement, which some cooperatives do.</li>
+    <li><strong>We have not researched the APS or Columbus Electric Cooperative processes at all.</strong> If you are in their territory, everything here about SSVEC's specific terms may not apply.</li>
+    <li>Our sources here are the cooperative's own published pages rather than a government one. That is the right source for its own process, and it is also a party with an interest — read the packet itself rather than our summary of it.</li>
+    <li>We could not confirm how service to a parcel crossing State Trust land is handled in practice, or who obtains that instrument.</li>
+  </ul>
+
+  <h2>The short version</h2>
+
+  <p>Work out which of the three utilities actually serves the parcel using the county's INFOMap service area layer, because territory rather than proximity decides it. Then treat the line extension quote as an estimate rather than a price: SSVEC reserves the right to adjust it to actual cost and to bill for unanticipated costs up to six months after the work is finished. Expect a non-refundable design fee deposit at the start, and expect to obtain any required right-of-way easements yourself, at no cost to the cooperative — which is the step most likely to stall the whole thing if the route crosses land you do not own. Then compare against off-grid on the full picture, including estimate risk, easement risk and time, rather than on headline numbers. A quarter mile from the line, connect. Several miles out, do the arithmetic before you assume.</p>
+
+  <p>Sulfur Springs Land Management clears routes, digs trenches and builds the access that both answers depend on. If the easement is the obstacle, that is worth knowing before the design fee, not after.</p>
+</div>
+  <section class="gear-block">
+    <h2>Gear for this job</h2>
+    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually put on a job.</em></p>
+    <ul>
+      <li><a href="https://www.amazon.com/dp/B075RTSTKS?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Victron BMV-712 Smart Battery Monitor with 500A Shunt</a> — If you are weighing a line extension against a system, measure your actual consumption first. Most people guess high on some loads and low on others.</li>
+      <li><a href="https://www.amazon.com/dp/B00XB36W0A?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">VIQUA VH200 Stainless UV Water System, 9 GPM 35W</a> — The kind of continuous load that quietly changes the sizing answer, and the reason to list every load before comparing.</li>
+      <li><a href="https://www.amazon.com/dp/B07PNGVMZK?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Renogy 3000W Pure Sine Inverter Charger with Transfer Switch</a> — The transfer switch matters if grid arrives later; it lets a system that started off-grid accept a connection without being rebuilt.</li>
+      <li><a href="https://www.amazon.com/dp/B0BJ78JZ2B?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">LiTime 12V 100Ah LiFePO4 Battery, Group 31</a> — Storage is the part of the off-grid answer you can add to incrementally, which is not true of a line extension.</li>
+    </ul>
+  </section>
+`,
+  },
+  {
+    id: '23',
+    slug: 'minor-land-division-cochise-county-splitting-a-parcel',
+    title: "Splitting a Parcel: The County Will Record a Bad Split",
+    description: "A minor land division permit does not split your land — the deed does. And a split with no legal access can still be recorded if the deeds say so.",
+    date: '2026-08-03',
+    author: 'Sulfur Springs Land Management',
+    readTime: '11 min read',
+    category: 'Rural Living',
+    keywords: ["minor land division cochise county", "split a parcel arizona", "lot split rural arizona", "acting in concert arizona land", "subdivision six lots arizona", "land division legal access"],
+    featuredImage: '/blog/land-clearing.png',
+    content: `<div class="blog-content">
+  <p>Two facts about dividing land in Cochise County explain most of what goes wrong with rural parcels here, and both of them run against the assumption people arrive with.</p>
+
+  <div class="callout"><p><strong>One: the permit does not split anything.</strong> A minor land division permit is, in the county's own framing, "a planning check inserted into the process prior to the ultimate land division taking place". The split happens when a deed is recorded and the Assessor acts on its legal description. The permit clears the way; the deed does the work.</p>
+  <p><strong>Two: a division can be recorded without approval.</strong> The county allows recordation of a land division that does not comply with the legal access requirement or with zoning — <strong>provided the deficiencies are noticed in the full, detailed description of all deeds</strong>.</p></div>
+
+  <p>Read the second one twice, because it is the mechanism by which landlocked and unbuildable parcels get created and then sold to people who did not read the deed. If you are buying a split parcel out here, that sentence is the reason to read the legal description in full rather than the summary on the listing.</p>
+
+  <h2>What a minor land division is</h2>
+
+  <p>A minor land division is the process for dividing land into <strong>five or fewer</strong> lots, tracts, parcels, sites or divisions, <strong>any of which is ten acres or smaller</strong>. Its job is to confirm the division complies with zoning and does not amount to a subdivision of six or more lots as defined by Arizona Revised Statutes.</p>
+
+  <p>That six-lot line is the one everything hinges on. Six or more and you are subdividing, which is a materially heavier process. And the county anticipates the obvious workaround:</p>
+
+  <p><strong>"It shall be unlawful for a person or group of persons acting in concert to divide a parcel of land into six (6) or more lots or sell or lease six (6) or more lots by using a series of owners or conveyances in an attempt to avoid the provisions of this ordinance."</strong></p>
+
+  <p>So the sell-to-a-friend-who-splits-it-again route is expressly unlawful, and the county notes it may be enforced by the County Attorney's Office or the Arizona Department of Real Estate, or both. That is a different level of attention than a zoning correction notice.</p>
+
+  <h2>What approval actually requires</h2>
+
+  <p>An application is approved if four things are true:</p>
+
+  <table>
+    <thead><tr><th>Criterion</th><th>What it means in practice</th></tr></thead>
+    <tbody>
+      <tr><td>Zoning minimums</td><td>Each newly created parcel must meet the minimum requirements of its zoning designation — so a district with a four-acre minimum will not yield two-acre pieces</td></tr>
+      <tr><td>Legal access</td><td>The applicant must <strong>demonstrate legal access to each proposed lot</strong></td></tr>
+      <tr><td>Physical access</td><td>A statement from a licensed surveyor or engineer, or other acceptable evidence, on whether each lot has legal, physical access <strong>traversable by a two-wheel drive passenger motor vehicle</strong></td></tr>
+      <tr><td>Utility easements</td><td>The applicant must <strong>reserve</strong> the necessary and appropriate utility easements to serve each parcel created</td></tr>
+    </tbody>
+  </table>
+
+  <p>The two-wheel-drive standard is unusually concrete and worth noticing. It is not "is there a track". It is whether an ordinary car can get there — which on ungraded desert ground is a meaningfully higher bar, and one a surveyor has to put their name to.</p>
+
+  <p>The utility easement criterion is the one sellers most often skip, and it is the reason a cheap back parcel sometimes cannot be connected without renegotiating with a neighbour. Reserving easements at the time of the split costs nothing; obtaining them afterwards costs whatever the other party decides.</p>
+
+  <h2>The submittals</h2>
+
+  <ul>
+    <li>The Minor Land Division application and the permit fee.</li>
+    <li>A statement from a <strong>registered land surveyor</strong>, or other evidence acceptable to the county, on physical access traversable by a two-wheel drive passenger vehicle.</li>
+    <li>A <strong>property survey</strong> showing the dimensions of all proposed lots, the current zoning of the parcels being divided, and roads or private driveway easements.</li>
+  </ul>
+
+  <p>Then submission through the county permitting portal, review by planning staff, and a written decision by email.</p>
+
+  <h2>Recording, and the six-month clock</h2>
+
+  <p>Once approved, the permit is recorded at the County Recorder's Office along with any supplementary information, and <strong>recordation must occur within six months</strong> of Development Services' approval. Miss that window and you are back at the start.</p>
+
+  <p>Then the actual split: a deed conveying the property, describing the part being conveyed in its legal description. The Recorder forwards transfers to the Assessor, and the Assessor splits the property according to that description. Which is why a survey that is wrong is a parcel that is wrong.</p>
+
+  <h2>If you are buying rather than splitting</h2>
+
+  <p>Everything above inverts into a due diligence list. On any parcel that was created by a split:</p>
+
+  <ol>
+    <li><strong>Read the full legal description in the deed</strong>, looking specifically for noticed deficiencies — that is where a non-compliant split is disclosed.</li>
+    <li><strong>Confirm legal access independently.</strong> A recorded split does not guarantee it, and our post on <a href="/blog/legal-access-landlocked-property-cochise-county">owning land you cannot legally reach</a> covers what legal access actually is and why Schedule B of a title report is where it lives.</li>
+    <li><strong>Check the utility easements were reserved</strong>, not assumed.</li>
+    <li><strong>Check the parcel meets its own zoning minimum</strong> — which also governs whether the <a href="/blog/cochise-county-owner-builder-certificate-of-occupancy">owner-builder</a> route is available, since that needs a district minimum of at least four acres.</li>
+    <li><strong>Then the physical questions</strong> — septic viability, floodplain, watercourse setbacks. Our <a href="/blog/septic-permit-cochise-county-composting-toilet">septic guide</a> and <a href="/blog/floodplain-use-permit-cochise-county-watercourse-setback">floodplain post</a> cover the two that most often shrink a building envelope.</li>
+  </ol>
+
+  <h2>What we could not confirm</h2>
+
+  <ul>
+    <li>We could not confirm current permit or processing fees. They sit in the county's planning fee schedule.</li>
+    <li>We could not confirm how long review takes, or whether the six-month recordation window can be extended.</li>
+    <li>We could not confirm what "other evidence acceptable to the county" means in place of a surveyor's statement, or how often that route is used.</li>
+    <li>We could not confirm the consequences, for a buyer, of a division recorded without approval — whether the deficiency can later be cured, and at whose cost. That is a title and legal question and a serious one.</li>
+    <li>We could not confirm how the county or the Department of Real Estate identifies "acting in concert" in practice, or what penalties have been applied.</li>
+    <li>We have not reviewed the Lot Modifications or Subdividing Property processes, which are separate and apply to different situations — reconfiguring boundaries and six-or-more-lot divisions respectively.</li>
+    <li><strong>This is not legal advice.</strong> Land division touches title, access and zoning at once. A surveyor is required; a real estate attorney is frequently a good idea.</li>
+  </ul>
+
+  <h2>The short version</h2>
+
+  <p>A minor land division covers five or fewer parcels where any of them is ten acres or smaller, and its purpose is to check zoning compliance and confirm you are not quietly creating a subdivision. Approval needs each new parcel to meet its zoning minimum, demonstrated legal access, a surveyor's statement that each lot is reachable by an ordinary two-wheel drive car, and reserved utility easements. Recording must happen within six months. But the permit is only a planning check — the deed is what splits the land — and the county will record a division that fails the legal access or zoning tests so long as the deficiencies are written into the deeds. That last provision is exactly how unbuildable parcels reach the market, and reading the full legal description is how you avoid buying one.</p>
+
+  <p>Sulfur Springs Land Management works parcels across the valley and sees the consequences of bad splits regularly — usually as an access road that has to be negotiated before anything else can start.</p>
+</div>
+  <section class="gear-block">
+    <h2>Gear for this job</h2>
+    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually put on a job.</em></p>
+    <ul>
+      <li><a href="https://www.amazon.com/dp/B001VU6BGA?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Komelon Open Reel Fiberglass Tape Measure, 300 ft</a> — Not a substitute for the survey you are required to commission, but enough to sanity-check a proposed line before you pay for one.</li>
+      <li><a href="https://www.amazon.com/dp/B01I3IXTGW?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Rust-Oleum Inverted Marking Paint, Fluorescent Orange</a> — Mark the proposed division and the reserved utility easement on the ground. Lines that exist only on paper get built over.</li>
+      <li><a href="https://www.amazon.com/dp/B00002NCJD?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Wooden Grading Stakes, bundle of 24</a> — For holding corners between the survey and the recording.</li>
+      <li><a href="https://www.amazon.com/dp/B06WRSR2PG?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Rhino USA Recovery Tow Strap, 3 in x 30 ft</a> — The access standard is a two-wheel drive passenger car. Testing that honestly is worth doing with recovery gear in the truck.</li>
+    </ul>
+  </section>
+`,
+  },
+
+  {
     id: '22',
     slug: 'home-occupation-permit-cochise-county-rural-business',
     title: "Running a Business From Rural Land: The 25% Rule",
