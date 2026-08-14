@@ -14,6 +14,306 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    id: '15',
+    slug: 'rural-internet-cochise-county-broadband-map',
+    title: "Rural Internet: The FCC Map Shows Claims, Not Service",
+    description: "The national broadband map reports what providers say they offer at your parcel. How to check it, and the two challenges you can file when it is wrong.",
+    date: '2026-06-08',
+    author: 'Sulfur Springs Land Management',
+    readTime: '9 min read',
+    category: 'Rural Living',
+    keywords: ["rural internet arizona", "fcc national broadband map", "broadband availability challenge", "internet cochise county", "off grid internet arizona", "no internet at my address"],
+    featuredImage: '/blog/water-systems.png',
+    content: `<div class="blog-content">
+  <p>You look up the parcel, the national broadband map shows two or three providers serving it at respectable speeds, and you take that as settled. Then you call them and discover the nearest line is four miles away, or the install quote has a five-figure number in it.</p>
+
+  <p>The map is not lying to you exactly. It is reporting something narrower than most people read it as.</p>
+
+  <div class="callout"><p><strong>The map shows what providers report they can serve, not what you can actually buy.</strong> It is built from the FCC's Broadband Data Collection, in which internet service providers submit their own availability data. On a rural parcel the gap between "we could serve that location" and "we will, this month, for a normal connection fee" can be very wide.</p></div>
+
+  <p>The useful part is that the FCC anticipated this, and there is a formal mechanism for correcting the record — with specific triggers that describe exactly the situations rural buyers keep running into.</p>
+
+  <h2>Check the parcel, not the town</h2>
+
+  <p>Go to <strong>BroadbandMap.FCC.gov</strong> and search by address. The map will zoom to that location and list the providers reporting service there, with the technology type and the speeds claimed. Technology type matters more than the headline speed on a rural parcel: fibre, cable, fixed wireless, DSL and satellite fail in very different ways and at very different distances.</p>
+
+  <p>Two things to do while you are there. Check the neighbouring parcels, because service can genuinely stop at a property line where a line ends. And note whether your location appears on the map at all, which turns out to matter more than it sounds.</p>
+
+  <h2>The two challenges, and when each applies</h2>
+
+  <table>
+    <thead><tr><th>Challenge</th><th>Use it when</th></tr></thead>
+    <tbody>
+      <tr><td><strong>Availability</strong></td><td>A provider is listed at your location but the service is not really obtainable</td></tr>
+      <tr><td><strong>Location</strong></td><td>The map has your home or business in the wrong place, or does not show it at all</td></tr>
+    </tbody>
+  </table>
+
+  <p>The availability grounds are the part worth knowing verbatim, because they are far more concrete than people expect. A challenge can be filed on grounds including that the provider <strong>denied a request for service</strong>, <strong>demanded excessive connection fees</strong>, or <strong>failed to schedule an installation within 10 business days</strong> of a request.</p>
+
+  <p>That third one is a clock you can start deliberately. Ask for service in writing, note the date, and if nothing is scheduled inside ten business days you have a documented basis rather than a complaint.</p>
+
+  <p>Once a challenge is filed, providers are required to review it and either concede or dispute, and the provider is expected to work with you directly to resolve anything it does not initially concede. It is not a suggestion box.</p>
+
+  <h2>Why a location challenge matters more than it looks</h2>
+
+  <p>If your parcel is not on the map as a serviceable location, it is invisible to the processes that use the map — including the allocation of funding intended to reach exactly the places that do not have service. A structure that does not exist in the data cannot be counted as unserved.</p>
+
+  <p>Filing a location challenge to add or correct your point is unglamorous and takes very little time. On a newly built rural parcel it is the highest-leverage thing on this page.</p>
+
+  <h2>What actually works out here</h2>
+
+  <p>We are a land management company, not an ISP, so treat this as field observation rather than a recommendation, and see the caveats below.</p>
+
+  <ul>
+    <li><strong>Line of sight is the whole game for fixed wireless.</strong> A ridge between you and the tower is not a degradation, it is a no. Terrain matters more than distance.</li>
+    <li><strong>Satellite is the default fallback</strong> on parcels where nothing else reaches, and needs a genuinely clear view of open sky — which interacts with the mesquite you were planning to leave for shade.</li>
+    <li><strong>Cellular coverage in this valley is patchy and terrain-driven.</strong> Coverage maps have the same self-reported problem as the broadband map. Test on the parcel, standing where the house will be, on the carrier you intend to use.</li>
+    <li><strong>Power comes first.</strong> Whatever you install has to run on your system through a December week — which is a sizing question we cover in <a href="/blog/off-grid-solar-sizing-for-cochise-county-properties-a-practical-guide">off-grid solar in winter</a>.</li>
+  </ul>
+
+  <p>And if the plan depends on a fixed wireless dish or a mast, that is a structure, a foundation and possibly a clearing job — which belongs in the same conversation as the <a href="/blog/off-grid-land-clearing-checklist">rest of your site prep</a>, not bolted on afterwards.</p>
+
+  <h2>Before you buy</h2>
+
+  <ol>
+    <li>Search the exact parcel address on the FCC map and screenshot what it claims, with the date.</li>
+    <li>Ring every provider listed and ask for a written install quote to that address, not a service-area answer.</li>
+    <li>Stand on the parcel and test cellular signal on the carriers you would actually use.</li>
+    <li>Look at the horizon in the direction of the nearest town and be honest about what is in the way.</li>
+    <li>If the answer is satellite, check the sky view from where the house will sit, not from the gate.</li>
+  </ol>
+
+  <h2>What we could not confirm</h2>
+
+  <ul>
+    <li>We could not confirm which specific providers currently serve any particular parcel in Cochise County, and we are not going to guess. The map plus a phone call is the only reliable answer, and it changes.</li>
+    <li>We could not confirm typical installation costs, what counts as an "excessive" connection fee for challenge purposes, or how the FCC evaluates that term.</li>
+    <li>We could not confirm current satellite service performance, pricing, capacity limits or availability in this area. Those change frequently and vendor claims are not a primary source.</li>
+    <li>We could not confirm how long a challenge takes to resolve, or what proportion succeed.</li>
+    <li>We could not confirm whether any state or county programme currently subsidises rural connections here. If that matters to your budget, ask the county before assuming.</li>
+    <li>The observations about terrain, line of sight and sky view are ours from working on parcels across the valley, not sourced technical claims.</li>
+  </ul>
+
+  <h2>The short version</h2>
+
+  <p>The national broadband map is self-reported by providers, so it answers "could this location be served" rather than "can I get service". Check the exact parcel rather than the area, note the technology type and not just the speed, and confirm every listed provider with a written quote to that address. If a provider is listed but will not actually connect you — refused service, an outsized connection fee, or no installation scheduled within ten business days of asking — that is a documented ground for an availability challenge, and the provider has to respond. If your parcel is not on the map at all, file a location challenge, because a place that does not exist in the data cannot be counted as unserved when funding is handed out. Then go and stand on the land with a phone, because terrain decides more here than any map does.</p>
+
+  <p>Sulfur Springs Land Management clears, grades and builds access across the valley. If getting a signal means a mast, a pad or a line of sight through mesquite, that is groundwork, and it is worth planning with everything else rather than after.</p>
+</div>
+  <section class="gear-block">
+    <h2>Gear for this job</h2>
+    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually put on a job.</em></p>
+    <ul>
+      <li><a href="https://www.amazon.com/dp/B0B1959MT7?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">SPYPOINT Flex Cellular Trail Camera</a> — Runs on cellular rather than broadband, which makes it the realistic way to keep an eye on a parcel you have not connected yet.</li>
+      <li><a href="https://www.amazon.com/dp/B01N5TEHLI?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Ambient Weather WS-2902 Wi-Fi Smart Weather Station</a> — Local wind and rain data is genuinely useful out here, and it is the sort of thing that only earns its keep once you have a connection to hang it on.</li>
+      <li><a href="https://www.amazon.com/dp/B07HSVMJPV?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">HTZSAFE Solar Wireless Driveway Alarm, 1/2 Mile Range</a> — Works on its own radio link with no internet at all, which is the point on a parcel where connectivity is still theoretical.</li>
+    </ul>
+  </section>
+`,
+  },
+  {
+    id: '14',
+    slug: 'defensible-space-cochise-county-driveway-access',
+    title: "Defensible Space in Cochise County Starts at the Driveway",
+    description: "Arizona's home ignition zones run 0-5, 5-30 and 30-100 feet. But an engine needs 12 feet of width and 15 of clearance to reach you in the first place.",
+    date: '2026-06-01',
+    author: 'Sulfur Springs Land Management',
+    readTime: '10 min read',
+    category: 'Rural Living',
+    keywords: ["defensible space arizona", "home ignition zone", "wildfire clearing cochise county", "firewise arizona", "fire engine access driveway width", "wildfire preparation rural arizona"],
+    featuredImage: '/blog/land-clearing.png',
+    content: `<div class="blog-content">
+  <p>Most defensible space advice is about vegetation, and most of it is written for pine country. On a grassland parcel in Cochise County the vegetation half is the easier half. The part people skip is the part that decides whether anyone is able to come and help you.</p>
+
+  <div class="callout"><p><strong>Arizona's guidance puts a number on your driveway.</strong> Alongside the vegetation zones, the Department of Forestry and Fire Management's preparation advice calls for keeping driveways <strong>12 feet wide with 15 feet of vertical clearance</strong>. That figure is not about fire behaviour. It is about whether an engine can physically get down your drive and — just as important — back out again.</p></div>
+
+  <p>A hundred feet of immaculate clearance around a house at the end of a nine-foot two-track with mesquite closing overhead is a hundred feet nobody will stand in. Access is the first item of defensible space, not the last.</p>
+
+  <h2>The three zones, and what each is for</h2>
+
+  <p>Arizona uses the standard home ignition zone model. The distances are measured <em>from the structure</em>, not from your property line, which is the single most common misreading:</p>
+
+  <table>
+    <thead><tr><th>Zone</th><th>Distance from the structure</th></tr></thead>
+    <tbody>
+      <tr><td><strong>Immediate</strong></td><td>0 to 5 feet</td></tr>
+      <tr><td><strong>Intermediate</strong></td><td>5 to 30 feet</td></tr>
+      <tr><td><strong>Extended</strong></td><td>30 to 100 feet</td></tr>
+    </tbody>
+  </table>
+
+  <p>The baseline recommendation is to maintain <strong>at least 30 feet of defensible space</strong> around structures. Alongside the zones, Arizona's guidance covers the building itself: clearing leaves, needles and debris from roofs, decks and gutters; trimming trees and removing dead or dying vegetation; sealing or replacing roof tiles; sealing gaps around windows and doors; and moving flammable materials away from the house.</p>
+
+  <p>Notice how much of that list is not vegetation at all. A gap under a door and a gutter full of debris are both ignition points, and neither is fixed by clearing brush.</p>
+
+  <h2>Why the Immediate Zone earns its keep on grassland</h2>
+
+  <p>The first five feet is the highest-value work on a parcel like ours, and it is also the cheapest. It is the band where anything that catches will put flame directly against the wall of the building — so it wants to be non-combustible: gravel, bare mineral soil, paving. Not bark mulch, not a woodpile, not a propane bottle, not the stack of pallets you meant to deal with.</p>
+
+  <p>It is worth being honest about what our fuel type does and does not do. Desert grassland burns differently from forest — fine, cured grass carries fire fast under wind and burns out quickly, rather than building the sustained crown fire the forest guidance is largely written against. That is our reading of the fuel rather than a quotation from the state, and the practical consequence is the same either way: fuel <em>continuity</em> up to the building is what matters, so breaking that continuity in the first five to thirty feet buys you more than heroic clearing at ninety.</p>
+
+  <h2>Access, in detail</h2>
+
+  <p>If the drive is the constraint, these are the things worth measuring rather than eyeballing:</p>
+
+  <ul>
+    <li><strong>Width, 12 feet of usable running surface</strong> — not 12 feet between the fence posts with brush growing into it.</li>
+    <li><strong>Vertical clearance, 15 feet.</strong> Mesquite and hackberry close overhead faster than people expect, and an engine is taller than a pickup. This is the dimension almost everyone fails.</li>
+    <li><strong>Somewhere to turn around.</strong> An engine crew that cannot turn may decline to commit at all. A hammerhead or a loop near the house is worth more than another fifty feet of clearing.</li>
+    <li><strong>Grade and surface.</strong> A heavy apparatus on a soft, steep or washed-out drive is a stuck apparatus.</li>
+    <li><strong>Gates and their width</strong>, and whether the gate can be opened without your key.</li>
+    <li><strong>A visible address</strong> at the road, in reflective numbers, on a post that will not burn.</li>
+    <li><strong>Culverts and washes.</strong> A drive that fords a wash is a drive that does not exist during a monsoon storm.</li>
+  </ul>
+
+  <p>All of which overlaps with the access questions worth settling before you buy at all — the legal side of that is covered in <a href="/blog/legal-access-landlocked-property-cochise-county">owning land you cannot legally reach</a>, and the construction side in our <a href="/blog/off-grid-land-clearing-checklist">site prep checklist</a>.</p>
+
+  <h2>Clearing without breaking the rules</h2>
+
+  <p>Defensible space work is still clearing, and Cochise County's Land Clearing Ordinance still applies to it, as do Arizona's rules on protected native plants. Removing a dead mesquite near the house is not the same in the county's eyes as taking out a stand of healthy protected species at the boundary. Our <a href="/blog/land-clearing-cochise-county-guide">land clearing guide</a> sets out what may and may not be removed and what drives the cost.</p>
+
+  <p>Timing matters as well. Cured grass in May and June is the fuel; the same ground after monsoon is green and slow to burn. Doing the work in the spring, before the fine fuels dry out, is both safer and easier on the equipment.</p>
+
+  <h2>Firewise, if there are enough of you</h2>
+
+  <p>Arizona's Department of Forestry and Fire Management is the state liaison for NFPA's Firewise USA programme and there are more than 215 Firewise USA-recognised communities across the state. If your neighbours are within sight of you, the programme is designed for exactly that situation — a cluster of parcels where one owner's fuel is another owner's problem. It is worth a conversation before it is worth a chainsaw.</p>
+
+  <h2>What we could not confirm</h2>
+
+  <ul>
+    <li>We could not confirm that Arizona <em>mandates</em> defensible space for rural residential property, or that Cochise County does. What we found is guidance and recommendation. Local fire district requirements may differ and may be stricter — ask yours, because they are also the people who would be driving down that 12-foot drive.</li>
+    <li>We could not confirm whether the 12-foot width and 15-foot clearance figures are a code requirement anywhere in Cochise County or purely state guidance. Treat them as a minimum to design to either way.</li>
+    <li>The comparison between grassland and forest fire behaviour above is our reading of the fuel type, not a quotation from the Department of Forestry and Fire Management. The state's published guidance is written for Arizona broadly.</li>
+    <li>We could not confirm current requirements or benefits of Firewise USA recognition, or whether any insurer in this area gives credit for it. Insurers vary and none of it is something we can source.</li>
+    <li>We have relied in part on the Department's homeowner Firewise guide, which carries a June 2016 date. The zone model is stable; check the Department's current pages for anything that has moved.</li>
+    <li>This is not fire safety advice for your specific property. A site visit from your local fire district is free, and they will tell you things a checklist cannot.</li>
+  </ul>
+
+  <h2>The short version</h2>
+
+  <p>Defensible space is measured from the building, not the boundary: nought to five feet, five to thirty, thirty to a hundred, with at least thirty feet maintained around structures. On grassland the first five feet does most of the work, and it wants to be non-combustible rather than merely tidy — no mulch, no woodpile, no propane against the wall. Half the published advice is about the building itself, not the vegetation, so clear the gutters and seal the gaps while you are at it. And before any of that, measure the drive: twelve feet wide, fifteen feet of overhead clearance, somewhere to turn around, a surface that will hold a loaded engine, and an address sign that will still be legible in smoke. The best-cleared house in the valley is worth very little if nobody can reach it.</p>
+
+  <p>Sulfur Springs Land Management does access roads, turnarounds and clearing across the valley. If your drive is the weak link, that is the job we would start with.</p>
+</div>
+  <section class="gear-block">
+    <h2>Gear for this job</h2>
+    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually put on a job.</em></p>
+    <ul>
+      <li><a href="https://www.amazon.com/dp/B00KXM6OT6?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Echo CS-590 Timber Wolf 20 in Gas Chainsaw</a> — Enough saw for mesquite without being enough saw to hurt you badly. The overhead clearance work is what you will actually use it for.</li>
+      <li><a href="https://www.amazon.com/dp/B00GZ4OJ4I?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Extendable Bypass Lopper, 29.5 to 37.5 in</a> — Most of the Immediate Zone is small stuff you should not be starting a chainsaw for.</li>
+      <li><a href="https://www.amazon.com/dp/B00F5CK9X6?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Amerex B402 5 lb ABC Fire Extinguisher</a> — For the fire you start yourself. Saw, grinder and truck exhaust in cured grass are the realistic ignition sources on a clearing day.</li>
+      <li><a href="https://www.amazon.com/dp/B076J35CF9?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Adventure Medical Kits Mountain Series Explorer First Aid Kit</a> — You are working alone with a chainsaw a long way from an ambulance. Size the kit for that, not for a paper cut.</li>
+    </ul>
+  </section>
+`,
+  },
+  {
+    id: '13',
+    slug: 'septic-permit-cochise-county-composting-toilet',
+    title: "A Composting Toilet Does Not Get You Out of a Septic System",
+    description: "Arizona excludes the kitchen sink from gray water, so a composting toilet still needs septic. The Type 4 permit, percolation testing and the reserve area.",
+    date: '2026-05-25',
+    author: 'Sulfur Springs Land Management',
+    readTime: '11 min read',
+    category: 'Rural Living',
+    keywords: ["septic permit cochise county", "arizona type 4 general permit", "composting toilet arizona", "onsite wastewater arizona", "percolation test arizona", "gray water definition arizona"],
+    featuredImage: '/blog/water-systems.png',
+    content: `<div class="blog-content">
+  <p>The off-grid plan usually arrives fully formed: solar on the roof, water hauled or drilled, and a composting toilet instead of a septic system. Two of those three are fine. The third is where the budget breaks, because of a definition almost nobody reads until it is too late.</p>
+
+  <div class="callout"><p><strong>Kitchen sink water is not gray water in Arizona.</strong> The definition at R18-9-A701(5), following A.R.S. &sect; 49-201, is wastewater "that originates from a clothes washer or a bathroom tub, shower or sink but that does <strong>not</strong> include wastewater from a kitchen sink, dish-washer or toilet."</p>
+  <p>So if you install a composting toilet, Cochise County's own guidance is that you will still need a small septic system — because your kitchen drain has to go somewhere, and that somewhere is not a gray water field.</p></div>
+
+  <p>This catches people who have costed a composting toilet as a way of avoiding a permit and a leach field entirely. It is not. It changes which system you need and can reduce its size, but it does not remove the requirement, and both routes go through the same permitting process.</p>
+
+  <h2>The permit you are actually applying for</h2>
+
+  <p>On-site wastewater in Arizona runs under an ADEQ <strong>Type 4 General Permit</strong>, which covers the design, installation and operation of on-site wastewater treatment facilities from 0 to 24,000 gallons per day. Within that, two sub-types cover most rural residential work:</p>
+
+  <table>
+    <thead><tr><th>Permit</th><th>What it covers</th></tr></thead>
+    <tbody>
+      <tr><td><strong>4.02</strong></td><td>Septic tank with conventional disposal — the standard system</td></tr>
+      <tr><td><strong>4.03</strong></td><td>Composting toilet</td></tr>
+      <tr><td>4.04 – 4.23</td><td>Alternative systems, for sites where a conventional design will not work</td></tr>
+    </tbody>
+  </table>
+
+  <p>In Cochise County, applications are handled by the Health Department's Environmental Health Services Division rather than by Development Services. Depending on the system, review may sit with the county or go to ADEQ. Permits expire after two years, which matters if you are permitting early and building later.</p>
+
+  <h2>You cannot design it yourself</h2>
+
+  <p>The system has to be designed by a qualified Soil and Site Evaluator, and the county is specific about who qualifies. An investigator or evaluator must be one of:</p>
+
+  <ul>
+    <li>an Arizona registered professional engineer;</li>
+    <li>an Arizona registered professional geologist;</li>
+    <li>an Arizona registered sanitarian; or</li>
+    <li>an individual holding a certificate of training from a course recognised by ADEQ.</li>
+  </ul>
+
+  <p>That list is the answer to the most common question we get, which is whether an owner-builder can do the septic design along with everything else. No — and the evaluator you hire will normally have the paperwork you need for the county application, so engaging one early saves a round trip.</p>
+
+  <h2>What a site investigation involves</h2>
+
+  <p>A site investigation is a <strong>surface characterisation</strong> plus a <strong>subsurface characterisation</strong>, carried out by that qualified investigator. The subsurface part is where rural parcels get their surprises, because it establishes whether the ground will actually accept water.</p>
+
+  <p>Percolation testing has a defined shape. The requirement is to select <strong>at least two locations in the primary area and at least one in the reserve area</strong>, and test holes are excavated in undisturbed soil at least 12 inches deep, either 12 by 12 inches square or 15 inches in diameter if round.</p>
+
+  <div class="callout"><p><strong>The reserve area is the part people forget to plan for.</strong> Your design has to identify a second, undisturbed area capable of taking a replacement disposal field. It has to be tested, it has to be kept clear, and it cannot be where you were going to put the shop, the drive or the water tank. On a small parcel this is frequently the constraint that decides where the house sits — which is why septic comes before pad layout, not after.</p></div>
+
+  <h2>Sequence this before you clear anything</h2>
+
+  <p>The order that avoids expensive rework:</p>
+
+  <ol>
+    <li><strong>Legal access first.</strong> None of this is deliverable to a parcel a truck cannot lawfully reach — see <a href="/blog/legal-access-landlocked-property-cochise-county">owning land you cannot legally reach</a>.</li>
+    <li><strong>Water decision.</strong> Well or hauled changes where things sit and what setbacks apply. Our <a href="/blog/hauled-water-vs-drilling-a-well-in-sulfur-springs-valley-real-numbers">hauled water versus drilling</a> piece has the numbers.</li>
+    <li><strong>Soil and site evaluation.</strong> Before you know where the house goes.</li>
+    <li><strong>Design, then permit, then build.</strong> In that order, with the reserve area protected from traffic.</li>
+    <li><strong>Then pad, drive and drainage</strong> — our <a href="/blog/off-grid-land-clearing-checklist">site prep checklist</a> covers the rest.</li>
+  </ol>
+
+  <p>Clearing and grading before the percolation testing is done is the classic own goal. Compacted ground tests worse than undisturbed ground, and the rule requires testing in undisturbed soil — so a machine that has already tracked over your best disposal area has cost you the best disposal area. If clearing is on your plan anyway, the <a href="/blog/land-clearing-cochise-county-guide">land clearing guide</a> covers what you may and may not remove.</p>
+
+  <h2>If you are still set on a composting toilet</h2>
+
+  <p>They are legitimate, they are permitted under 4.03, and on the right site they are the correct answer. Expect to supply considerably more documentation than for a conventional system: the manufacturer's name and address, the model number, a copy of the warranty and the installation, operation and maintenance specifications, calculations for composting rate, capacity and waste accumulation volume, documentation of listing by a national listing organisation, your vector control method, and your planned method and frequency for disposing of both the composted residue and the drainage from the unit.</p>
+
+  <p>Plus the same soil and site work as everyone else, plus the small septic system for the kitchen. ADEQ maintains a list of proprietary products; check your intended unit against it before ordering.</p>
+
+  <h2>What we could not confirm</h2>
+
+  <ul>
+    <li>We could not confirm current Cochise County permit fees. The county publishes an Environmental Health summary of fees and the figure we saw referenced was for an earlier fee year. Ask when you apply rather than budgeting from any article.</li>
+    <li>We could not confirm the specific setback distances required between a disposal field and a well, a property line or a watercourse. Those live in A.A.C. R18-9-A312(C) and we have not reproduced them here because getting a setback wrong by a few feet is exactly the kind of error worth reading the rule for. Your evaluator will apply them.</li>
+    <li>We could not confirm whether a percolation test result has an expiry, or how long a site investigation remains valid if you permit now and build later. The two-year permit expiry is documented; the evaluation's shelf life we could not source.</li>
+    <li>We could not confirm which alternative system types Cochise County reviews itself versus which go to ADEQ. The county's guidance says it depends on the system.</li>
+    <li>The county fact sheet we relied on carries an update date of 13 March 2023. Rules and fees move; treat the process as current and the numbers as indicative.</li>
+    <li>This is not engineering advice. A qualified Soil and Site Evaluator is a statutory requirement, not a formality.</li>
+  </ul>
+
+  <h2>The short version</h2>
+
+  <p>A composting toilet does not exempt you from a septic system, because Arizona's gray water definition excludes the kitchen sink, the dishwasher and the toilet — so kitchen drainage still needs somewhere legitimate to go. Everything runs under an ADEQ Type 4 General Permit, 4.02 for a conventional septic system and 4.03 for a composting toilet, with Cochise County's Environmental Health division handling the application. The design must come from an Arizona registered engineer, geologist or sanitarian, or someone holding an ADEQ-recognised training certificate — not from you. Expect a surface and subsurface site investigation, percolation testing at a minimum of two locations in the primary area and one in the reserve, and holes at least twelve inches deep in undisturbed soil. Protect that reserve area from the moment you know where it is, and do the testing before the machinery arrives rather than after.</p>
+
+  <p>Sulfur Springs Land Management works the ground around all of this — access, pad, drainage and keeping equipment off the area your evaluator just told you is the only place a leach field can go.</p>
+</div>
+  <section class="gear-block">
+    <h2>Gear for this job</h2>
+    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually put on a job.</em></p>
+    <ul>
+      <li><a href="https://www.amazon.com/dp/B01I3IXTGW?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Rust-Oleum Inverted Marking Paint, Fluorescent Orange</a> — Mark the reserve area the day it is identified. An unmarked reserve area is an area someone parks a skid steer on.</li>
+      <li><a href="https://www.amazon.com/dp/B091JGX4WB?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Safe Home DIY Bacteria in Water Test Kit</a> — If you have a well and a leach field on the same parcel, a baseline bacteria test before either goes in is worth having on file.</li>
+      <li><a href="https://www.amazon.com/dp/B00DIJB8KG?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Industrial Test Systems Quick Arsenic Low-Range, 50 Tests</a> — Unrelated to septic, entirely relevant to well water in this valley, and cheaper to know early.</li>
+      <li><a href="https://www.amazon.com/dp/B00002NCJD?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Wooden Grading Stakes, bundle of 24</a> — For holding the corners of the primary and reserve areas between the evaluation and the build.</li>
+    </ul>
+  </section>
+`,
+  },
+
+  {
     id: '12',
     slug: 'legal-access-landlocked-property-cochise-county',
     title: "Owning Arizona Land You Cannot Legally Reach",
