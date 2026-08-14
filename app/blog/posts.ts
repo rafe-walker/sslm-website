@@ -14,16 +14,132 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    id: '12',
+    slug: 'legal-access-landlocked-property-cochise-county',
+    title: "Owning Arizona Land You Cannot Legally Reach",
+    description: "A dirt track to your parcel is not legal access. What Arizona's private way of necessity actually is, where easements are recorded, and what to check first.",
+    date: '2026-05-18',
+    author: 'Sulfur Springs Land Management',
+    readTime: '11 min read',
+    category: 'Rural Living',
+    keywords: ["landlocked property arizona", "private way of necessity arizona", "legal access cochise county", "easement arizona land", "buying rural land no access", "recorded easement title report"],
+    featuredImage: '/blog/land-clearing.png',
+    content: `<div class="blog-content">
+  <p>The parcel was cheap, the listing said "easy access", and the seller drove you in on a graded dirt track that has obviously been there for years. You closed. Then a neighbour puts a gate across it.</p>
+
+  <p>This is the most expensive mistake made on rural Arizona land, and it turns on a distinction almost nobody makes before closing.</p>
+
+  <div class="callout"><p><strong>Physical access and legal access are different things.</strong> A road existing on the ground tells you nothing whatsoever about your right to drive on it. Tracks get cut by ranchers, by utility crews, by hunters, by previous owners with a handshake arrangement that died with them. None of that creates a right that runs with your land.</p></div>
+
+  <h2>What legal access actually is</h2>
+
+  <p>Broadly, one of three things:</p>
+
+  <ul>
+    <li><strong>Frontage on a public road.</strong> The simplest case, and the least common on large rural parcels here.</li>
+    <li><strong>A recorded easement appurtenant</strong> — a written, recorded right to cross a specific piece of someone else's land, attached to your parcel rather than to you personally, so it survives the sale.</li>
+    <li><strong>A court-ordered private way of necessity</strong>, which is Arizona's remedy when you have neither of the above.</li>
+  </ul>
+
+  <p>Note what is missing from that list: long use, the seller's assurance, a track on a satellite image, and the fact that everyone in the area has always driven that way. A permission that was never recorded is a permission that can be withdrawn.</p>
+
+  <h2>Arizona's remedy is stranger than most people expect</h2>
+
+  <p>Most states handle landlocked parcels through common-law easement by necessity. Arizona has a statute, and it does something unusual: it lets one private landowner <em>condemn</em> another's land.</p>
+
+  <div class="callout"><p><strong>A.R.S. &sect; 12-1202(A), verbatim:</strong> "An owner of or a person entitled to the beneficial use of land, mines or mining claims and structures thereon, which is so situated with respect to the land of another that it is necessary for its proper use and enjoyment to have and maintain a private way of necessity over, across, through, and on the premises, may condemn and take lands of another, sufficient in area for the construction and maintenance of the private way of necessity."</p></div>
+
+  <p>Read the operative verbs: <strong>condemn and take</strong>. This provision sits in Arizona's eminent domain title, which is the point — the mechanism is private condemnation, and it carries the machinery that goes with condemnation. You are not asking a neighbour nicely. You are bringing an action, proving necessity, and the taking is compensated.</p>
+
+  <p>Three practical consequences follow. It is a lawsuit, with the cost and timeline of a lawsuit. The area taken must be no more than "sufficient in area" for constructing and maintaining the way — you are not getting a boulevard. And the standard is <em>necessity</em> for the proper use and enjoyment of the land, not convenience, so an inconvenient legal route you already have is likely to defeat the claim.</p>
+
+  <p>There is also a distinctly Arizona wrinkle at &sect; 12-1202(B). If the way crosses <strong>range land</strong>, the statute requires the condemned area to be "strictly defined", and livestock driven over the private way must be "accompanied by and under the control of sufficient drivers or herders", confined to the condemned area, and "kept moving directly across the property condemned until they have been completely removed". In a valley where a great deal of land is grazed, that paragraph is not a historical curiosity — it is a live constraint on how a way of necessity gets used.</p>
+
+  <h2>Where easements actually live, and where they do not</h2>
+
+  <p>This is the part that saves people money, and it is the opposite of where most buyers look.</p>
+
+  <p>Cochise County's Development Services does not maintain records of easements on individual lots that are not part of recorded subdivisions. If your parcel is a metes-and-bounds split rather than a lot in a recorded plat — which describes most rural acreage here — the county is not the place your easement would be found, and a clean answer from a county office is not evidence that no burden or benefit exists.</p>
+
+  <p>The county's own guidance points instead to the <strong>Schedule B section of a title report</strong>, which lists the encumbrances and exceptions affecting a property, and which the county describes as containing the most current and accurate easement information. For recorded subdivisions, the plat itself may show easements.</p>
+
+  <table>
+    <thead><tr><th>What you are relying on</th><th>Is it legal access?</th></tr></thead>
+    <tbody>
+      <tr><td>A recorded easement in Schedule B naming your parcel</td><td><strong>Yes</strong> — this is the thing you want</td></tr>
+      <tr><td>Frontage on a county-maintained road</td><td><strong>Yes</strong></td></tr>
+      <tr><td>A graded track shown on satellite imagery</td><td><strong>No</strong> — evidence of use, not of right</td></tr>
+      <tr><td>The seller told you it was fine</td><td><strong>No</strong></td></tr>
+      <tr><td>Everyone has always driven it</td><td><strong>Not by itself</strong> — see the caveats below</td></tr>
+      <tr><td>A neighbour's written permission</td><td><strong>Probably not</strong> — a licence is revocable and may not survive their sale</td></tr>
+      <tr><td>A route crossing State Trust land</td><td><strong>No</strong> — trust land is not open ground; see below</td></tr>
+    </tbody>
+  </table>
+
+  <h2>County road or not, and why it changes what you may do</h2>
+
+  <p>Whether the road you use is in the county-maintained system matters for more than snow ploughing. Cochise County requires a right-of-way permit for work where a property is accessed from a county road, and imposes no permit requirement for work on non-county-maintained roadways or easements. That cuts both ways: on a private easement nobody is coming to help you, and nobody is stopping you either — the obligation to maintain it is whatever the easement document says, which is another reason to read it.</p>
+
+  <p>The county's Land Clearing Ordinance recognises clearing for the maintenance of existing roads, private access easements, driveways and utility easements on ground disturbed before the ordinance took effect. If you are opening up an access route, that distinction between maintaining something pre-existing and cutting something new is worth understanding before the machinery arrives — we cover the wider picture in our <a href="/blog/land-clearing-cochise-county-guide">guide to land clearing in Cochise County</a>.</p>
+
+  <h2>State Trust land</h2>
+
+  <p>A significant number of parcels in this valley are reached by crossing Arizona State Trust land, and this catches people badly, because it looks like empty desert and is not. Trust land is held for the benefit of designated beneficiaries and is actively managed by the Arizona State Land Department. Crossing it is not a public right, and a recreational permit is not a substitute for an access instrument for reaching private property.</p>
+
+  <p>If any part of your route crosses trust land, that is a conversation with the State Land Department before you buy, not after. See the caveats below for what we were unable to pin down here.</p>
+
+  <h2>What to do before you close</h2>
+
+  <ol>
+    <li><strong>Read Schedule B of the title commitment, not the summary.</strong> Look for an easement that benefits your parcel by legal description. "Subject to easements of record" is not one.</li>
+    <li><strong>Trace the route on a parcel map</strong> and identify every ownership it crosses — private, state trust, federal. The State Land Department's parcel viewer will show you trust ownership.</li>
+    <li><strong>Ask the title company directly, in writing, whether the policy insures legal access.</strong> Access can be excepted out. A policy that does not insure access is telling you something.</li>
+    <li><strong>Walk it.</strong> Gates, cattle guards, locked chains and "no trespassing" signs are data.</li>
+    <li><strong>If the answer is uncertain, price it.</strong> A way of necessity action is a real cost and a real delay, and it belongs in your offer rather than in your first year.</li>
+  </ol>
+
+  <p>Once access is settled, the rest of the sequence is ordinary — our <a href="/blog/off-grid-land-clearing-checklist">site prep checklist</a> covers pad, drainage and utilities, and water is its own decision entirely, laid out in <a href="/blog/hauled-water-vs-drilling-a-well-in-sulfur-springs-valley-real-numbers">hauled water versus drilling a well</a>. Access comes first, because none of the rest can be delivered to a parcel a truck cannot legally reach.</p>
+
+  <h2>What we could not confirm</h2>
+
+  <ul>
+    <li><strong>We are not attorneys and this is not legal advice.</strong> Legal access is fact-specific and turns on documents particular to your parcel. A real estate attorney and a title company are the right people, and Cochise County itself recommends consulting a surveyor, a real estate attorney or a title company on these questions.</li>
+    <li>We could not confirm whether Cochise County requires proof of legal access as a condition of issuing a building permit, an address assignment, or septic approval. We found access and driveway requirements referenced among the approvals that may apply to a residential project, but not a clear statement of a legal-access precondition. Ask Development Services about your specific parcel.</li>
+    <li>We could not retrieve the Arizona State Land Department's right-of-way instructions document — the file would not load when we tried. The instrument required to cross trust land for access to private property, its cost and its term are therefore not stated here, deliberately. Take that question to the Department directly.</li>
+    <li>We could not confirm from a primary source the prescriptive period for an easement by prescription in Arizona, or the elements Arizona courts require. Prescriptive rights are largely common law, they are fact-intensive, and long use by itself proves nothing without the other elements. Do not plan around one.</li>
+    <li>&sect; 12-1202 sets no width in feet. "Sufficient in area for the construction and maintenance of the private way" is the standard, and what that means for your route is a question for a court, not for us.</li>
+    <li>Statutory text quoted from the 2025 Arizona Revised Statutes. Statutes change; check the current text before relying on it.</li>
+  </ul>
+
+  <h2>The short version</h2>
+
+  <p>A road on the ground is not a right to use it. Legal access means frontage on a public road, a recorded easement that runs with your parcel, or a court-ordered private way of necessity — and Arizona's version of that last one is a condemnation action under A.R.S. &sect; 12-1202, meaning a lawsuit, a necessity standard rather than a convenience one, an area no larger than sufficient, and compensation to the neighbour whose land you take. Easements on rural metes-and-bounds parcels are not held at the county; Schedule B of the title report is where they live. If any part of your route crosses State Trust land, settle that with the State Land Department before you sign. And if a title company will not insure your access, treat that as the answer to the question you were asking.</p>
+
+  <p>Sulfur Springs Land Management works on parcels across the valley, and access is the first thing we look at — because the pad, the drive, the drainage and the water all depend on being able to get equipment there lawfully.</p>
+</div>
+  <section class="gear-block">
+    <h2>Gear for this job</h2>
+    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually put on a job.</em></p>
+    <ul>
+      <li><a href="https://www.amazon.com/dp/B06WRSR2PG?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Rhino USA Recovery Tow Strap, 3 in x 30 ft</a> — Nobody maintains a private easement but you. Carry recovery gear the first few times you drive an unimproved access route.</li>
+      <li><a href="https://www.amazon.com/dp/B000KL0WDE?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Keson GB500 Braided Nylon Mason Twine, 500 ft</a> — Once a surveyor has found the easement line, string is how you keep equipment inside it.</li>
+      <li><a href="https://www.amazon.com/dp/B0B1959MT7?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">SPYPOINT Flex Cellular Trail Camera</a> — Who uses a track, how often, and since when are all factual questions. A camera answers them better than memory does.</li>
+      <li><a href="https://www.amazon.com/dp/B07HSVMJPV?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">HTZSAFE Solar Wireless Driveway Alarm, 1/2 Mile Range</a> — Useful on a long unmaintained drive where you cannot see the gate from the house.</li>
+    </ul>
+  </section>
+`,
+  },
+  {
     id: '11',
     slug: 'sulfur-springs-valley-arizona-landowner-guide',
-    title: "Sulfur Springs Valley, Arizona: The Two Water Districts Every Landowner Should Know",
-    description: "The valley is not one groundwater basin, it is two — Willcox in the north and Douglas in the south — and both became Active Management Areas, two years apart, by two different mechanisms. What that means if you own land here.",
+    title: "Sulfur Springs Valley: Two Water Districts, Not One",
+    description: "The valley is not one groundwater basin but two — Willcox in the north, Douglas in the south — with different rules. What every landowner should know.",
     date: '2026-05-11',
     author: 'Sulfur Springs Land Management',
     readTime: '9 min read',
     category: 'Industry',
     keywords: ["sulfur springs valley", "sulphur springs valley arizona", "willcox ama", "douglas ama", "sulfur springs valley az", "cochise county groundwater", "willcox basin earth fissures"],
-    featuredImage: '/blog/water-systems-off-grid-arizona.webp',
+    featuredImage: '/blog/water-systems.png',
     content: `<div class="blog-content">
   <p>People buy land in the Sulfur Springs Valley for the obvious reasons: it is open, it is affordable by Arizona standards, the mountains on both horizons are genuinely beautiful, and you can still find acreage with a view for less than a suburban lot costs in Tucson.</p>
 
@@ -121,8 +237,8 @@ export const blogPosts: BlogPost[] = [
   {
     id: '9',
     slug: 'hauled-water-vs-drilling-a-well-in-sulfur-springs-valley-real-numbers',
-    title: "Hauled Water vs. Drilling a Well in Sulfur Springs Valley: Real Numbers",
-    description: "What a well actually costs in Sulfur Springs Valley at 200-350 ft static water level, what hauled water costs per month, and the ADWR Active Management Area rules that change the maths.",
+    title: "Hauled Water vs Drilling a Well: The Real Numbers",
+    description: "What a well really costs at 200-350 ft static water level in Sulfur Springs Valley, what hauled water costs per year, and where the break-even sits.",
     date: '2026-05-04',
     author: 'Sulfur Springs Land Management',
     readTime: '10 min read',
@@ -199,13 +315,13 @@ export const blogPosts: BlogPost[] = [
   {
     id: '8',
     slug: 'off-grid-solar-sizing-for-cochise-county-properties-a-practical-guide',
-    title: "Off-Grid Solar Sizing for Cochise County Properties: A Practical Guide",
-    description: "How to size an off-grid array for Cochise County sun hours and winter loads — panel wattage, battery bank capacity, depth of discharge and the autonomy days that actually matter here.",
+    title: "Off-Grid Solar in Winter: Sizing for Cochise County's Worst Days",
+    description: "Cochise County winter drops you to 4-5 peak sun hours. How to size batteries, autonomy days, inverters and charge controllers for the worst week.",
     date: '2026-05-01',
     author: 'Sulfur Springs Land Management',
     readTime: '10 min read',
     category: 'Rural Living',
-    keywords: ["off grid solar sizing cochise county", "solar array size arizona", "off grid battery bank sizing", "peak sun hours arizona", "off grid solar guide arizona", "solar autonomy days"],
+    keywords: ["off grid solar winter arizona", "off grid battery bank sizing", "days of autonomy solar", "inverter charge controller off grid", "peak sun hours cochise county", "solar depth of discharge"],
     featuredImage: '/blog/off-grid-solar-sizing-for-cochise-county-properties-a-practical-guide.webp',
     content: `<div class="blog-content">
   <p>Going off-grid in Cochise County requires more than optimism and a southern exposure. It requires honest math, local knowledge, and a clear-eyed assessment of what your property can actually deliver. Too many landowners in Sulfur Springs Valley size their solar arrays based on national averages or vendor spreadsheets, then find themselves rationing power in December or watching battery banks drain faster than expected. The difference between a well-sized system and an undersized one is the difference between comfortable off-grid living and constant compromise.</p>
@@ -219,7 +335,7 @@ export const blogPosts: BlogPost[] = [
   <li><strong>Spring and fall:</strong> 5.5 to 6.5 peak sun hours per day</li>
   </ul>
   <p>Elevation matters. Properties in the higher reaches of Cochise County (toward the Chiricahua foothills, for instance) see slightly better winter performance than lower-elevation parcels near Willcox. The air is thinner, atmospheric losses are lower, and clear winter days are common. Conversely, summer monsoon season—July through early September—brings afternoon cloud cover that can reduce peak hours by 10 to 20 percent on any given day.</p>
-  <p>The critical insight: Cochise County's solar resource is strongest in the winter months when Arizona's lower-elevation deserts are at their weakest. That's good news for off-grid systems, because it means you're not as dependent on massive battery banks to get through the dark season.</p>
+  <p>The critical insight, and the one this guide turns on: <strong>winter is the design constraint</strong>. Production falls to roughly half its summer figure in December and January — and that is exactly when lighting hours are longest and anything you heat runs hardest. Cochise County holds up better through winter than the lower-elevation deserts, because thin clear air at 4,000 to 5,000 feet makes for good short days, but better is not the same as good. Size against a December week, not an annual average, or you will spend that week rationing.</p>
   <h2>Calculating Your Daily Power Consumption</h2>
   <p>Before you can size a solar array, you need to know how much power you actually use. This is where most landowners go wrong. They estimate. They guess. They say "I'll use about 20 kilowatt-hours per day" without actually measuring.</p>
   <p>Start by listing every appliance and device that will run on your off-grid system:</p>
@@ -312,8 +428,8 @@ export const blogPosts: BlogPost[] = [
   {
     id: '7',
     slug: 'should-i-save-money-with-b-grade-panels-or-go-a-grade',
-    title: "B-Grade vs A-Grade Solar Panels: Is the Discount Worth It Off-Grid?",
-    description: "What the A/B grade distinction actually describes, why B-grade panels are cheaper, and when the cosmetic-versus-performance trade-off is worth taking on a remote Arizona array.",
+    title: "B-Grade vs A-Grade Solar Panels: Is the Discount Worth It?",
+    description: "What the A/B grade distinction actually describes, why B-grade panels cost less, and when the cosmetic-versus-electrical trade-off is worth taking.",
     date: '2026-05-01',
     author: 'Sulfur Springs Land Management',
     readTime: '8 min read',
@@ -399,7 +515,7 @@ export const blogPosts: BlogPost[] = [
     id: '6',
     slug: 'goat-kids-like-to-hide-always-use-the-chihuahua-rule',
     title: "Goat Kids Hide: The Chihuahua Rule for Off-Grid Livestock",
-    description: "Newborn goat kids hide by instinct and are easy to miss on cleared desert ground. A simple sizing rule for checking a pasture before you move equipment or livestock across it.",
+    description: "Newborn goat kids hide by instinct and vanish on cleared desert ground. A simple sizing rule for clearing that keeps them findable.",
     date: '2026-05-01',
     author: 'Sulfur Springs Land Management',
     readTime: '8 min read',
@@ -471,177 +587,15 @@ export const blogPosts: BlogPost[] = [
 </div>`
   },
   {
-    id: '1',
-    slug: 'off-grid-solar-sizing-guide',
-    title: 'Off-Grid Solar System Sizing Guide for Cochise County',
-    description: 'Learn how to size a solar system for off-grid living in Arizona, including sun hours, battery calculations, and cost estimates for starter, standard, and premium systems.',
-    date: '2026-03-20',
-    author: 'Sulfur Springs Land Management',
-    readTime: '10 min read',
-    category: 'Off-Grid Living',
-    keywords: ['off-grid solar Arizona', 'solar system sizing', 'Cochise County solar', 'off-grid power system', 'Arizona solar installation'],
-    featuredImage: '/blog/solar-sizing.png',
-    content: `
-      <div class="blog-content">
-        <h2>Off-Grid Solar System Sizing Guide for Cochise County</h2>
-
-        <p>Going off-grid in Cochise County is increasingly practical thanks to improving solar technology and declining costs. But designing an off-grid solar system requires careful calculation. Unlike grid-connected systems where you can export excess power or draw power when the sun isn't shining, off-grid systems must store enough energy to power your home during cloudy periods and winter months. This guide walks you through the process of sizing an off-grid system for Cochise County, covering daily energy requirements, Arizona solar production potential, battery sizing, and cost estimates for different system tiers.</p>
-
-        <h3>Understanding Off-Grid Solar Basics</h3>
-
-        <p>An off-grid solar system has three main components: solar panels that generate electricity, a battery bank that stores energy for use when the sun isn't shining, and an inverter that converts DC power from the panels and batteries to AC power for household use. Some systems also include a generator for backup power during extended cloudy periods.</p>
-
-        <p>The fundamental principle is that your battery bank must store enough energy to power your home through your longest period without good solar generation. In Cochise County, this means sizing for winter production when days are shorter and the sun angle is lower.</p>
-
-        <h3>Step 1: Calculate Your Daily Energy Needs</h3>
-
-        <p>The first step is determining how much electricity your home uses daily. Review 12 months of utility bills and calculate your monthly average, then divide by 30 to get daily average kWh (kilowatt-hours). Most Arizona homes use 15-30 kWh per day depending on size, number of occupants, and cooling/heating loads.</p>
-
-        <p>For off-grid planning, you'll also need to consider seasonal variations. Summer air conditioning and winter heating both increase loads. Create conservative estimates for your worst-case month—typically January in Cochise County when heating is needed and winter sun is weakest.</p>
-
-        <p>If you don't have utility bill history, estimate by calculating appliance usage: sum the wattage of your major loads (AC, heater, water heater, refrigerator, etc.), multiply by hours of daily use, and convert to kWh. As a rough guide:</p>
-
-        <p><strong>Modest off-grid home (2 people, minimal AC):</strong> 10-15 kWh/day<br/>
-        <strong>Average off-grid home (4 people, some AC use):</strong> 15-25 kWh/day<br/>
-        <strong>Comfortable off-grid home (full AC, electric water heater):</strong> 25-35 kWh/day</p>
-
-        <h3>Step 2: Account for Cochise County Solar Production</h3>
-
-        <p>Cochise County enjoys excellent solar resources. The region receives approximately 5.5-6 peak sun hours per day on average—meaning the equivalent of 5.5-6 hours of peak intensity sunlight. This varies seasonally:</p>
-
-        <p><strong>Summer (June-August):</strong> 6-7 peak sun hours/day<br/>
-        <strong>Spring/Fall (March-May, September-November):</strong> 5-6 peak sun hours/day<br/>
-        <strong>Winter (December-February):</strong> 3.5-4.5 peak sun hours/day</p>
-
-        <p>Off-grid systems must be sized for winter production, your most challenging season. Use conservative winter estimates of 4 peak sun hours/day when calculating panel capacity.</p>
-
-        <h3>Step 3: Calculate Required Solar Panel Capacity</h3>
-
-        <p>To calculate required panel capacity, divide your daily energy needs by peak sun hours:</p>
-
-        <p><strong>Required kW = Daily kWh ÷ Peak Sun Hours</strong></p>
-
-        <p>Example: A household using 20 kWh/day in winter with 4 peak sun hours/day needs:<br/>
-        20 kWh ÷ 4 hours = 5 kW of solar panels</p>
-
-        <p>However, you should add a 25-30% buffer for system losses (wiring, inverter inefficiency, dirt on panels, etc.).</p>
-
-        <p>For Cochise County winter production (4 peak sun hours):</p>
-        <p>• 10 kWh/day household: ~2.5-3 kW of panels<br/>
-        • 15 kWh/day household: ~4-5 kW of panels<br/>
-        • 20 kWh/day household: ~5-7 kW of panels<br/>
-        • 25 kWh/day household: ~7-9 kW of panels</p>
-
-        <h3>Step 4: Calculate Battery Bank Size</h3>
-
-        <p>Battery sizing is critical for off-grid reliability. Your battery bank must store enough energy for 2-4 days of autonomy without solar generation (accounting for cloudy weather). Most off-grid systems use 3 days of autonomy as a reasonable balance between reliability and cost.</p>
-
-        <p><strong>Battery Capacity (kWh) = Daily Load (kWh) × Days of Autonomy × 1.2 (depth of discharge factor)</strong></p>
-
-        <p>The depth-of-discharge factor accounts for the fact that lithium batteries should not be regularly discharged below 80% capacity (effectively only 80% usable capacity). The 1.2 multiplier accounts for this.</p>
-
-        <p>Example: A 20 kWh/day household with 3 days autonomy needs:<br/>
-        20 × 3 × 1.2 = 72 kWh of battery capacity</p>
-
-        <p>Modern off-grid systems increasingly use lithium iron phosphate (LiFePO4) batteries, which offer excellent cycle life (6,000-10,000+ cycles), high efficiency, and compact size compared to lead-acid alternatives.</p>
-
-        <h3>Three Tier Off-Grid System Examples for Cochise County</h3>
-
-        <p><strong>STARTER SYSTEM: Small off-grid cabin or part-time residence</strong><br/>
-        Daily load: 10 kWh<br/>
-        Solar panels: 3 kW<br/>
-        Battery capacity: 36-48 kWh<br/>
-        Estimated cost: $20,000-$30,000<br/>
-        Best for: Minimal electrical needs, guest house, or supplemental power</p>
-
-        <p><strong>STANDARD SYSTEM: Full-time residence for 2-4 people</strong><br/>
-        Daily load: 20 kWh<br/>
-        Solar panels: 5-6 kW<br/>
-        Battery capacity: 72-96 kWh<br/>
-        Estimated cost: $35,000-$50,000<br/>
-        Best for: Comfortable off-grid living with AC/heating and modern appliances</p>
-
-        <p><strong>PREMIUM SYSTEM: Full-time residence with high comfort</strong><br/>
-        Daily load: 30 kWh<br/>
-        Solar panels: 8-10 kW<br/>
-        Battery capacity: 108-144 kWh<br/>
-        Estimated cost: $55,000-$80,000<br/>
-        Best for: Full comfort including cooling, electric water heater, and minimal restrictions</p>
-
-        <h3>Additional Components and Costs</h3>
-
-        <p><strong>Inverter/Charger:</strong> Converts DC battery power to AC house power and manages charging. Quality inverters cost $3,000-$8,000. Budget more for larger systems.</p>
-
-        <p><strong>Charge Controller:</strong> Manages charging from panels to battery. MPPT controllers are more efficient. Cost: $1,500-$4,000.</p>
-
-        <p><strong>Backup Generator:</strong> Many systems include a fuel-powered generator for extended cloudy periods. Cost: $2,000-$5,000. Saves the cost of an oversized battery bank.</p>
-
-        <p><strong>Racking and Wiring:</strong> Structural mounting and electrical connections. Cost: $1,000-$3,000 depending on installation.</p>
-
-        <p><strong>Battery Management System (BMS):</strong> Essential for lithium batteries. Cost: $1,000-$2,000.</p>
-
-        <h3>Installation and Labor Considerations</h3>
-
-        <p>While equipment represents 60-70% of off-grid system cost, installation and integration (site assessment, foundation, electrical work, permitting) represents 30-40%. Many off-grid systems in Cochise County are built over time, with initial solar array and batteries, later upgraded with additional panels or battery capacity as needs change.</p>
-
-        <p>Professional installation ensures proper sizing, permits, and safety. Equipment-only costs should be budgeted at 60-70% of total system cost.</p>
-
-        <h3>Seasonal Considerations for Cochise County</h3>
-
-        <p>Cochise County's winters are mild compared to northern climates, which helps. Heating loads are lower than northern states. However, winter sun angle is still weak. Summer cooling loads must also be carefully considered:</p>
-
-        <p><strong>December-February:</strong> Shortest days, lowest sun angle, heating needs. Battery bank will draw down significantly. This is your design constraint period.</p>
-
-        <p><strong>June-August:</strong> Longest days, highest sun angle, peak AC usage. Your system will generate excess power regularly. A well-sized system will maintain battery charge even with high cooling loads during this period.</p>
-
-        <h3>Budget-Conscious Options</h3>
-
-        <p><strong>Generator Backup:</strong> Including a propane or diesel generator reduces battery requirements by 25-50%, saving significant cost. Generators are used during extended cloudy periods.</p>
-
-        <p><strong>Load Reduction:</strong> Before installing an expensive system, consider reducing loads: switch to high-efficiency AC, use propane for water heating and cooking, minimize electric heating. These changes reduce battery and panel requirements dramatically.</p>
-
-        <p><strong>Phased Installation:</strong> Start with solar panels and basic battery capacity to meet average needs, add battery capacity later when budget allows. Initial investment covers 70% of needs; reserve generation capacity allows later expansion.</p>
-
-        <h3>Common Mistakes to Avoid</h3>
-
-        <p><strong>Undersizing the battery bank:</strong> The most common off-grid mistake. Battery cost seems high upfront, but undersizing forces constant generator use and equipment strain.</p>
-
-        <p><strong>Undersizing solar panels:</strong> Second most common mistake. Winter production is lower than expected. Plan conservatively for winter generation.</p>
-
-        <p><strong>Inadequate site assessment:</strong> Shading from trees, mountains, or structures reduces solar production. Professional assessment ensures optimal panel placement.</p>
-
-        <p><strong>Poor load management:</strong> Off-grid living requires conservation mindset. Controlling loads through efficient appliances and usage patterns is often more cost-effective than larger systems.</p>
-
-        <h3>Getting Started with Off-Grid Solar in Cochise County</h3>
-
-        <p>If you're considering going off-grid in Cochise County, the first step is a thorough assessment: review past electricity usage, map your property for solar potential, and evaluate loads realistically. Sulfur Springs Land Management can help with land clearing and grading to optimize panel placement, and we work with qualified solar installers to design systems matched to your property and needs.</p>
-
-        <p>Off-grid living offers independence, but success requires proper design and realistic expectations. The good news is Cochise County's excellent solar resources make off-grid living more practical and affordable than in most US locations.</p>
-
-        <p><strong>Contact Sulfur Springs Land Management to assess your property for off-grid solar potential.</strong></p>
-      
-  <section class="gear-block">
-    <h2>Gear for this job</h2>
-    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually put on a job.</em></p>
-    <ul>
-      <li><a href="https://www.amazon.com/dp/B0BJ78JZ2B?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">LiTime 12V 100Ah LiFePO4 Battery (Group 31)</a> — LiFePO4 tolerates the depth of discharge that lead-acid will not.</li>
-      <li><a href="https://www.amazon.com/dp/B073ZJ43L1?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Victron SmartSolar MPPT 100/50 Charge Controller</a> — MPPT recovers meaningful yield over PWM on a cold, bright morning.</li>
-      <li><a href="https://www.amazon.com/dp/B07PNGVMZK?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Renogy 3000W Pure Sine Inverter Charger with Transfer Switch</a> — Pure sine matters for pumps, compressors and anything with a motor.</li>
-      <li><a href="https://www.amazon.com/dp/B075RTSTKS?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Victron BMV-712 Smart Battery Monitor with 500A Shunt</a> — A shunt-based monitor is the only honest state-of-charge reading.</li>
-    </ul>
-  </section>
-</div>`,
-  },
-  {
     id: '2',
     slug: 'off-grid-land-clearing-checklist',
-    title: 'Preparing Your Off-Grid Property: Land Clearing Checklist',
-    description: 'Complete step-by-step checklist for preparing off-grid land, including site survey, vegetation clearing, grading, driveway creation, drainage, utility trenching, septic, and water placement.',
+    title: 'Off-Grid Site Prep Checklist: Pad, Access, Drainage, Utilities',
+    description: "A phased checklist for turning raw Cochise County land into a buildable site: survey, building pad, access road, drainage, utilities and septic.",
     date: '2026-03-20',
     author: 'Sulfur Springs Land Management',
     readTime: '8 min read',
     category: 'Land Preparation',
-    keywords: ['land clearing Arizona', 'off-grid property prep', 'desert land clearing', 'Cochise County land management', 'rural property clearing'],
+    keywords: ["off grid site preparation arizona", "building pad preparation", "access road rural property", "off grid drainage arizona", "septic site prep cochise county"],
     featuredImage: '/blog/land-clearing.png',
     content: `
       <div class="blog-content">
@@ -806,14 +760,14 @@ export const blogPosts: BlogPost[] = [
   {
     id: '4',
     slug: 'off-grid-solar-panels-arizona-cost-2026',
-    title: 'Off-Grid Solar in Arizona: How Many Panels Do You Really Need? (2026 Cost Guide)',
-    description: 'Step-by-step guide to sizing an off-grid solar system in Arizona. Calculate how many panels you need, compare 2026 battery storage costs, and understand Cochise County permit requirements.',
+    title: 'Off-Grid Solar in Arizona: How Many Panels Do You Need?',
+    description: "How many panels an off-grid Arizona property actually needs, what a full system costs in 2026, and the three tiers most Cochise County builds fall into.",
     date: '2026-04-25',
     author: 'Sulfur Springs Land Management',
     readTime: '11 min read',
     category: 'Off-Grid Living',
     keywords: ['off-grid solar Arizona', 'how many solar panels off grid', 'solar system cost Arizona 2026', 'off grid solar Cochise County', 'off-grid solar panels'],
-    featuredImage: '/blog/solar-panels-arizona.png',
+    featuredImage: '/blog/solar-sizing.png',
     content: `
       <div class="blog-content">
         <h2>Off-Grid Solar in Arizona: How Many Panels Do You Really Need? (2026 Cost Guide)</h2>
@@ -979,13 +933,13 @@ export const blogPosts: BlogPost[] = [
     id: '5',
     slug: 'land-clearing-cochise-county-guide',
     title: 'Land Clearing in Cochise County: What to Know Before You Start',
-    description: 'Everything you need to know about land clearing in Cochise County, Arizona — from mesquite and creosote removal to permits, protected species, equipment, costs, and timeline expectations.',
+    description: "What land clearing costs in Cochise County, what you may and may not remove under Arizona rules, and which equipment suits mesquite and creosote.",
     date: '2026-04-22',
     author: 'Sulfur Springs Land Management',
     readTime: '10 min read',
     category: 'Land Clearing',
     keywords: ['land clearing Cochise County', 'land clearing Arizona', 'rural property clearing cost', 'mesquite removal Arizona', 'land clearing cost Arizona'],
-    featuredImage: '/blog/land-clearing-cochise.png',
+    featuredImage: '/blog/land-clearing.png',
     content: `
       <div class="blog-content">
         <h2>Land Clearing in Cochise County: What to Know Before You Start</h2>
@@ -1127,12 +1081,12 @@ export const blogPosts: BlogPost[] = [
     id: '3',
     slug: 'water-systems-off-grid-arizona',
     title: 'Complete Guide to Off-Grid Water Systems in Rural Arizona',
-    description: 'Everything you need to know about setting up a reliable water system for your off-grid property in Cochise County, from hauled water tanks to well drilling and rainwater harvesting.',
+    description: "Wells, hauled water, storage and pressure systems for a rural Cochise County property — how the pieces fit and what each one demands of you.",
     date: '2026-03-21',
     author: 'Joshua Bryan',
     readTime: '9 min read',
     category: 'Off-Grid Living',
-    keywords: ['off-grid water system Arizona', 'rural water solutions', 'Cochise County water', 'hauled water tank', 'off-grid homestead water'],
+    keywords: ['off-grid water system Arizona', 'rural water storage', 'water pressure pump off grid', 'cistern arizona', 'off-grid homestead water'],
     featuredImage: '/blog/water-systems.png',
     content: `
     <div class="blog-content">
