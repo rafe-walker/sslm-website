@@ -80,6 +80,8 @@ export const cochise_county_owner_builder_certificate_of_occupancy: BlogPost = {
   <p>Option 1 makes sense if any of those is untrue — and particularly if a lender is involved at any point in the building's life, including a future buyer's lender rather than only your own.</p>
 
   <p>The cost difference is real and so is the consequence. Weigh both, once, at the start.</p>
+  <div class="callout"><span class="callout-label">Run the numbers</span><p>Free, sourced calculators on our sister site, no signup:</p><ul><li><a href="https://plotnode.io/calculators/cabin-cost/" rel="noopener">Cabin build cost calculator</a> — a parametric $/ft² range by finish level.</li></ul></div>
+
 
   <h2>What we could not confirm</h2>
 

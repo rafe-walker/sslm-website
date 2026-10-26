@@ -107,6 +107,8 @@ export const winter_freeze_protection_tanks_pumps_lines_sulphur_springs_valley: 
       <p>Most of this is owner work and none of it should wait for a quote. The calls worth making are specific. A split fitting on the pressure side, a cracked booster pump housing or re-plumbing the pump house is plumbing inside your property lines, the ROC's C-37 classification. Pulling the pump or touching the pitless adapter at the wellhead is C-53 water well work, and the services in our <a href="/blog/pumps-pressure-tanks-who-services-them-willcox">pumps and pressure tanks</a> post are equipped for it. A new circuit for a heater or hardwired heat tape is C-11 electrical. Ask for the ROC number and check it at azroc.my.site.com; under A.R.S. § 32-1121 the licence requirement starts at $1,000 or at any work needing a permit.</p>
 
       <p>If you are still designing, the <a href="/blog/water-systems-off-grid-arizona">off-grid water systems guide</a> covers layout, and the cheapest freeze protection is made there.</p>
+  <div class="callout"><span class="callout-label">Run the numbers</span><p>Free, sourced calculators on our sister site, no signup:</p><ul><li><a href="https://plotnode.io/calculators/cistern-sizing/" rel="noopener">Hauled-water cistern sizing calculator</a> — household × gallons per day × days of autonomy, snapped to standard tank sizes.</li></ul></div>
+
 
       <h2>What we could not confirm</h2>
 

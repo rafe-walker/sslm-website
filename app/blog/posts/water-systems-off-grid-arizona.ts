@@ -51,6 +51,7 @@ export const water_systems_off_grid_arizona: BlogPost = {
       <h2>Get Started</h2>
       <p>Every off-grid property in Cochise County has unique water challenges based on location, terrain and intended use. Tell us the parcel and the job and a licensed local contractor will call you to quote it — <a href="/#contact">start here</a>.</p>
     
+    <div class="callout"><span class="callout-label">Run the numbers</span><p>Free, sourced calculators on our sister site, no signup:</p><ul><li><a href="https://plotnode.io/calculators/cistern-sizing/" rel="noopener">Hauled-water cistern sizing calculator</a> — household × gallons per day × days of autonomy, snapped to standard tank sizes.</li><li><a href="https://plotnode.io/calculators/water-catchment/" rel="noopener">Rainwater catchment calculator</a> — roof area × annual rainfall × 0.623 × 0.90 collection efficiency.</li></ul></div>
   <section class="gear-block">
     <h2>Gear for this job</h2>
     <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually use out here.</em></p>

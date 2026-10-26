@@ -74,6 +74,8 @@ export const septic_permit_cochise_county_composting_toilet: BlogPost = {
   <p>They are legitimate, they are permitted under 4.03, and on the right site they are the correct answer. Expect to supply considerably more documentation than for a conventional system: the manufacturer's name and address, the model number, a copy of the warranty and the installation, operation and maintenance specifications, calculations for composting rate, capacity and waste accumulation volume, documentation of listing by a national listing organisation, your vector control method, and your planned method and frequency for disposing of both the composted residue and the drainage from the unit.</p>
 
   <p>Plus the same soil and site work as everyone else, plus the small septic system for the kitchen. ADEQ maintains a list of proprietary products; check your intended unit against it before ordering.</p>
+  <div class="callout"><span class="callout-label">Run the numbers</span><p>Free, sourced calculators on our sister site, no signup:</p><ul><li><a href="https://plotnode.io/calculators/septic-perc/" rel="noopener">Arizona septic tank and leach-field size calculator</a> — sized from the R18-9-A314 tank table and the R18-9-A312 soil absorption rates.</li></ul></div>
+
 
   <h2>What we could not confirm</h2>
 

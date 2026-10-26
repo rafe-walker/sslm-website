@@ -66,6 +66,8 @@ export const defensible_space_cochise_county_driveway_access: BlogPost = {
   <h2>Firewise, if there are enough of you</h2>
 
   <p>Arizona's Department of Forestry and Fire Management is the state liaison for NFPA's Firewise USA programme and there are more than 215 Firewise USA-recognised communities across the state. If your neighbours are within sight of you, the programme is designed for exactly that situation — a cluster of parcels where one owner's fuel is another owner's problem. It is worth a conversation before it is worth a chainsaw.</p>
+  <div class="callout"><span class="callout-label">Run the numbers</span><p>Free, sourced calculators on our sister site, no signup:</p><ul><li><a href="https://plotnode.io/calculators/driveway-cut-fill/" rel="noopener">Driveway cut/fill calculator</a> — earthwork volume from length, width, rise and target grade.</li></ul></div>
+
 
   <h2>What we could not confirm</h2>
 
