@@ -6,7 +6,7 @@ export const willcox_benson_chambers_what_a_landowner_gets: BlogPost = {
   title: 'The Willcox and Benson Chambers: What a New Landowner Actually Gets',
   seoTitle: 'Willcox Chamber of Commerce & Agriculture and Benson Chamber: Directories, Trades, Utilities for Landowners',
   description:
-    'What the Willcox Chamber of Commerce & Agriculture and the Benson Chamber publish, which trades are and are not in their directories, how to use them to find a contractor, and why willcoxchamber.com is not the chamber.',
+    'What the Willcox Chamber of Commerce & Agriculture and the Benson Chamber publish, which trades are and are not in their directories, and how to find a contractor.',
   date: '2026-10-19',
   author: 'Sulfur Springs Land Management',
   readTime: '7 min read',

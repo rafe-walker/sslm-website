@@ -6,7 +6,7 @@ export const well_drillers_willcox_ama_who_to_call: BlogPost = {
   title: 'Drilling a Well in the Willcox AMA: The Sequence, and Who to Call',
   seoTitle: 'Well Drillers Serving the Willcox AMA: ADWR Steps, Exempt Well Rule, Verified Drillers',
   description:
-    'The Willcox AMA changed the paperwork, not the geology. Notice of Intent, the 35 gpm exempt-well rule, the driller\'s log and pump report with ADWR citations, and four verified drillers.',
+    'The Willcox AMA changed the paperwork, not the geology. Notice of Intent, the 35 gpm exempt-well rule, driller\'s log and pump report with ADWR citations, four drillers.',
   date: '2026-09-28',
   author: 'Sulfur Springs Land Management',
   readTime: '8 min read',
@@ -28,7 +28,7 @@ export const well_drillers_willcox_ama_who_to_call: BlogPost = {
     { label: 'A.R.S. § 45-596 — notice of intention to drill; drilling card; fees', url: 'https://www.azleg.gov/ars/45/00596.htm' },
     { label: 'A.R.S. § 45-600 — well driller report and pump installation completion report', url: 'https://www.azleg.gov/ars/45/00600.htm' },
     { label: 'BJ Drilling Company — company site', url: 'https://bjdrilling.com/' },
-    { label: 'Pride Drilling, LLC — company site (BBB profile lists start date July 2017)', url: 'https://pridedrilling.com/' },
+    { label: 'Pride Drilling, LLC — company site', url: 'https://pridedrilling.com/' },
     { label: 'BBB — Longmire Well Services Inc (Willcox)', url: 'https://www.bbb.org/us/az/willcox/profile/water-well-drilling/longmire-well-services-inc-1286-20093793' },
     { label: 'Tanner Well Service — company site', url: 'https://tannerwellservice.com/' },
   ],
@@ -65,16 +65,16 @@ export const well_drillers_willcox_ama_who_to_call: BlogPost = {
 
       <ol>
         <li><strong>Look at the neighbours' wells first.</strong> ADWR's Well Registry map and Wells 55 search are public. Depth to water, total depth and casing for every registered well within a mile is the single best predictor of your own bill. Drillers will do this too, but do it yourself before calling, so the quote has something to be compared against.</li>
-        <li><strong>Pick a licensed driller.</strong> A.R.S. § 45-595 requires that well construction be done under "the direct and personal supervision of a well driller who holds a well driller's license." That is an ADWR licence, and ADWR publishes the list. Separately, the Registrar of Contractors licenses the trade: ask for the ROC number and check it at azroc.my.site.com. A driller should be able to show you both.</li>
+        <li><strong>Pick a licensed driller.</strong> ADWR's wells page is blunt: "a licensed well drilling contractor must perform the work," and ADWR publishes the list of licensed drillers. Separately, the Registrar of Contractors licenses the trade: ask for the ROC number and check it at azroc.my.site.com. A driller should be able to show you both.</li>
         <li><strong>File the Notice of Intention to Drill.</strong> In an AMA, § 45-596(B) requires it before an exempt well is drilled. The filing fee is $150. The notice gives the owner's name and address, the land and well location, and the driller's licence information. Drillers routinely file it on the owner's behalf through ADWR's eNOI; confirm who is filing yours. On a parcel of five acres or less, subsection F requires a site plan showing the well at least 100 feet from any septic system.</li>
-        <li><strong>Wait for the drilling card.</strong> ADWR records the notice and mails a drilling card to the driller within 15 days. The statute is explicit that the driller may proceed only "on receipt of the drilling card." The authority is good for one year; after that, a new notice.</li>
-        <li><strong>Drill, and get the log.</strong> § 45-600(A) requires the driller to keep "a complete and accurate log" and file a well driller report with ADWR within 30 days of finishing, including casing details. Ask for a copy. That log is the document the next owner, the next driller and the pump installer will all want.</li>
+        <li><strong>Wait for the drilling card.</strong> ADWR records the notice and mails a drilling card to the driller within 15 days. The driller may proceed only "on receipt of the drilling card." The authority is good for one year; after that, a new notice.</li>
+        <li><strong>Drill, and get the log.</strong> § 45-600(A) requires the driller to keep "a complete and accurate log" and file a well driller report with ADWR within 30 days of finishing, including casing details. Ask for a copy. The next owner, the next driller and the pump installer will all want it.</li>
         <li><strong>Install the pump, then file your own report.</strong> § 45-600(B) puts a duty on the <strong>registered well owner</strong>: within 30 days after pumping equipment is installed, file a completion report with the equipment type, the tested pumping capacity after at least four hours of continuous pumping, the drawdown, and the static level measured just before the test. Installers hand over the numbers. The filing is yours.</li>
       </ol>
 
       <h2>Drillers who work the basin</h2>
 
-      <p>Each entry below is taken only from the business's own website or its BBB profile. We have not used, rated or ranked them, and we have deliberately left out anything we could not read on those pages. Get at least two quotes and ask both for the registry data they based them on.</p>
+      <p>Each entry below is taken only from the business's own website or its BBB profile. We have not rated or ranked them. Get at least two quotes and ask both for the registry data they based them on.</p>
 
       <div class="table-wrap">
         <table>
@@ -88,7 +88,7 @@ export const well_drillers_willcox_ama_who_to_call: BlogPost = {
             <tr>
               <td><strong>Pride Drilling, LLC</strong></td>
               <td>1253 E. Maley St., Willcox</td>
-              <td>Well drilling "to supply the agricultural needs of the region" and domestic wells; irrigation solutions. Member of the National Ground Water Association. Describes an instrumented drilling system that monitors speed, torque and penetration rate. BBB lists the business as started July 2017. "Servicing all of Arizona." (520) 250-0078.</td>
+              <td>Well drilling "to supply the agricultural needs of the region" and domestic wells; irrigation solutions. Member of the National Ground Water Association. Describes an instrumented drilling system that monitors speed, torque and penetration rate. "Servicing all of Arizona." (520) 250-0078.</td>
             </tr>
             <tr>
               <td><strong>Longmire Well Services Inc</strong></td>
@@ -104,15 +104,14 @@ export const well_drillers_willcox_ama_who_to_call: BlogPost = {
         </table>
       </div>
 
-      <p>Two notes on the list. Pride Drilling's own site and BBB profile both put it in Willcox, not Benson, which is where some directories place it. And Simmons Pump &amp; Supply on E. Maley St. is a pump distributor, not a driller; it belongs in the <a href="/blog/pumps-pressure-tanks-who-services-them-willcox">pumps and pressure tanks</a> post, not here.</p>
+      <p>Two notes on the list. Pride Drilling's own site puts it in Willcox, not Benson, which is where some directories place it. And Simmons Pump &amp; Supply on E. Maley St. is a pump distributor, not a driller; it belongs in the <a href="/blog/pumps-pressure-tanks-who-services-them-willcox">pumps and pressure tanks</a> post, not here.</p>
 
       <h2>Questions worth asking before the rig arrives</h2>
 
       <ul>
         <li>What registered wells did you base the depth estimate on, and what were their static levels?</li>
-        <li>Is the quote per foot, and what happens if you hit water early or hit rock late?</li>
+        <li>Is the quote per foot, and what happens if you hit water early or rock late?</li>
         <li>Who files the NOI, and will I see the drilling card before you drill?</li>
-        <li>What casing, what diameter, and what happens to the hole if it comes up dry?</li>
         <li>Will you give me the log and the pump test numbers in writing, so I can file the owner's completion report?</li>
       </ul>
 
@@ -120,16 +119,15 @@ export const well_drillers_willcox_ama_who_to_call: BlogPost = {
 
       <ul>
         <li>Any price per foot, from any driller. None publishes one and we will not guess.</li>
-        <li>Any ADWR or ROC licence number for any business above. The ADWR licensed-driller list and azroc.my.site.com are the places to check, and you should.</li>
+        <li>Any ADWR or ROC licence number for any business above. Check them yourself.</li>
         <li>Longmire Well Services' current scope of work. Its BBB categories are the only description we could find.</li>
-        <li>How ADWR is applying the one-exempt-well-per-use rule to parcels with a house and a separate shop or guest unit in the Willcox AMA. Ask ADWR directly.</li>
-        <li>Whether any part of the Willcox AMA proposed First Management Plan, due for hearing on 16 November 2026, will change anything for exempt wells. The draft as published is aimed at non-exempt use.</li>
-        <li>Statutory text and ADWR pages were read as published in 2026. Check current versions before relying on them.</li>
+        <li>How ADWR applies the one-exempt-well-per-use rule to a parcel with a house and a separate guest unit. Ask ADWR directly.</li>
+        <li>Whether the proposed First Management Plan, due for hearing on 16 November 2026, will change anything for exempt wells. The draft is aimed at non-exempt use.</li>
       </ul>
 
       <h2>The short version</h2>
 
-      <p>The Willcox AMA regulates big pumps and irrigation. A domestic well with a pump rated at 35 gpm or less is exempt, needs no meter and pays no withdrawal fee, but still needs a $150 Notice of Intention to Drill, a drilling card in the driller's hand before the bit turns, an ADWR-licensed driller, the driller's log filed within 30 days, and your own pump completion report filed within 30 days of the pump going in. One exempt well per use per location. Four drillers we could verify from primary sources: BJ Drilling in Huachuca City, Pride Drilling and Longmire Well Services in Willcox, and Tanner Well Service covering the county.</p>
+      <p>The Willcox AMA regulates big pumps and irrigation. A domestic well with a pump rated at 35 gpm or less is exempt, needs no meter and pays no withdrawal fee, but still needs a $150 Notice of Intention to Drill, a drilling card in the driller's hand before the bit turns, a licensed driller, the driller's log filed within 30 days, and your own pump completion report within 30 days of the pump going in. One exempt well per use per location. Four drillers verified from primary sources: BJ Drilling in Huachuca City, Pride Drilling and Longmire Well Services in Willcox, and Tanner Well Service covering the county.</p>
 
       <p>Tell us the parcel and the job and <a href="/#contact">a licensed local contractor will call you to quote it</a>.</p>
     </div>

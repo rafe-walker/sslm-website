@@ -6,7 +6,7 @@ export const winter_freeze_protection_tanks_pumps_lines_sulphur_springs_valley: 
   title: 'Winter on the Valley Floor: Freeze Protection for Tanks, Pumps and Lines',
   seoTitle: 'Freeze Protection for Water Tanks, Pressure Tanks and Pumps in the Sulphur Springs Valley (Willcox NOAA Normals)',
   description:
-    'Willcox normals say 93 nights below 32°F and 11 below 20°F a year. What that does to above-ground tanks, pressure tanks, exposed lines and pumps, what fails first, burial depth, heat tape, draining, and when to call a plumber.',
+    'Willcox normals: 93 nights at or below 32°F and 11 at or below 20°F a year. What fails first on tanks, lines and pumps, burial depth, heat tape, draining, when to call.',
   date: '2026-10-26',
   author: 'Sulfur Springs Land Management',
   readTime: '8 min read',
@@ -34,9 +34,9 @@ export const winter_freeze_protection_tanks_pumps_lines_sulphur_springs_valley: 
   ],
   content: `
     <div class="blog-content">
-      <p>People who move to the valley from Phoenix or Tucson are surprised by winter. People who move from Michigan are surprised by it too, for the opposite reason. Both groups end up with the same burst fitting in the first January, because the valley floor has a specific kind of cold and nobody told them what it was.</p>
+      <p>People who move to the valley from Phoenix are surprised by winter. People who move from Michigan are surprised too, for the opposite reason. Both end up with the same burst fitting in the first January, because the valley floor has a specific kind of cold and nobody told them what it was.</p>
 
-      <p>This post puts numbers on it, from NOAA's 1991–2020 normals for the Willcox station, and then works through what those numbers do to the pieces of an off-grid water system in the order they fail.</p>
+      <p>This post puts numbers on it, from NOAA's 1991–2020 normals for the Willcox station, then works through what those numbers do to an off-grid water system in the order its pieces fail.</p>
 
       <h2>The numbers</h2>
 
@@ -58,7 +58,7 @@ export const winter_freeze_protection_tanks_pumps_lines_sulphur_springs_valley: 
         </table>
       </div>
 
-      <p>Two things in that table drive everything else. First, the normal January low is below freezing and the normal January high is 61°F. A 33-degree daily swing means the cold here is overnight, radiative, and brief; the sun undoes most of it by mid-morning. Second, it still gets properly cold about eleven nights a year, and roughly three winters in four will see 16°F. On 13 January 2013 Willcox recorded 7°F; the all-time record is −7°F. Those are the nights that find the weak point, and they arrive in a cluster, usually in a dry, still, clear spell between early December and the end of January.</p>
+      <p>Two things in that table drive everything else. First, the normal January low is below freezing and the normal January high is 61°F. A 33-degree daily swing means the cold here is overnight, radiative and brief; the sun undoes most of it by mid-morning. Second, it still gets properly cold about eleven nights a year, and roughly three winters in four see 16°F. On 13 January 2013 Willcox recorded 7°F; the all-time record is −7°F. Those nights find the weak point, and they arrive in a cluster, usually in a dry, still, clear spell between early December and the end of January.</p>
 
       <p>Design for the 93 ordinary nights with insulation and depth. Design for the eleven hard ones with heat and drains.</p>
 
@@ -68,36 +68,36 @@ export const winter_freeze_protection_tanks_pumps_lines_sulphur_springs_valley: 
 
       <ol>
         <li><strong>Exposed small-bore line above ground.</strong> Half-inch PVC or PEX from tank to pump house, a garden hose left connected, a float-valve supply. Freezes on an ordinary 28°F night. The pipe may survive; the fitting at the end of it often does not.</li>
-        <li><strong>Hose bibbs and yard hydrants without a drain-back.</strong> The standing column in the riser freezes and splits the body behind the handle. Found in March when you first open it.</li>
-        <li><strong>The pressure switch, gauge and the nipple they sit on.</strong> A quarter-inch brass tee full of still water in an unheated pump house. It freezes, the switch reads nothing, and the pump either will not start or will not stop.</li>
-        <li><strong>Above-ground pressure pump and its check valve.</strong> A jet or booster pump on a hauled-water system holds a cup of water in the housing. Cast housings crack; the check valve freezes shut.</li>
-        <li><strong>The pressure tank.</strong> Rarely bursts, because the bladder and the air cushion give it room, but the inlet tee and the drain valve below it do.</li>
-        <li><strong>The storage tank itself.</strong> Last, and almost never solid. Several thousand gallons of water hold heat, and the daily sun recharges it. A skin of ice on top of a 2,500-gallon tank is normal; a frozen outlet at the bottom of it is the actual problem.</li>
+        <li><strong>Hose bibbs and yard hydrants without a drain-back.</strong> The standing column in the riser freezes and splits the body behind the handle. Found in March.</li>
+        <li><strong>The pressure switch, gauge and the nipple they sit on.</strong> A quarter-inch brass tee of still water in an unheated pump house. It freezes, the switch reads nothing, and the pump will not start or will not stop.</li>
+        <li><strong>Above-ground pressure pump and its check valve.</strong> A jet or booster pump on a hauled-water system holds a cup of water in the housing. Cast housings crack; check valves freeze shut.</li>
+        <li><strong>The pressure tank.</strong> Rarely bursts, because the air cushion gives it room, but the inlet tee and drain valve below it do.</li>
+        <li><strong>The storage tank itself.</strong> Last, and almost never solid. Several thousand gallons hold heat and the daily sun recharges it. A skin of ice on a 2,500-gallon tank is normal; a frozen outlet at the bottom is the actual problem.</li>
       </ol>
 
-      <p>The submersible pump down the well is not on this list. It sits hundreds of feet below any frost and, as the Nebraska Extension guide puts it, "needs no frost protection." The pitless adapter and the pipe from wellhead to house are a different matter.</p>
+      <p>The submersible pump down the well is not on this list. It sits far below any frost and, as the Nebraska Extension guide puts it, "needs no frost protection." The pitless adapter and the pipe from wellhead to house are a different matter.</p>
 
       <h2>Burial depth</h2>
 
       <p>Cochise County's adopted design criteria set the frost line depth at <strong>0 inches below 5,500 feet elevation</strong> and 12 inches above it, with a winter design temperature of 18 to 20°F. The whole valley floor is below 5,500 feet, so the county's frost line does not force anything.</p>
 
-      <p>The residential code still does. IRC P2603.5 requires exterior water piping to be buried "not less than 12 inches deep and not less than 6 inches below the frost line." With a frost line of zero, the binding number here is 12 inches of cover, and it is a minimum. In practice 18 inches is cheap insurance against both the eleven hard nights and the tractor tyre, and it is what most people who have dug a line up once will tell you to do the second time. Where a line has to come up out of the ground to a tank or hydrant, the riser is the vulnerable part, and that is where the insulation and heat go.</p>
+      <p>The residential code still does. IRC P2603.5 requires exterior water piping to be buried "not less than 12 inches deep and not less than 6 inches below the frost line." With a frost line of zero, the binding number is 12 inches of cover, and it is a minimum. In practice 18 inches is cheap insurance against the eleven hard nights and the tractor tyre both. Where a line comes up out of the ground to a tank or hydrant, the riser is the vulnerable part, and that is where insulation and heat go.</p>
 
       <h2>Insulation, and why it is not enough</h2>
 
-      <p>The IPC commentary, quoted by the ICC, says it directly: "insulation itself (without a heat source) cannot protect a pipe from freezing." Insulation slows heat loss. Over a ten-hour night at 20°F, a half-inch line with no flow and no heat loses the race no matter how thick the foam. What insulation does well is stretch the time until freezing past the length of an ordinary valley night, which is why a wrapped riser survives December and fails on 8 January.</p>
+      <p>The IPC commentary, quoted by the ICC, says it directly: "insulation itself (without a heat source) cannot protect a pipe from freezing." Insulation slows heat loss. Over a long night at 20°F, a half-inch line with no flow and no heat loses the race however thick the foam. What insulation does is stretch the time to freezing past an ordinary valley night, which is why a wrapped riser survives December and fails on 8 January.</p>
 
       <p>So the pairing is heat plus insulation, applied to the small volumes:</p>
 
       <ul>
-        <li><strong>Self-regulating heat tape</strong> on the riser, the pressure switch tee, the booster pump inlet and any exposed line, under closed-cell foam. Buy the self-regulating kind, not the constant-wattage kind, and run it from a GFCI outlet so a damaged cable trips rather than burns. A plug-in heat cable is owner work; a new hardwired circuit to the pump house is a C-11 electrician's.</li>
-        <li><strong>A pump house that is a box, not a lean-to.</strong> Closed, insulated, with the pressure tank and switch inside it. A small thermostatic heater set to come on at 40°F runs for a handful of hours a year. On an off-grid property that is a load you can afford; a heater on a dead inverter is not, so size the battery for the one night the panels are under cloud.</li>
-        <li><strong>Insulated tank outlet.</strong> Wrap the bottom fitting, the valve and the first few feet of line out of the storage tank. That is where the tank freezes, if it freezes at all.</li>
+        <li><strong>Self-regulating heat tape</strong> on the riser, the pressure switch tee, the booster pump inlet and any exposed line, under closed-cell foam. Self-regulating, not constant-wattage, and run from a GFCI outlet so a damaged cable trips rather than burns. A plug-in heat cable is owner work; a new hardwired circuit to the pump house is a C-11 electrician's.</li>
+        <li><strong>A pump house that is a box, not a lean-to.</strong> Closed, insulated, with the pressure tank and switch inside. A small thermostatic heater set to come on at 40°F runs a handful of hours a year. Off grid, a heater on a dead inverter protects nothing, so size the battery for the one cloudy night.</li>
+        <li><strong>Insulated tank outlet.</strong> Wrap the bottom fitting, the valve and the first few feet of line. That is where the tank freezes, if it freezes at all.</li>
       </ul>
 
       <h2>Draining</h2>
 
-      <p>Anything that cannot be kept warm should be kept empty. Hose bibbs need an accessible stop-and-waste valve inside so the exposed section drains, which is what IRC P2903.10 asks for, or a frost-proof bibb whose stem reaches into conditioned space. Yard hydrants should be the self-draining type. Disconnect hoses in October; a connected hose holds water in the bibb and defeats a frost-proof design. On a hauled-water system, if you leave for the winter, drain the booster pump housing and the pressure tank and open the lowest valve. Water that is not there cannot split anything.</p>
+      <p>Anything that cannot be kept warm should be kept empty. Hose bibbs need an accessible stop-and-waste valve inside so the exposed section drains, which is what IRC P2903.10 asks for, or a frost-proof bibb whose stem reaches into conditioned space. Yard hydrants should be the self-draining type. Disconnect hoses in October; a connected hose holds water in the bibb and defeats a frost-proof design. If you leave a hauled-water system for the winter, drain the booster pump housing and the pressure tank and open the lowest valve.</p>
 
       <div class="callout">
         <span class="callout-label">The October list</span>
@@ -108,23 +108,22 @@ export const winter_freeze_protection_tanks_pumps_lines_sulphur_springs_valley: 
 
       <p>Most of this is owner work. Wrapping pipe, plugging in heat cable, draining a bibb, building a box around a pressure tank. None of it requires a licence and none of it should wait for a quote.</p>
 
-      <p>The calls that are worth making are specific. A split fitting on the pressure side, a cracked booster pump housing or any re-plumbing of the pump house is plumbing work inside your property lines, which is the ROC's C-37 classification. Anything that means pulling the pump or touching the pitless adapter at the wellhead is C-53 water well work, and the pump services in our <a href="/blog/pumps-pressure-tanks-who-services-them-willcox">pumps and pressure tanks</a> post are the ones equipped for it. A new circuit for a heater or hardwired heat tape is C-11 electrical. Ask any of them for their ROC number and check it at azroc.my.site.com. Under A.R.S. § 32-1121 the licence requirement starts at $1,000 or at any work needing a permit, and a frozen pump house repair can reach the first threshold quickly.</p>
+      <p>The calls worth making are specific. A split fitting on the pressure side, a cracked booster pump housing or re-plumbing the pump house is plumbing inside your property lines, the ROC's C-37 classification. Pulling the pump or touching the pitless adapter at the wellhead is C-53 water well work, and the services in our <a href="/blog/pumps-pressure-tanks-who-services-them-willcox">pumps and pressure tanks</a> post are equipped for it. A new circuit for a heater or hardwired heat tape is C-11 electrical. Ask for the ROC number and check it at azroc.my.site.com; under A.R.S. § 32-1121 the licence requirement starts at $1,000 or at any work needing a permit.</p>
 
-      <p>If you are still designing the system, the <a href="/blog/water-systems-off-grid-arizona">off-grid water systems guide</a> covers the layout decisions, and the cheapest freeze protection is made there: a buried line, a short riser, and a pump house that was built as one.</p>
+      <p>If you are still designing the system, the <a href="/blog/water-systems-off-grid-arizona">off-grid water systems guide</a> covers the layout, and the cheapest freeze protection is made there: a buried line, a short riser, and a pump house built as one.</p>
 
       <h2>What we could not confirm</h2>
 
       <ul>
-        <li>Normals are for the Willcox station only. Pearce-Sunsites, Kansas Settlement, Elfrida and the benches toward the Chiricahuas will differ, and the playa edge is reliably colder on still nights than the station. Treat these as the mild end of the valley.</li>
-        <li>The −7°F all-time record comes from Wikipedia's NOAA-derived table; we did not locate the NOAA daily record directly. The 7°F reading on 13 January 2013 is from contemporaneous news reporting.</li>
+        <li>Normals are for the Willcox station only. Pearce-Sunsites, Kansas Settlement, Elfrida and the benches toward the Chiricahuas will differ, and low ground near the playa is colder on still nights. Treat these as the mild end of the valley.</li>
+        <li>The −7°F all-time record comes from Wikipedia's NOAA-derived table; we did not locate the NOAA daily record directly. The 7°F on 13 January 2013 is from contemporaneous news reporting.</li>
         <li>Whether Cochise County Building Safety applies any burial depth stricter than the IRC minimum on a given permit. The amendments we read do not add one; ask the inspector.</li>
         <li>How long a given tank, line or fitting survives at a given temperature. The failure order above is experience, not test data.</li>
-        <li>Any heat-tape wattage or heater sizing for your pump house. That depends on the box you built.</li>
       </ul>
 
       <h2>The short version</h2>
 
-      <p>Willcox normals give 93 freezing nights a year, 11 at or below 20°F, a median first freeze on 31 October and a last on 9 April, with a 33-degree daily swing that makes the cold short and overnight. Small volumes fail first: exposed lines, bibbs, the pressure-switch tee, a booster pump housing. Big tanks almost never freeze solid. The county frost line on the valley floor is zero, so the code minimum is 12 inches of cover; dig 18. Insulation alone will not hold through a hard night, so pair it with self-regulating heat tape and a closed pump house, and drain what you cannot heat. Call a C-37 plumber for split fittings, a C-53 pump service for anything at the wellhead, and a C-11 electrician for a new circuit.</p>
+      <p>Willcox normals give 93 freezing nights a year, 11 at or below 20°F, a median first freeze on 31 October and a last on 9 April, with a 33-degree daily swing that makes the cold short and overnight. Small volumes fail first: exposed lines, bibbs, the pressure-switch tee, a booster pump housing. Big tanks almost never freeze solid. The county frost line on the valley floor is zero, so the code minimum is 12 inches of cover; dig 18. Insulation alone will not hold through a hard night, so pair it with self-regulating heat tape and a closed pump house, and drain what you cannot heat. Call a C-37 plumber for split fittings, a C-53 pump service for the wellhead, and a C-11 electrician for a new circuit.</p>
 
       <p>Tell us the parcel and the job and <a href="/#contact">a licensed local contractor will call you to quote it</a>.</p>
     </div>

@@ -6,7 +6,7 @@ export const pumps_pressure_tanks_who_services_them_willcox: BlogPost = {
   title: 'Well Pumps and Pressure Tanks: What You Are Buying, Who Services Them',
   seoTitle: 'Well Pump and Pressure Tank Service Near Willcox: A Landowner Directory',
   description:
-    'Submersible vs jet, how a pressure tank is sized, what a controller does, when solar pumping fits, and the verified pump and supply businesses serving the Sulphur Springs Valley.',
+    'Submersible vs jet, how a pressure tank is sized, what a controller does, when solar pumping fits, and the verified pump businesses serving the Sulphur Springs Valley.',
   date: '2026-09-07',
   author: 'Sulfur Springs Land Management',
   readTime: '7 min read',
@@ -44,11 +44,11 @@ export const pumps_pressure_tanks_who_services_them_willcox: BlogPost = {
 
       <p>Nebraska Extension's guide to private well distribution systems puts the limits plainly: shallow-well jet pumps are used "when the water is less than 25 feet below the surface," and deep-well jets when it is "25 to 250 feet below the surface." A submersible is a pump and motor in one unit, typically about 3½ inches across and 2 to 3 feet long, and needs a casing of at least 4 inches to drop into. Because it sits far below the frost line, it needs no freeze protection of its own.</p>
 
-      <p>On the valley floor, where the static water level in a drilled well is commonly measured in hundreds of feet, the submersible is the default and the question is rarely asked. Where you do meet jet pumps and small above-ground pressure pumps here is on hauled-water systems, pulling from a storage tank a few feet away. If you are weighing that route, the <a href="/blog/hauled-water-vs-drilling-a-well-in-sulfur-springs-valley-real-numbers">hauled water versus well</a> post covers the trade.</p>
+      <p>On the valley floor, where static water in a drilled well is commonly hundreds of feet down, the submersible is the default. Where you meet jet pumps and small above-ground pressure pumps here is on hauled-water systems, pulling from a storage tank a few feet away; the <a href="/blog/hauled-water-vs-drilling-a-well-in-sulfur-springs-valley-real-numbers">hauled water versus well</a> post covers that trade.</p>
 
       <h2>What the pressure tank is for</h2>
 
-      <p>The tank does not make pressure. The pump does. The tank stores a few gallons under pressure so the pump does not have to start every time someone opens a tap, and that matters because starts, not run time, are what wear a pump motor out.</p>
+      <p>The tank does not make pressure. The pump does. The tank stores a few gallons under pressure so the pump does not start every time someone opens a tap, and starts, not run time, are what wear a pump motor out.</p>
 
       <p>Two numbers on a quote are worth understanding:</p>
 
@@ -57,7 +57,7 @@ export const pumps_pressure_tanks_who_services_them_willcox: BlogPost = {
         <li><strong>Sizing</strong> follows the pump, not the house. The rule of thumb in the same guide is tank size equal to four times the pump's flow rate for a bladder tank — a 9 gpm pump wants roughly a 36-gallon tank — and ten times for an old-style galvanized tank with no bladder.</li>
       </ul>
 
-      <p>Bladder tanks ship with a factory air charge of about 20 psi and should be set "about 2 psi lower than the pump-on pressure." A tank that has lost its charge, or whose bladder has failed, makes the pump short-cycle: on, off, on, off, every few seconds at the tap. That is the most common pressure-tank complaint and it is a diagnosis you can make yourself before anyone drives out.</p>
+      <p>Bladder tanks ship with a factory air charge of about 20 psi and should be set "about 2 psi lower than the pump-on pressure." A tank that has lost its charge, or whose bladder has failed, makes the pump short-cycle: on, off, on, off at the tap. That is the most common pressure-tank complaint and a diagnosis you can make yourself.</p>
 
       <h2>Switches and controllers</h2>
 
@@ -109,7 +109,7 @@ export const pumps_pressure_tanks_who_services_them_willcox: BlogPost = {
 
       <div class="callout">
         <span class="callout-label">Licences, and the one filing that is yours</span>
-        <p>Two agencies are involved. ADWR licences well drillers. The Registrar of Contractors licences the trade work: the ROC's C-53 Water Well Drilling classification expressly includes "installation of jet and submersible pumps," and plumbing inside your property lines is C-37. Ask any installer for their ROC number and check it at azroc.my.site.com. Then note A.R.S. § 45-600(B): after pumping equipment goes in, the <strong>registered well owner</strong> files a completion report with ADWR within 30 days, with the tested pumping capacity, drawdown and static level. Good installers hand you the numbers. The filing is still yours.</p>
+        <p>Two agencies are involved. ADWR licences well drillers. The Registrar of Contractors licences the trade work: the ROC's C-53 Water Well Drilling classification expressly includes "installation of jet and submersible pumps," and plumbing inside your property lines is C-37. Ask any installer for their ROC number and check it at azroc.my.site.com. Then note A.R.S. § 45-600(B): after pumping equipment goes in, the <strong>registered well owner</strong> files a completion report with ADWR within 30 days, with tested capacity, drawdown and static level. Installers hand you the numbers. The filing is yours.</p>
       </div>
 
       <h2>When you do not need to call anyone</h2>

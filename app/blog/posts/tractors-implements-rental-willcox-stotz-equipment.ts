@@ -6,7 +6,7 @@ export const tractors_implements_rental_willcox_stotz_equipment: BlogPost = {
   title: 'Tractors, Implements and Rental for a Valley Parcel: What 40 Acres Actually Needs',
   seoTitle: 'Compact Tractor vs Skid Steer vs Rental for a Willcox-Area Parcel: Stotz Equipment and the Arithmetic',
   description:
-    'Stotz Equipment in Willcox, what a 40-acre owner really needs (compact tractor with loader and box blade, skid steer, or rental), the buy-vs-rent arithmetic, and when to hire instead.',
+    'Stotz Equipment in Willcox, what a 40-acre owner needs (compact tractor with loader and box blade, skid steer, or rental), buy-vs-rent arithmetic, when to hire.',
   date: '2026-09-14',
   author: 'Sulfur Springs Land Management',
   readTime: '7 min read',

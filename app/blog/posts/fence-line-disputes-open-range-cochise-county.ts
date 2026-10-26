@@ -27,10 +27,10 @@ export const fence_line_disputes_open_range_cochise_county: BlogPost = {
     { label: 'A.R.S. § 12-523 — three-year limitation under title or colour of title', url: 'https://www.azleg.gov/ars/12/00523.htm' },
     { label: 'A.R.S. § 12-525 — five-year limitation under recorded deed with taxes paid', url: 'https://www.azleg.gov/ars/12/00525.htm' },
     { label: 'A.R.S. § 3-1428 — action for damage by livestock breaking through a lawful fence', url: 'https://www.azleg.gov/ars/3/01428.htm' },
-    { label: 'A.R.S. § 3-1424 — liability in a no-fence district', url: 'https://www.azleg.gov/ars/3/01424.htm' },
+    { label: 'A.R.S. § 3-1422 — publication of order forming a no-fence district', url: 'https://www.azleg.gov/ars/3/01422.htm' },
     { label: 'A.R.S. § 33-105 — recording of land surveys showing discrepancies', url: 'https://www.azleg.gov/ars/33/00105.htm' },
-    { label: 'A.R.S. § 33-103 — survey monuments; destruction a class 2 misdemeanour', url: 'https://www.azleg.gov/ars/33/00103.htm' },
     { label: 'Arizona Department of Agriculture — Livestock Brands', url: 'https://azda.gov/node/12' },
+    { label: 'Arizona Department of Agriculture — Livestock Services brochure (July 2024)', url: 'https://agriculture.az.gov/sites/default/files/07_2024Livestock%20Services%20Brochure.pdf' },
   ],
   content: `
     <div class="blog-content">
@@ -46,9 +46,7 @@ export const fence_line_disputes_open_range_cochise_county: BlogPost = {
 
       <p>A boundary survey by a registered land surveyor finds the section and quarter-section corners set by the original federal survey, or re-establishes them under federal rules if they are lost, and runs your deed lines from there. Surveyors here are licensed by the Arizona Board of Technical Registration; check the registration before you hire.</p>
 
-      <p>Two statutes shape what you get. A.R.S. &sect; 33-103 sets the monument standard: a durable rod or pipe at least 2.5 feet long, magnetically detectable, marked with the surveyor's registration number. Knowingly or grossly negligently destroying, moving or disturbing a capped monument is a class 2 misdemeanour with civil liability on top. If your fence crew pulls a surveyor's cap out of the ground to set a corner post, that is not a small mistake.</p>
-
-      <p>A.R.S. &sect; 33-105 is the one people do not know. When a surveyor's work reveals a material discrepancy not shown on any previously recorded map, or evidence that could lead to alternate positions for a line, the surveyor must file a record of survey with the county recorder within 90 days. So if your survey finds the fence is forty feet off, that fact is likely to become a public record whether or not you wanted it to. Order the survey knowing that.</p>
+      <p>A.R.S. &sect; 33-105 is the statute people do not know. When a surveyor's work reveals a material discrepancy not shown on any previously recorded map, or evidence that could lead to alternate positions for a line, the surveyor must file a record of survey with the county recorder within 90 days. So if your survey finds the fence is forty feet off, that fact is likely to become a public record whether or not you wanted it to. Order the survey knowing that.</p>
 
       <div class="callout">
         <span class="callout-label">Before you build or move a fence</span>
@@ -73,7 +71,7 @@ export const fence_line_disputes_open_range_cochise_county: BlogPost = {
 
       <p>The $200 threshold has not been updated for a long time, which tells you how much of this ends up in superior court. Document the fence first: photographs of posts, wire count and spacing with a tape in frame, taken before the dispute, are what make &sect; 3-1428 available to you at all.</p>
 
-      <p>One more mechanism exists on paper. Where a board of supervisors has formed a no-fence district under &sect; 3-1422, no fence is required around land inside it and it becomes unlawful for livestock to run at large there; &sect; 3-1424 makes recklessly allowing stock to roam in such a district a class 2 misdemeanour and the owner liable for trespass damage as if the land were fenced. We still cannot confirm that any no-fence district exists in Cochise County. Do not plan around one.</p>
+      <p>One more mechanism exists on paper. Where a board of supervisors has formed a no-fence district under &sect; 3-1422, once the order is published no fence is required around land inside it and it becomes unlawful for livestock to run at large there. We still cannot confirm that any no-fence district exists in Cochise County. Do not plan around one.</p>
 
       <h2>How to talk to the rancher</h2>
 
