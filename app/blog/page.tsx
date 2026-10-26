@@ -121,7 +121,7 @@ export default function BlogPage() {
       {/* Footer */}
       <footer className="bg-bg/50 border-t border-accent/10 py-8 px-4">
         <div className="max-w-7xl mx-auto text-center text-textPrimary/60 text-sm">
-          <p>&copy; 2026 Sulfur Springs Land Management. All rights reserved. | <Link href="/privacy" className="hover:text-accent">Privacy</Link> | <Link href="/terms" className="hover:text-accent">Terms</Link></p>
+          <p>&copy; 2026 Sulfur Springs Land Management. All rights reserved. | <Link href="/privacy" className="hover:text-accent">Privacy</Link> | <Link href="/terms" className="hover:text-accent">Terms</Link> | <Link href="/affiliate-disclosure" className="hover:text-accent">Affiliate disclosure</Link></p>
         </div>
       </footer>
     </div>

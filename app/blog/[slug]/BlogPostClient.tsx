@@ -180,7 +180,7 @@ export default function BlogPostClient({ post }: { post: BlogPost }) {
         <div className="max-w-7xl mx-auto text-center text-textPrimary/60 text-sm space-y-3">
           <p className="text-xs max-w-3xl mx-auto"><strong className="text-textPrimary/80">Not a licensed contractor.</strong> {SITE.posture}</p>
           <p><a href={SITE.phoneHref} className="hover:text-accent">{SITE.phone}</a> · <a href={`mailto:${SITE.email}`} className="hover:text-accent">{SITE.email}</a></p>
-          <p>&copy; 2026 Sulfur Springs Land Management. All rights reserved. | <Link href="/privacy" className="hover:text-accent">Privacy</Link> | <Link href="/terms" className="hover:text-accent">Terms</Link></p>
+          <p>&copy; 2026 Sulfur Springs Land Management. All rights reserved. | <Link href="/privacy" className="hover:text-accent">Privacy</Link> | <Link href="/terms" className="hover:text-accent">Terms</Link> | <Link href="/affiliate-disclosure" className="hover:text-accent">Affiliate disclosure</Link></p>
         </div>
       </footer>
     </div>

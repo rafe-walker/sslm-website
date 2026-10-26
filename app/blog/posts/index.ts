@@ -3,6 +3,17 @@
 
 import type { BlogPost } from '../types'
 
+import { winter_freeze_protection_tanks_pumps_lines_sulphur_springs_valley } from './winter-freeze-protection-tanks-pumps-lines-sulphur-springs-valley'
+import { willcox_benson_chambers_what_a_landowner_gets } from './willcox-benson-chambers-what-a-landowner-gets'
+import { agricultural_property_classification_cochise_county_assessor } from './agricultural-property-classification-cochise-county-assessor'
+import { landlocked_by_public_land_blm_forest_access_cochise_county } from './landlocked-by-public-land-blm-forest-access-cochise-county'
+import { well_drillers_willcox_ama_who_to_call } from './well-drillers-willcox-ama-who-to-call'
+import { fence_line_disputes_open_range_cochise_county } from './fence-line-disputes-open-range-cochise-county'
+import { tractors_implements_rental_willcox_stotz_equipment } from './tractors-implements-rental-willcox-stotz-equipment'
+import { pumps_pressure_tanks_who_services_them_willcox } from './pumps-pressure-tanks-who-services-them-willcox'
+import { easement_maintenance_cochise_county_who_pays } from './easement-maintenance-cochise-county-who-pays'
+import { county_road_vs_private_road_who_grades_it_sulphur_springs_valley } from './county-road-vs-private-road-who-grades-it-sulphur-springs-valley'
+import { well_share_agreement_two_parcels_one_well_cochise_county } from './well-share-agreement-two-parcels-one-well-cochise-county'
 import { electric_line_extension_rural_cochise_county_ssvec } from './electric-line-extension-rural-cochise-county-ssvec'
 import { minor_land_division_cochise_county_splitting_a_parcel } from './minor-land-division-cochise-county-splitting-a-parcel'
 import { home_occupation_permit_cochise_county_rural_business } from './home-occupation-permit-cochise-county-rural-business'
@@ -29,6 +40,17 @@ import { off_grid_land_clearing_checklist } from './off-grid-land-clearing-check
 export type { BlogPost } from '../types'
 
 export const blogPosts: BlogPost[] = [
+  winter_freeze_protection_tanks_pumps_lines_sulphur_springs_valley,
+  willcox_benson_chambers_what_a_landowner_gets,
+  agricultural_property_classification_cochise_county_assessor,
+  landlocked_by_public_land_blm_forest_access_cochise_county,
+  well_drillers_willcox_ama_who_to_call,
+  fence_line_disputes_open_range_cochise_county,
+  tractors_implements_rental_willcox_stotz_equipment,
+  pumps_pressure_tanks_who_services_them_willcox,
+  easement_maintenance_cochise_county_who_pays,
+  county_road_vs_private_road_who_grades_it_sulphur_springs_valley,
+  well_share_agreement_two_parcels_one_well_cochise_county,
   electric_line_extension_rural_cochise_county_ssvec,
   minor_land_division_cochise_county_splitting_a_parcel,
   home_occupation_permit_cochise_county_rural_business,

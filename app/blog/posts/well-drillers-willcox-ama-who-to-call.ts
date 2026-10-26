@@ -36,7 +36,7 @@ export const well_drillers_willcox_ama_who_to_call: BlogPost = {
     <div class="blog-content">
       <p>On 8 January 2025 the northern Sulphur Springs Valley became the Willcox Active Management Area. For a farm running a large turbine pump that was a very large event. For the landowner who wants one domestic well on forty acres it changed less than the rumours say. This post covers exactly what did change, the order the steps now run in, and which drillers we could verify as working the basin.</p>
 
-      <p>If you have not yet decided between a well and hauled water, read <a href="/blog/hauled-water-vs-drilling-a-well-in-sulfur-springs-valley-real-numbers">the real numbers</a> first. This post assumes you are drilling.</p>
+      <p>If you have not decided between a well and hauled water, read <a href="/blog/hauled-water-vs-drilling-a-well-in-sulfur-springs-valley-real-numbers">the real numbers</a> first.</p>
 
       <h2>What the AMA is</h2>
 
@@ -46,27 +46,27 @@ export const well_drillers_willcox_ama_who_to_call: BlogPost = {
 
       <h2>The exempt-well rule, which is your rule</h2>
 
-      <p>A.R.S. § 45-454 defines an exempt well as one with a pump of "not more than thirty-five gallons per minute." It is the pump's rated capacity that counts, not how much you draw. A domestic well on a rural parcel is almost always exempt, and ADWR's Willcox AMA page says exempt wells for non-irrigation use are generally not required to measure or report.</p>
+      <p>A.R.S. § 45-454 defines an exempt well as one with a pump of "not more than thirty-five gallons per minute." The pump's rated capacity counts, not how much you draw. A domestic well on a rural parcel is almost always exempt, and ADWR's Willcox AMA page says exempt wells for non-irrigation use are generally not required to measure or report.</p>
 
       <p>Three constraints come with the exemption:</p>
 
       <ul>
         <li><strong>One per use, per location.</strong> Subsection I allows only one exempt well serving the same non-irrigation use at the same location, with narrow exceptions. Two houses on one parcel is a conversation with ADWR, not an assumption.</li>
-        <li><strong>Not next to a water system.</strong> Since 2006 an exempt well "may not be drilled on land if any part of the land is within one hundred feet of the operating water distribution system" of a municipal provider, unless one of four exemptions in subsection D applies — the provider failed to confirm service within 30 days, connecting costs more than drilling, an easement was refused, or you agree in writing not to take service. On most of the valley floor this is moot. In and around Willcox city limits it is not.</li>
+        <li><strong>Not next to a water system.</strong> Since 2006 an exempt well "may not be drilled on land if any part of the land is within one hundred feet of the operating water distribution system" of a municipal provider, unless one of four exemptions in subsection D applies — no service confirmation within 30 days, connecting costs more than drilling, an easement refused, or a written agreement not to take service. On most of the valley floor this is moot. Around Willcox city limits it is not.</li>
         <li><strong>Non-domestic use is capped.</strong> Non-irrigation uses other than domestic and stock watering "shall not exceed ten acre-feet per year."</li>
       </ul>
 
       <div class="callout">
         <span class="callout-label">What did not change</span>
-        <p>An exempt well in the Willcox AMA still needs exactly what it needed before: a Notice of Intention to Drill, a licensed driller, and the completion reports. ADWR's own page says so in those words. There is no new permit for a domestic well, no groundwater withdrawal fee in a subsequent AMA, and no meter. If a seller or a neighbour tells you domestic wells are banned in the AMA, they are wrong on the statute as written.</p>
+        <p>An exempt well in the Willcox AMA still needs exactly what it needed before: a Notice of Intention to Drill, a licensed driller, and the completion reports. ADWR's own page says so. There is no new permit for a domestic well, no groundwater withdrawal fee in a subsequent AMA, and no meter. If a seller or neighbour tells you domestic wells are banned in the AMA, they are wrong on the statute as written.</p>
       </div>
 
       <h2>The sequence</h2>
 
       <ol>
-        <li><strong>Look at the neighbours' wells first.</strong> ADWR's Well Registry map and Wells 55 search are public. Depth to water, total depth and casing for every registered well within a mile is the single best predictor of your own bill. Drillers will do this too, but do it yourself before calling, so the quote has something to be compared against.</li>
+        <li><strong>Look at the neighbours' wells first.</strong> ADWR's Well Registry map and Wells 55 search are public. Depth to water, total depth and casing for every registered well within a mile is the best predictor of your own bill. Do it before calling, so the quote has something to be compared against.</li>
         <li><strong>Pick a licensed driller.</strong> ADWR's wells page is blunt: "a licensed well drilling contractor must perform the work," and ADWR publishes the list of licensed drillers. Separately, the Registrar of Contractors licenses the trade: ask for the ROC number and check it at azroc.my.site.com. A driller should be able to show you both.</li>
-        <li><strong>File the Notice of Intention to Drill.</strong> In an AMA, § 45-596(B) requires it before an exempt well is drilled. The filing fee is $150. The notice gives the owner's name and address, the land and well location, and the driller's licence information. Drillers routinely file it on the owner's behalf through ADWR's eNOI; confirm who is filing yours. On a parcel of five acres or less, subsection F requires a site plan showing the well at least 100 feet from any septic system.</li>
+        <li><strong>File the Notice of Intention to Drill.</strong> In an AMA, § 45-596(B) requires it before an exempt well is drilled. The filing fee is $150. The notice gives the owner's name and address, the land and well location, and the driller's licence information. Drillers routinely file it through ADWR's eNOI; confirm who is filing yours. On a parcel of five acres or less, subsection F requires a site plan showing the well at least 100 feet from any septic system.</li>
         <li><strong>Wait for the drilling card.</strong> ADWR records the notice and mails a drilling card to the driller within 15 days. The driller may proceed only "on receipt of the drilling card." The authority is good for one year; after that, a new notice.</li>
         <li><strong>Drill, and get the log.</strong> § 45-600(A) requires the driller to keep "a complete and accurate log" and file a well driller report with ADWR within 30 days of finishing, including casing details. Ask for a copy. The next owner, the next driller and the pump installer will all want it.</li>
         <li><strong>Install the pump, then file your own report.</strong> § 45-600(B) puts a duty on the <strong>registered well owner</strong>: within 30 days after pumping equipment is installed, file a completion report with the equipment type, the tested pumping capacity after at least four hours of continuous pumping, the drawdown, and the static level measured just before the test. Installers hand over the numbers. The filing is yours.</li>
@@ -106,14 +106,7 @@ export const well_drillers_willcox_ama_who_to_call: BlogPost = {
 
       <p>Two notes on the list. Pride Drilling's own site puts it in Willcox, not Benson, which is where some directories place it. And Simmons Pump &amp; Supply on E. Maley St. is a pump distributor, not a driller; it belongs in the <a href="/blog/pumps-pressure-tanks-who-services-them-willcox">pumps and pressure tanks</a> post, not here.</p>
 
-      <h2>Questions worth asking before the rig arrives</h2>
-
-      <ul>
-        <li>What registered wells did you base the depth estimate on, and what were their static levels?</li>
-        <li>Is the quote per foot, and what happens if you hit water early or rock late?</li>
-        <li>Who files the NOI, and will I see the drilling card before you drill?</li>
-        <li>Will you give me the log and the pump test numbers in writing, so I can file the owner's completion report?</li>
-      </ul>
+      <p>Three questions for every quote: which registered wells was the depth estimate based on; is the price per foot and what happens if you hit rock late; and will the log and pump test numbers come to me in writing so I can file the owner's report.</p>
 
       <h2>What we could not confirm</h2>
 

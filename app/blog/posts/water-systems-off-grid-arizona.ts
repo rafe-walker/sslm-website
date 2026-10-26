@@ -6,7 +6,7 @@ export const water_systems_off_grid_arizona: BlogPost = {
   title: "Complete Guide to Off-Grid Water Systems in Rural Arizona",
   description: "Wells, hauled water, storage and pressure systems for a rural Cochise County property — how the pieces fit and what each one demands of you.",
   date: "2026-03-21",
-  author: "Joshua Bryan",
+  author: "Sulfur Springs Land Management",
   readTime: "9 min read",
   category: "Off-Grid Living",
   keywords: ["off-grid water system Arizona", "rural water storage", "water pressure pump off grid", "cistern arizona", "off-grid homestead water"],

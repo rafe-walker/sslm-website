@@ -12,6 +12,7 @@ export default function Contact() {
     phone: '',
     serviceType: 'Land Clearing',
     propertySize: '',
+    aerialSurvey: 'No',
     description: '',
   });
   const [formSubmitted, setFormSubmitted] = useState(false);
@@ -20,8 +21,9 @@ export default function Contact() {
   const contactFormRef = useRef<HTMLDivElement>(null);
 
   const handleFormChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement | HTMLSelectElement>) => {
-    const { name, value } = e.target;
-    setFormData(prev => ({ ...prev, [name]: value }));
+    const target = e.target as HTMLInputElement;
+    const value = target.type === 'checkbox' ? (target.checked ? 'Yes' : 'No') : target.value;
+    setFormData({ ...formData, [target.name]: value });
   };
 
   const handleFormSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
@@ -45,6 +47,7 @@ export default function Contact() {
           phone: '',
           serviceType: 'Land Clearing',
           propertySize: '',
+    aerialSurvey: 'No',
           description: '',
         });
       } else {
@@ -176,6 +179,22 @@ export default function Contact() {
           {formError && (
             <p className="text-red-400 text-sm text-center" role="alert">Something went wrong. Please try again or email us directly.</p>
           )}
+
+          <label htmlFor="aerialSurvey" className="flex items-start gap-3 text-sm text-textSecondary leading-relaxed cursor-pointer">
+            <input
+              id="aerialSurvey"
+              type="checkbox"
+              name="aerialSurvey"
+              checked={formData.aerialSurvey === 'Yes'}
+              onChange={handleFormChange}
+              className="mt-1 h-4 w-4 accent-[#7c9a3e]"
+            />
+            <span>
+              <strong className="text-textPrimary">Add an aerial site survey (optional, $295).</strong> Our sister company{' '}
+              <a href="https://strongholdprecisionaerials.com" target="_blank" rel="noopener noreferrer" className="text-accent hover:text-accentLight">Stronghold Precision Aerials</a>
+              {' '}flies the parcel first — up to 40 acres, with county parcel lines on the photos — so the contractor quotes from real imagery and you keep the files. Quoted and billed separately by SPA.
+            </span>
+          </label>
 
           <p className="text-xs text-textSecondary leading-relaxed">{SITE.consent}</p>
 

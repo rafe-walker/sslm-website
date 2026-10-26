@@ -43,10 +43,10 @@ export const tractors_implements_rental_willcox_stotz_equipment: BlogPost = {
 
       <ul>
         <li>Grading the driveway after monsoon. Several times a summer, a few hours each.</li>
-        <li>Moving material: gravel for the pad, a load of base course, mesquite rounds, a pallet of fence posts.</li>
-        <li>Knocking down weeds and grass along fence lines and around structures for <a href="/blog/defensible-space-cochise-county-driveway-access">defensible space</a>.</li>
+        <li>Moving material: gravel, base course, mesquite rounds, a pallet of fence posts.</li>
+        <li>Knocking down weeds along fence lines and around structures for <a href="/blog/defensible-space-cochise-county-driveway-access">defensible space</a>.</li>
         <li>Setting posts. Fence, gate, shade structure, the solar rack.</li>
-        <li>Occasionally breaking ground: a garden, a small pasture reseed, a trench for a water line.</li>
+        <li>Occasionally breaking ground: a garden, a pasture reseed, a water-line trench.</li>
       </ul>
 
       <p>Notice what is not on the list. Building the pad. Cutting a new road. Clearing more than an acre of mesquite. Installing the septic. Those are infrequent, not small, and the jobs a compact tractor is worst at.</p>
@@ -55,9 +55,9 @@ export const tractors_implements_rental_willcox_stotz_equipment: BlogPost = {
 
       <p>For the list above, a compact utility tractor with a front loader and a box blade on the three-point hitch does the most. The loader moves material and lifts posts. The box blade, scarifier teeth down, cuts washboard and fills low spots on a gravel drive in a pass or two, then smooths with the teeth up. The hitch takes every other implement you will ever want.</p>
 
-      <p>Stotz Equipment, the John Deere dealer at <strong>331 W Rex Allen Dr in Willcox</strong>, lists compact tractors in four tiers on its site: 1 Series sub-compact, and 2, 3 and 4 Series compact. The 1 Series is a large lawn tractor with a hitch and is undersized for a 40-acre driveway. The 2 and 3 Series are where most rural owners land; the 4 Series starts to overlap with genuine utility tractors. Stotz does not publish horsepower or pricing on its category page, so get both from the counter.</p>
+      <p>Stotz Equipment, the John Deere dealer at <strong>331 W Rex Allen Dr in Willcox</strong>, lists compact tractors in four tiers: 1 Series sub-compact, and 2, 3 and 4 Series compact. The 1 Series is a large lawn tractor with a hitch and is undersized for a 40-acre driveway. The 2 and 3 Series are where most rural owners land; the 4 Series overlaps with genuine utility tractors. Stotz does not publish horsepower or pricing on its category page, so get both from the counter.</p>
 
-      <p>Weight matters more than horsepower here. Grading is a ballast job, and a light tractor with a box blade skates over caliche instead of cutting it. Fill the rear tyres, hang weight on the back when running the loader, and buy the heavier of two machines you are choosing between.</p>
+      <p>Weight matters more than horsepower here. Grading is a ballast job, and a light tractor with a box blade skates over caliche instead of cutting it. Fill the rear tyres, ballast the back when running the loader, and buy the heavier of two machines you are choosing between.</p>
 
       <h2>Skid steer</h2>
 
@@ -82,12 +82,12 @@ export const tractors_implements_rental_willcox_stotz_equipment: BlogPost = {
 
       <h2>The buy-versus-rent arithmetic</h2>
 
-      <p>None of the businesses named in this post publishes rental rates or tractor prices online, so there are no dollar figures below. The arithmetic still works, and you fill in the quotes.</p>
+      <p>None of the businesses named here publishes rental rates or tractor prices online, so there are no dollar figures below. The arithmetic still works; you fill in the quotes.</p>
 
       <ol>
         <li><strong>Price the machine</strong> as a package: tractor, loader, box blade, forks, delivery. Call it P.</li>
-        <li><strong>Estimate annual ownership cost.</strong> A defensible rough rule is 10 to 15 percent of P per year once you add depreciation, insurance, fluids, filters, a tyre, and a shed to keep the sun off the plastics. Call it C.</li>
-        <li><strong>Count your days.</strong> How many days a year would the machine actually run? Be honest. Driveway grading five times a year is five half-days.</li>
+        <li><strong>Estimate annual ownership cost.</strong> A rough rule is 10 to 15 percent of P per year once you add depreciation, insurance, fluids, filters, a tyre, and a shed to keep the sun off the plastics. Call it C.</li>
+        <li><strong>Count your days.</strong> How many days a year would the machine actually run? Driveway grading five times a year is five half-days.</li>
         <li><strong>Price a rental day</strong> for the same class of machine, including delivery both ways, because you probably do not own a trailer rated for it. Call it R.</li>
         <li><strong>Break-even days per year</strong> = C divided by R.</li>
       </ol>
@@ -96,17 +96,17 @@ export const tractors_implements_rental_willcox_stotz_equipment: BlogPost = {
 
       <div class="callout">
         <span class="callout-label">Where to buy and rent, verified</span>
-        <p><strong>Stotz Equipment, Willcox</strong> — 331 W Rex Allen Dr, (520) 766-0610, Monday to Friday 7:00 AM to 5:00 PM. Family-owned John Deere dealer since 1947, 24 locations in eight Western states. Sells compact tractors, compact construction equipment, Gator utility vehicles and used equipment, with parts and service. Listed in the Willcox Chamber directory as "Stotz Equipment-Arizona Machinery Co." Its site does not advertise rentals; ask whether the Willcox store does.</p>
-        <p><strong>Rental yards.</strong> We could not verify a rental yard physically located in Willcox. The Willcox results that come up online are marketplaces that state they "do not own or operate equipment yards." United Rentals' nearest listed branches are in Tucson, roughly 80 miles from Willcox. If you know of a yard in the valley, we would like to list it; we will not name one we could not confirm.</p>
+        <p><strong>Stotz Equipment, Willcox</strong> — 331 W Rex Allen Dr, (520) 766-0610, Monday to Friday 7:00 AM to 5:00 PM. Family-owned John Deere dealer since 1947, 24 locations in eight Western states. Compact tractors, compact construction equipment, Gator utility vehicles, used equipment, parts and service. Listed in the Willcox Chamber directory as "Stotz Equipment-Arizona Machinery Co." Its site does not advertise rentals; ask.</p>
+        <p><strong>Rental yards.</strong> We could not verify a rental yard physically located in Willcox. The Willcox results online are marketplaces that state they "do not own or operate equipment yards." United Rentals' nearest listed branches are in Tucson, roughly 80 miles away. We will not name a yard we could not confirm.</p>
       </div>
 
       <h2>When the right tool is a contractor</h2>
 
       <p>Some jobs fail the arithmetic no matter what you own, and some fail the law.</p>
 
-      <p><strong>Clearing more than an acre.</strong> Cochise County requires a Clearing Permit for clearing more than one acre that is not exempt, with erosion control required until the ground is stabilised. One acre or less for residential use is exempt. The county's fee is $50, but the permit is the small part; the erosion-control obligation is the real work, and the contractor doing the clearing should be the one carrying it. Our <a href="/blog/land-clearing-cochise-county-guide">land clearing guide</a> walks the rest.</p>
+      <p><strong>Clearing more than an acre.</strong> Cochise County requires a Clearing Permit for clearing more than one acre that is not exempt, with erosion control until the ground is stabilised. One acre or less for residential use is exempt. The fee is $50, but the permit is the small part; the erosion-control obligation is the real work, and the contractor doing the clearing should carry it. Our <a href="/blog/land-clearing-cochise-county-guide">land clearing guide</a> walks the rest.</p>
 
-      <p><strong>Pads, roads and drainage.</strong> Building a pad to a compaction spec, cutting a road with proper crown and ditching, or doing anything near a wash is excavating and grading work, which the Registrar of Contractors classifies under A-5. If you are paying someone to do it and the contract is $1,000 or more, or the work needs a permit at any price, A.R.S. § 32-1121 says that person needs a licence. Ask for the ROC number and check it at azroc.my.site.com.</p>
+      <p><strong>Pads, roads and drainage.</strong> Building a pad to a compaction spec, cutting a road with crown and ditching, or anything near a wash is excavating and grading, which the Registrar of Contractors classifies under A-5. If you pay someone $1,000 or more, or the work needs a permit at any price, A.R.S. § 32-1121 says that person needs a licence. Ask for the ROC number and check it at azroc.my.site.com.</p>
 
       <p><strong>Your own labour is different.</strong> The same statute exempts a property owner doing the work on their own land for their own occupancy. You may legally grade your own drive and build your own pad. Whether you should, for a pad a house will sit on, is a different question, and anyone who has fixed one says no.</p>
 

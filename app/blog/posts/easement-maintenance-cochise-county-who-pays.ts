@@ -6,7 +6,7 @@ export const easement_maintenance_cochise_county_who_pays: BlogPost = {
   title: 'The Easement Across the Neighbour\'s Land: Who Pays to Keep It Drivable',
   seoTitle: 'Easement Road Maintenance in Arizona: Who Pays, and How to Record an Agreement',
   description:
-    'Arizona\'s Court of Appeals settled who pays to maintain a shared access easement when the deed is silent. What the rule is, how costs are split, what to do when a neighbour refuses, and how to record an agreement in Bisbee for $30.',
+    'Arizona\'s Court of Appeals settled who pays to maintain a shared easement when the deed is silent. How costs split, what to do when a neighbour refuses, recording.',
   date: '2026-08-31',
   author: 'Sulfur Springs Land Management',
   readTime: '8 min read',
@@ -34,7 +34,7 @@ export const easement_maintenance_cochise_county_who_pays: BlogPost = {
   ],
   content: `
     <div class="blog-content">
-      <p>Four parcels south of Sunsites share a mile of dirt easement off the county road. One owner lives there full time and drives it twice a day. Two are weekend places. The fourth is vacant. The road has washboarded and the monsoon cut a channel across it. The full-time resident hires a grader, pays the bill, and asks the other three for a quarter each. Two say yes. One says the easement document does not say anything about maintenance, so no.</p>
+      <p>Four parcels south of Sunsites share a mile of dirt easement off the county road. One owner lives there full time. Two are weekend places. The fourth is vacant. The monsoon cuts a channel across the road, the full-time resident hires a grader, pays the bill, and asks the other three for a quarter each. Two say yes. One says the easement says nothing about maintenance, so no.</p>
 
       <p>Who is right turns on an Arizona case most people have never heard of.</p>
 
@@ -53,15 +53,15 @@ export const easement_maintenance_cochise_county_who_pays: BlogPost = {
 
       <p><strong>A written easement overrides all of this.</strong> If the recorded instrument assigns maintenance, its terms control. Freeman is the default, not the ceiling.</p>
 
-      <p>Two cautions. The plaintiffs in Freeman also claimed unjust enrichment and lost on that count, because they could not show the roadwork was done to their detriment and for the defendant's benefit. And the duty described is among the people who use the easement. Nothing we read puts a maintenance duty on the owner whose land is merely crossed; if you want the burdened owner to share cost, that has to be bargained for and written down.</p>
+      <p>Two cautions. The Freeman plaintiffs also claimed unjust enrichment and lost on that count. And the duty described is among the people who use the easement. Nothing we read puts a maintenance duty on the owner whose land is merely crossed; if you want the burdened owner to share cost, it has to be bargained for and written down.</p>
 
       <h2>Why an agreement still beats the default</h2>
 
       <p>Freeman gives you a cause of action. It does not give you a budget, a schedule or a decision-maker. Enforcing the default means a lawsuit, and the prevailing party in an easement dispute may be able to recover attorney's fees under A.R.S. &sect; 12-341.01, which cuts both ways.</p>
 
-      <p>A recorded road maintenance agreement replaces the lawsuit with a formula. Fannie Mae's Selling Guide, which governs what a conventional lender will accept on a privately maintained road, lists the contents: responsibility for payment of repairs including each party's representative share, remedies if a party does not comply, and an effective term that in most cases should be perpetual and binding on future owners, recorded in the land records. If any lot on your easement will ever be sold with a conventional mortgage, the lender will ask for exactly that document, and in its absence the lender has to indemnify Fannie Mae. That is leverage you can use when persuading a reluctant neighbour to sign.</p>
+      <p>A recorded road maintenance agreement replaces the lawsuit with a formula. Fannie Mae's Selling Guide, which governs what a conventional lender accepts on a privately maintained road, lists the contents: each party's share of repairs, remedies if a party does not comply, and a term that in most cases should be perpetual and binding on future owners, recorded in the land records. If any lot on your easement will ever carry a conventional mortgage the lender will ask for that document, and without it the lender must indemnify Fannie Mae. That is leverage when persuading a reluctant neighbour to sign.</p>
 
-      <p>The agreement should also say who decides what work gets done and how notice is given, because "notice and opportunity to participate" is one of the Freeman factors, and the neighbour who was never asked has a better defence than the one who was asked and refused.</p>
+      <p>The agreement should also say who decides what work gets done and how notice is given, because "notice and opportunity to participate" is a Freeman factor, and the neighbour who was never asked has a better defence than the one who refused.</p>
 
       <h2>When the neighbour will not pay</h2>
 
@@ -92,11 +92,11 @@ export const easement_maintenance_cochise_county_who_pays: BlogPost = {
         <li>Any instrument that amends an earlier recorded document must state that document's recording date and docket and page.</li>
       </ul>
 
-      <p>Record it against every parcel it binds, by legal description, so that it shows up in each future buyer's Schedule B. An agreement recorded against one parcel does not give notice to the buyer of another.</p>
+      <p>Record it against every parcel it binds, by legal description, so it shows up in each future buyer's Schedule B.</p>
 
       <h2>The work itself</h2>
 
-      <p>Maintaining an existing private access route on ground disturbed before the county's Land Clearing Ordinance took effect in 2000 is exempt from the clearing permit, and the county's right-of-way construction permit applies to work in county right-of-way, not on a private easement. Widening the route or cutting a new alignment is a different matter, and an easement's width is whatever the instrument says it is, not whatever the grader can reach. Stay inside the line.</p>
+      <p>Maintaining an existing private access route on ground disturbed before the county's Land Clearing Ordinance took effect in 2000 is exempt from the clearing permit, and the county's right-of-way permit applies to county right-of-way, not a private easement. Widening or realigning is different, and an easement's width is whatever the instrument says, not whatever the grader can reach.</p>
 
       <p>Tell us the easement and the job and a licensed local contractor will <a href="/#contact">call you to quote it</a>. Ask for their ROC number and check it at azroc.my.site.com before anyone bills your neighbours.</p>
 
@@ -106,7 +106,6 @@ export const easement_maintenance_cochise_county_who_pays: BlogPost = {
         <li><strong>We are not attorneys and this is not legal advice.</strong> Easement disputes turn on the recorded instrument and on facts. The summaries of Freeman v. Sorchych we relied on are from a law firm's appellate blog and a real-estate school; we did not read the full opinion, which is behind a subscription, and we have not reviewed later cases applying it.</li>
         <li>We could not confirm from a primary source whether Arizona imposes any maintenance duty on the servient owner (the parcel crossed) absent an agreement. We have assumed none.</li>
         <li>We could not confirm the small-claims division limit in Arizona justice courts; &sect; 22-201 gives the $10,000 civil figure without stating the small-claims amount.</li>
-        <li>We have not confirmed which justice precinct covers any particular parcel. Ask the Clerk of the Superior Court or the county.</li>
         <li>Statutory text is from the Arizona Revised Statutes as published online. Check the current text before relying on it.</li>
       </ul>
 

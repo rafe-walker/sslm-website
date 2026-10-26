@@ -41,6 +41,7 @@ export default function Footer() {
               <li><a href="#coverage" className="hover:text-accent transition-colors">Coverage Area</a></li>
               <li><a href="/privacy" className="hover:text-accent transition-colors">Privacy Policy</a></li>
               <li><a href="/terms" className="hover:text-accent transition-colors">Terms of Service</a></li>
+              <li><a href="/affiliate-disclosure" className="hover:text-accent transition-colors">Affiliate Disclosure</a></li>
             </ul>
           </div>
 

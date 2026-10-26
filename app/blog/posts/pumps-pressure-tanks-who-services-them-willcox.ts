@@ -40,9 +40,9 @@ export const pumps_pressure_tanks_who_services_them_willcox: BlogPost = {
 
       <h2>Submersible or jet</h2>
 
-      <p>A jet pump sits above ground and pulls water up. A submersible sits down the well, under the water, and pushes it up. Which one you have is mostly decided by depth, not preference.</p>
+      <p>A jet pump sits above ground and pulls water up. A submersible sits down the well, under the water, and pushes it up. Depth decides which you have, not preference.</p>
 
-      <p>Nebraska Extension's guide to private well distribution systems puts the limits plainly: shallow-well jet pumps are used "when the water is less than 25 feet below the surface," and deep-well jets when it is "25 to 250 feet below the surface." A submersible is a pump and motor in one unit, typically about 3½ inches across and 2 to 3 feet long, and needs a casing of at least 4 inches to drop into. Because it sits far below the frost line, it needs no freeze protection of its own.</p>
+      <p>Nebraska Extension's guide to private well distribution systems puts the limits plainly: shallow-well jet pumps are used "when the water is less than 25 feet below the surface," and deep-well jets when it is "25 to 250 feet below the surface." A submersible is a pump and motor in one unit, about 3½ inches across and 2 to 3 feet long, needing a casing of at least 4 inches. Far below the frost line, it needs no freeze protection of its own.</p>
 
       <p>On the valley floor, where static water in a drilled well is commonly hundreds of feet down, the submersible is the default. Where you meet jet pumps and small above-ground pressure pumps here is on hauled-water systems, pulling from a storage tank a few feet away; the <a href="/blog/hauled-water-vs-drilling-a-well-in-sulfur-springs-valley-real-numbers">hauled water versus well</a> post covers that trade.</p>
 
@@ -105,7 +105,7 @@ export const pumps_pressure_tanks_who_services_them_willcox: BlogPost = {
         </table>
       </div>
 
-      <p>Simmons is a supply house whose press coverage says it serves water well contractors and municipal and industrial customers. Whether it sells across the counter to a landowner is something we could not confirm; ask before you drive in. The other three are service outfits that come to the well.</p>
+      <p>Simmons is a supply house whose press coverage describes a contractor, municipal and industrial customer base. Whether it sells across the counter to a landowner we could not confirm; ask before you drive in. The other three come to the well.</p>
 
       <div class="callout">
         <span class="callout-label">Licences, and the one filing that is yours</span>

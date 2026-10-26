@@ -117,6 +117,9 @@ export default function TermsOfService() {
           <p className="text-textSecondary leading-relaxed">
             We may receive a referral fee or other compensation from a contractor for a request we pass to them. You pay nothing to us. A referral is not an endorsement, a guarantee of quality or a recommendation that you accept any particular quote, and you are free to obtain quotes from anyone.
           </p>
+          <p className="text-textSecondary leading-relaxed mt-4">
+            Stronghold Precision Aerials, an affiliated company also operated by Stormhaven Enterprises LLC, offers optional aerial site surveys (drone photographs and maps of a parcel). That is a separate service, quoted and billed by Stronghold Precision Aerials under its own terms; choosing it or declining it has no effect on whether or to whom a request is referred.
+          </p>
         </motion.section>
 
         <motion.section variants={itemVariants} className="mb-12">
