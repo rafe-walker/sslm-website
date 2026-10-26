@@ -22,6 +22,10 @@ Extended: Bowie, San Simon, Elfrida, McNeal, Benson.
 
 - [All guides](https://sulfurspringslandmanagement.com/blog)
 
+## Land data (sister site)
+
+- [AZ Land List](https://azlandlist.com): every Arizona county's assessor/GIS/treasurer/zoning portals, guides on owner lookup, tax lien sales, legal access and day-one site visits, a day-one gear list, free raw-land calculators, and the [Cochise County Land Owner Pack](https://azlandlist.com/data) — every vacant parcel in the county with owner state, tax-lien status, zoning, road access, wells and flood flags ($79).
+
 ## Contact
 
 - Phone: (520) 402-5877
