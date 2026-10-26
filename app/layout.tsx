@@ -2,9 +2,9 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'Sulfur Springs Land Management | Rural Land Services, Arizona',
-  description: 'Veteran-owned land management services in the Sulfur Springs Valley, Cochise County, Arizona. Land clearing, grading, solar systems, water systems, and off-grid solutions for rural properties.',
-  keywords: 'land clearing, grading, solar systems, water systems, off-grid, Sulfur Springs Valley, Cochise County, Arizona, land management',
+  title: 'Sulfur Springs Land Management | Land Clearing, Grading & Off-Grid Quotes, Sulphur Springs Valley AZ',
+  description: 'Veteran-owned referral service for landowners in the Sulphur Springs Valley, Cochise County, Arizona. Get quotes from independent ROC-licensed contractors for land clearing, grading, trenching, solar and off-grid water. Guides for Willcox, Pearce, Sunsites, Dragoon and Cochise.',
+  keywords: 'land clearing willcox az, grading pearce az, sunsites land clearing, dragoon arizona land, off-grid cochise county, sulphur springs valley contractors, cochise county land management',
   metadataBase: new URL('https://sulfurspringslandmanagement.com'),
   alternates: {
     canonical: 'https://sulfurspringslandmanagement.com',
@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: 'Sulfur Springs Land Management',
-    description: 'Full-service land management for rural properties in the Sulfur Springs Valley, Arizona.',
+    description: 'Quotes from independent, ROC-licensed contractors for rural parcels in the Sulphur Springs Valley, Arizona — plus guides written from living out here.',
     type: 'website',
     url: 'https://sulfurspringslandmanagement.com',
     images: [
@@ -23,14 +23,14 @@ export const metadata: Metadata = {
         url: 'https://sulfurspringslandmanagement.com/og-image.png',
         width: 1200,
         height: 630,
-        alt: 'Sulfur Springs Land Management - Rural Land Services in Arizona',
+        alt: 'Sulfur Springs Land Management - Sulphur Springs Valley, Arizona',
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Sulfur Springs Land Management | Rural Land Services, Arizona',
-    description: 'Veteran-owned land management services in the Sulfur Springs Valley, Cochise County, Arizona. Land clearing, grading, solar systems, water systems, and off-grid solutions.',
+    title: 'Sulfur Springs Land Management | Sulphur Springs Valley, AZ',
+    description: 'Veteran-owned referral service: quotes from independent ROC-licensed contractors for land clearing, grading, solar and water in the Sulphur Springs Valley, Cochise County, Arizona.',
     images: ['https://sulfurspringslandmanagement.com/og-image.png'],
   },
   robots: 'index, follow',
@@ -45,7 +45,7 @@ const jsonLd = {
       name: 'Sulfur Springs Land Management',
       legalName: 'StormHaven Enterprises LLC',
       url: 'https://sulfurspringslandmanagement.com',
-      description: 'Land management, clearing, grading, and off-grid services in Cochise County, Arizona',
+      description: 'Veteran-owned referral service connecting landowners in the Sulphur Springs Valley, Cochise County, Arizona with independent ROC-licensed contractors for land clearing, grading, trenching, debris removal, off-grid solar and water systems. Not a licensed contractor.',
       telephone: '+15204025877',
       email: 'inquiries@sulfurspringslandmanagement.com',
       address: {
@@ -61,7 +61,7 @@ const jsonLd = {
         },
         {
           '@type': 'Place',
-          name: 'Sulfur Springs Valley',
+          name: 'Sulphur Springs Valley',
         },
       ],
       hasOfferCatalog: {
@@ -88,6 +88,7 @@ const jsonLd = {
       name: 'Sulfur Springs Land Management',
       legalName: 'StormHaven Enterprises LLC',
       url: 'https://sulfurspringslandmanagement.com',
+      sameAs: ['https://cochiselandmanagement.com', 'https://strongholdprecisionaerials.com'],
       logo: {
         '@type': 'ImageObject',
         url: 'https://sulfurspringslandmanagement.com/logo.png',
@@ -98,7 +99,7 @@ const jsonLd = {
       '@id': 'https://sulfurspringslandmanagement.com/#website',
       url: 'https://sulfurspringslandmanagement.com',
       name: 'Sulfur Springs Land Management',
-      description: 'Land management, clearing, grading, and off-grid services in Cochise County, Arizona',
+      description: 'Veteran-owned referral service connecting landowners in the Sulphur Springs Valley, Cochise County, Arizona with independent ROC-licensed contractors for land clearing, grading, trenching, debris removal, off-grid solar and water systems. Not a licensed contractor.',
       publisher: {
         '@id': 'https://sulfurspringslandmanagement.com/#organization',
       },

@@ -2,7 +2,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Bulk Debris & Trash Removal | Sulfur Springs Land Management',
-  description: 'Complete property cleanout and debris hauling for rural properties in Cochise County, Arizona. We remove construction waste, abandoned materials, old vehicles, and accumulated junk.',
+  description: 'Property cleanout and debris hauling for rural parcels in the Sulphur Springs Valley, Cochise County, Arizona, quoted by independent licensed haulers: construction waste, abandoned materials and accumulated junk.',
   alternates: {
     canonical: 'https://sulfurspringslandmanagement.com/services/debris-removal',
   },

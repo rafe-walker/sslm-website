@@ -3,6 +3,7 @@
 import { useState, useRef } from 'react';
 import { motion } from 'framer-motion';
 import { Phone, Mail } from 'lucide-react';
+import { SITE } from '@/app/lib/site';
 
 export default function Contact() {
   const [formData, setFormData] = useState({
@@ -11,6 +12,7 @@ export default function Contact() {
     phone: '',
     serviceType: 'Land Clearing',
     propertySize: '',
+    aerialSurvey: 'No',
     description: '',
   });
   const [formSubmitted, setFormSubmitted] = useState(false);
@@ -19,8 +21,9 @@ export default function Contact() {
   const contactFormRef = useRef<HTMLDivElement>(null);
 
   const handleFormChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement | HTMLSelectElement>) => {
-    const { name, value } = e.target;
-    setFormData(prev => ({ ...prev, [name]: value }));
+    const target = e.target as HTMLInputElement;
+    const value = target.type === 'checkbox' ? (target.checked ? 'Yes' : 'No') : target.value;
+    setFormData({ ...formData, [target.name]: value });
   };
 
   const handleFormSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
@@ -44,6 +47,7 @@ export default function Contact() {
           phone: '',
           serviceType: 'Land Clearing',
           propertySize: '',
+    aerialSurvey: 'No',
           description: '',
         });
       } else {
@@ -63,21 +67,21 @@ export default function Contact() {
         >
           <h2 className="text-3xl sm:text-4xl font-bold mb-4">Let&apos;s Talk About Your Land</h2>
           <p className="text-textSecondary">
-            Free estimates for all services. Tell us about your property and we&apos;ll put together a plan.
+            Tell us the parcel and the job. An independent, ROC-licensed Cochise County contractor will call you to quote it, usually within one business day.
           </p>
         </div>
 
         <form
           onSubmit={handleFormSubmit}
           className="bg-bg border border-borderColor rounded-lg p-8 space-y-6"
-          aria-label="Free estimate request form"
+          aria-label="Quote request form"
         >
           {formSubmitted && (
             <div
               className="p-4 bg-accent/10 border border-accent text-accent rounded-lg text-sm font-medium"
               role="alert"
             >
-              Thank you! We&apos;ve received your inquiry and will be in touch within 24 hours.
+              Thank you. We have your request and will pass it to a licensed contractor who works your area; expect a call within one business day.
             </div>
           )}
 
@@ -176,6 +180,24 @@ export default function Contact() {
             <p className="text-red-400 text-sm text-center" role="alert">Something went wrong. Please try again or email us directly.</p>
           )}
 
+          <label htmlFor="aerialSurvey" className="flex items-start gap-3 text-sm text-textSecondary leading-relaxed cursor-pointer">
+            <input
+              id="aerialSurvey"
+              type="checkbox"
+              name="aerialSurvey"
+              checked={formData.aerialSurvey === 'Yes'}
+              onChange={handleFormChange}
+              className="mt-1 h-4 w-4 accent-[#7c9a3e]"
+            />
+            <span>
+              <strong className="text-textPrimary">Add an aerial site survey (optional, $295).</strong> Our sister company{' '}
+              <a href="https://strongholdprecisionaerials.com" target="_blank" rel="noopener noreferrer" className="text-accent hover:text-accentLight">Stronghold Precision Aerials</a>
+              {' '}flies the parcel first — up to 40 acres, with county parcel lines on the photos — so the contractor quotes from real imagery and you keep the files. Quoted and billed separately by SPA.
+            </span>
+          </label>
+
+          <p className="text-xs text-textSecondary leading-relaxed">{SITE.consent}</p>
+
           <motion.button
             whileHover={{ scale: 1.02 }}
             whileTap={{ scale: 0.98 }}
@@ -184,7 +206,7 @@ export default function Contact() {
             className="w-full px-6 py-3 bg-accent text-bg rounded-lg font-bold hover:bg-accentLight transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
             aria-busy={formSubmitting}
           >
-            {formSubmitting ? 'Sending...' : 'Send Free Estimate Request'}
+            {formSubmitting ? 'Sending...' : 'Request a Quote'}
           </motion.button>
         </form>
 

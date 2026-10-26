@@ -17,7 +17,7 @@ export default function BlogPreview() {
             </h2>
           </div>
           <p className="text-textSecondary text-lg max-w-2xl mx-auto">
-            Expert guides on off-grid solar systems, land clearing, water management, and sustainable rural property development.
+            Guides written from living in the valley: permits, wells and the Willcox AMA, clearing, septic, solar, water, and the local businesses a landowner actually needs.
           </p>
         </div>
 
@@ -25,7 +25,7 @@ export default function BlogPreview() {
           <article
             className="bg-bgCard border border-sage-green/20 rounded-xl p-6 hover:border-sage-green/40 transition-all duration-300 group cursor-pointer hover:shadow-lg hover:shadow-sage-green/10"
           >
-            <Link href="/blog/off-grid-solar-sizing-guide" className="block h-full">
+            <Link href="/blog/off-grid-solar-sizing-for-cochise-county-properties-a-practical-guide" className="block h-full">
               <div className="flex flex-col h-full">
                 <span className="text-xs font-semibold text-sage-green uppercase tracking-wider">
                   Off-Grid Living

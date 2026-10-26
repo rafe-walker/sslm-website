@@ -5,18 +5,18 @@ import { ArrowRight } from 'lucide-react';
 const steps = [
   {
     number: '01',
-    title: 'Consult',
-    description: 'Call or email for a free property assessment. We\'ll discuss your vision, walk the land, and develop a plan.',
+    title: 'Tell us the job',
+    description: 'Send the parcel number or nearest road, what you need done and when. Rough acreage and a photo help. Nothing is quoted from this site.',
   },
   {
     number: '02',
-    title: 'Execute',
-    description: 'Our crew arrives with the right equipment for the job. We work clean, efficient, and on schedule.',
+    title: 'A licensed contractor calls',
+    description: 'We pass the request to an independent, ROC-licensed Cochise County contractor who works the valley. They walk the land with you and quote it under their own name and licence number.',
   },
   {
     number: '03',
-    title: 'Deliver',
-    description: 'Your property transformed. We don\'t leave until the job meets our standards — and yours.',
+    title: 'They do the work',
+    description: 'The contract, the permit, the equipment and the warranty are theirs. If the first contractor cannot take it, say so and we will find another.',
   },
 ];
 
@@ -29,7 +29,7 @@ export default function HowItWorks() {
         >
           <h2 className="text-3xl sm:text-4xl font-bold mb-4">How It Works</h2>
           <p className="text-textSecondary max-w-2xl mx-auto">
-            From first call to project completion, we keep things simple and transparent.
+            One form, one call back from a licensed contractor who works your part of the valley. No quotes come from this site.
           </p>
         </div>
 

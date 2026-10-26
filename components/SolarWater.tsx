@@ -4,15 +4,15 @@ import { Sun, Droplets, CheckCircle } from 'lucide-react';
 
 export default function SolarWater() {
   const solarFeatures = [
-    'System design and sizing for your energy needs',
-    'Ground-mount and roof-mount array installation',
+    'System design and sizing by a licensed solar contractor',
+    'Ground-mount and roof-mount array installation under an ROC licence',
     'Battery bank setup and configuration (LiFePO4, lead-acid)',
-    'Inverter installation and grid-tie/off-grid wiring',
+    'Inverter installation and grid-tie/off-grid wiring by a licensed electrician',
     'System monitoring and maintenance plans',
   ];
 
   const waterFeatures = [
-    'Large capacity tank delivery and placement (1,000-3,000+ gallons)',
+    'Large capacity tank delivery and placement (1,000-3,000+ gallons) by the contractor',
     'Pressurized pump systems for consistent water flow',
     'Filtration and treatment systems',
     'Rainwater harvesting setup',
@@ -27,7 +27,7 @@ export default function SolarWater() {
         >
           <h2 className="text-3xl sm:text-4xl font-bold mb-4">Solar &amp; Water Systems</h2>
           <p className="text-textSecondary max-w-2xl mx-auto">
-            Independent power and water are the foundation of off-grid living. We design, install, and support complete systems built for desert reliability.
+            Independent power and water are the foundation of off-grid living. The systems below are designed and installed by licensed contractors we refer; the guides on the blog explain what to ask them for.
           </p>
         </div>
 

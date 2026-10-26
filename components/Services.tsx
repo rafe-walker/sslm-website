@@ -8,7 +8,7 @@ const services = [
     icon: Trees,
     title: 'Land Clearing & Brush Removal',
     href: '/services/land-clearing',
-    description: 'Clear small trees, brush, shrubs, and overgrowth to reclaim your property. We handle everything from light brush clearing to heavy vegetation removal for building sites and firebreaks.',
+    description: 'Small trees, brush, shrubs and overgrowth cleared by mulching, grubbing or blading — from light brush work to heavy vegetation removal for building sites and firebreaks.',
   },
   {
     icon: Layers,
@@ -26,19 +26,19 @@ const services = [
     icon: Truck,
     title: 'Bulk Debris & Trash Removal',
     href: '/services/debris-removal',
-    description: 'Haul away construction debris, old materials, abandoned items, and property cleanout waste. We bring the muscle and the trailer — you get a clean property.',
+    description: 'Construction debris, old materials, abandoned items and property cleanout waste hauled to the transfer station. The contractor brings the trailer; you get a clean property.',
   },
   {
     icon: Sun,
     title: 'Solar System Design & Installation',
     href: '/services/solar-systems',
-    description: 'Complete off-grid and grid-tied solar solutions. System sizing, array layout, battery bank configuration, hardware installation, and full system setup. From consultation to first watt.',
+    description: 'Off-grid and grid-tied systems quoted by licensed solar contractors: sizing, array layout, battery bank, inverter and the written warranty Arizona law requires of the installer.',
   },
   {
     icon: Droplets,
     title: 'Off-Grid Water Systems',
     href: '/services/water-systems',
-    description: 'Pressurized water systems for properties without wells. Large tank delivery and setup (up to 3,000+ gallons), pump systems, filtration, and plumbing. Water independence for rural living.',
+    description: 'Pressurized water for properties without wells: storage tanks (up to 3,000+ gallons), pump and pressure systems, filtration and plumbing, installed by licensed contractors.',
   },
 ];
 
@@ -51,7 +51,7 @@ export default function Services() {
         >
           <h2 className="text-3xl sm:text-4xl font-bold mb-4">Our Services</h2>
           <p className="text-textSecondary max-w-2xl mx-auto">
-            Complete solutions for rural properties. Everything you need to build and maintain your off-grid homestead.
+            The six jobs a raw valley parcel needs, each quoted and done by an independent, ROC-licensed contractor we refer.
           </p>
         </div>
 

@@ -1,10 +1,12 @@
 'use client';
 
 export default function OffGridSpecialists() {
+  // "20+ Mile service radius" was vague and did not match the coverage list —
+  // Willcox to Elfrida is about 40 miles. Naming the valley is clearer.
   const stats = [
-    { stat: '20+ Mile', label: 'Service radius with equipment delivery' },
-    { stat: 'Full-Service', label: 'From raw land to move-in ready' },
-    { stat: 'One Call', label: 'Clearing, solar, water — all under one roof' },
+    { stat: 'Sulphur Springs Valley', label: 'Willcox to Elfrida, Dragoon to San Simon — contractors who already work out here' },
+    { stat: 'ROC-Licensed', label: 'Every contractor we refer holds an Arizona Registrar of Contractors licence you can check' },
+    { stat: 'One Request', label: 'Clearing, solar, water — one form, the right licensed contractor for each' },
   ];
 
   return (
@@ -17,7 +19,7 @@ export default function OffGridSpecialists() {
         >
           <h2 className="text-3xl sm:text-4xl font-bold mb-6">The Off-Grid Specialists</h2>
           <p className="text-lg text-textSecondary leading-relaxed max-w-3xl mx-auto">
-            Most land service companies are built for subdivisions and city lots. We&apos;re built for the real Sulfur Springs Valley — the RU-4 parcels, the off-grid homesteads, the raw desert that needs to become home. We live out here too, and we know what it takes to build a life off the grid.
+            Most land service companies are built for subdivisions and city lots. This site is built for the real Sulphur Springs Valley — the RU-4 parcels, the off-grid homesteads, the raw desert that needs to become home. We live out here too, and we know which licensed contractors actually show up for a 5-acre parcel with no power and a two-track for a driveway.
           </p>
         </div>
 

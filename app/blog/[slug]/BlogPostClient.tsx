@@ -1,7 +1,9 @@
 'use client'
 
 import Link from 'next/link'
-import { blogPosts, BlogPost } from '../posts'
+import { relatedTo } from '../posts'
+import type { BlogPost } from '../types'
+import { SITE } from '@/app/lib/site'
 import { motion } from 'framer-motion'
 import { ArrowLeft, BookOpen, Share2, Mountain } from 'lucide-react'
 
@@ -105,20 +107,41 @@ export default function BlogPostClient({ post }: { post: BlogPost }) {
               <BookOpen className="w-6 h-6 text-accent flex-shrink-0 mt-1" />
               <div>
                 <h3 className="text-2xl font-bold mb-3">
-                  Ready to Develop Your Land?
+                  Need this done on your parcel?
                 </h3>
                 <p className="text-textPrimary/80 mb-6">
-                  Sulfur Springs Land Management specializes in land clearing, grading, solar system consultation, and comprehensive off-grid property development. Let&apos;s turn your land into your dream off-grid property.
+                  Tell us the parcel and the job. An independent, ROC-licensed Cochise County contractor who works the valley will call you to quote it — usually within one business day. {SITE.postureShort}
                 </p>
-                <a
-                  href="/#contact"
-                  className="bg-accent text-bg font-semibold px-6 py-3 rounded-lg transition-all hover:shadow-lg hover:shadow-accent/30 inline-block"
-                >
-                  Contact SSLM Today
-                </a>
+                <div className="flex flex-wrap gap-3">
+                  <a
+                    href="/#contact"
+                    className="bg-accent text-bg font-semibold px-6 py-3 rounded-lg transition-all hover:shadow-lg hover:shadow-accent/30 inline-block"
+                  >
+                    Request a Quote
+                  </a>
+                  <a
+                    href={SITE.phoneHref}
+                    className="border border-accent text-accent font-semibold px-6 py-3 rounded-lg transition-all hover:bg-accent/10 inline-block"
+                  >
+                    Call {SITE.phone}
+                  </a>
+                </div>
               </div>
             </div>
           </motion.div>
+
+          {post.sources && post.sources.length > 0 && (
+            <section className="mt-12 pt-8 border-t border-accent/10 text-sm">
+              <h3 className="text-lg font-bold mb-3">Sources</h3>
+              <ul className="space-y-1 text-textPrimary/80">
+                {post.sources.map((s) => (
+                  <li key={s.url}>
+                    <a href={s.url} target="_blank" rel="noopener noreferrer" className="text-accent hover:underline">{s.label}</a>
+                  </li>
+                ))}
+              </ul>
+            </section>
+          )}
 
           {/* Related Posts */}
           <motion.div
@@ -128,11 +151,9 @@ export default function BlogPostClient({ post }: { post: BlogPost }) {
             transition={{ duration: 0.5 }}
             className="mt-16 pt-12 border-t border-accent/10"
           >
-            <h3 className="text-2xl font-bold mb-8">More from the Blog</h3>
+            <h3 className="text-2xl font-bold mb-8">Related guides</h3>
             <div className="grid md:grid-cols-2 gap-6">
-              {blogPosts
-                .filter((p) => p.id !== post.id)
-                .map((relatedPost) => (
+              {relatedTo(post, 4).map((relatedPost) => (
                   <Link
                     key={relatedPost.id}
                     href={`/blog/${relatedPost.slug}`}
@@ -156,8 +177,10 @@ export default function BlogPostClient({ post }: { post: BlogPost }) {
 
       {/* Footer */}
       <footer className="bg-bg/50 border-t border-accent/10 py-8 px-4">
-        <div className="max-w-7xl mx-auto text-center text-textPrimary/60 text-sm">
-          <p>&copy; 2026 Sulfur Springs Land Management. All rights reserved. | <Link href="/privacy" className="hover:text-accent">Privacy</Link> | <Link href="/terms" className="hover:text-accent">Terms</Link></p>
+        <div className="max-w-7xl mx-auto text-center text-textPrimary/60 text-sm space-y-3">
+          <p className="text-xs max-w-3xl mx-auto"><strong className="text-textPrimary/80">Not a licensed contractor.</strong> {SITE.posture}</p>
+          <p><a href={SITE.phoneHref} className="hover:text-accent">{SITE.phone}</a> · <a href={`mailto:${SITE.email}`} className="hover:text-accent">{SITE.email}</a></p>
+          <p>&copy; 2026 Sulfur Springs Land Management. All rights reserved. | <Link href="/privacy" className="hover:text-accent">Privacy</Link> | <Link href="/terms" className="hover:text-accent">Terms</Link> | <Link href="/affiliate-disclosure" className="hover:text-accent">Affiliate disclosure</Link></p>
         </div>
       </footer>
     </div>
