@@ -35,7 +35,7 @@ export const tractors_implements_rental_willcox_stotz_equipment: BlogPost = {
     <div class="blog-content">
       <p>Somewhere in the first year on a valley parcel, usually after the second time the driveway washboards, the thought arrives: I should just buy a tractor.</p>
 
-      <p>Sometimes that is right. Often it is a very expensive way to own a machine that runs eleven hours a year. This post is about telling the two cases apart, what the machine should be if you do buy, which implements earn their place in this soil, where you can buy or rent in and around Willcox, and the jobs where the correct tool is a licensed contractor's phone number.</p>
+      <p>Sometimes that is right. Often it is a very expensive way to own a machine that runs eleven hours a year. This post is about telling the two cases apart, which implements earn their place in this soil, where you can buy or rent around Willcox, and the jobs where the correct tool is a licensed contractor's phone number.</p>
 
       <h2>Start from the jobs, not the machine</h2>
 
@@ -49,11 +49,11 @@ export const tractors_implements_rental_willcox_stotz_equipment: BlogPost = {
         <li>Occasionally breaking ground: a garden, a small pasture reseed, a trench for a water line.</li>
       </ul>
 
-      <p>Notice what is not on the list. Building the pad. Cutting a new road. Clearing more than an acre of mesquite. Installing the septic. Those are not frequent, they are not small, and they are the jobs a compact tractor is worst at.</p>
+      <p>Notice what is not on the list. Building the pad. Cutting a new road. Clearing more than an acre of mesquite. Installing the septic. Those are infrequent, not small, and the jobs a compact tractor is worst at.</p>
 
       <h2>Compact tractor with loader and box blade</h2>
 
-      <p>For the list above, a compact utility tractor with a front loader and a box blade on the three-point hitch is the machine that does the most. The loader moves material and lifts posts. The box blade, with its scarifier teeth down, cuts washboard and fills the low spots on a gravel drive in one or two passes, then smooths with the teeth up. The three-point hitch takes every other implement you will ever want.</p>
+      <p>For the list above, a compact utility tractor with a front loader and a box blade on the three-point hitch does the most. The loader moves material and lifts posts. The box blade, scarifier teeth down, cuts washboard and fills low spots on a gravel drive in a pass or two, then smooths with the teeth up. The hitch takes every other implement you will ever want.</p>
 
       <p>Stotz Equipment, the John Deere dealer at <strong>331 W Rex Allen Dr in Willcox</strong>, lists compact tractors in four tiers on its site: 1 Series sub-compact, and 2, 3 and 4 Series compact. The 1 Series is a large lawn tractor with a hitch and is undersized for a 40-acre driveway. The 2 and 3 Series are where most rural owners land; the 4 Series starts to overlap with genuine utility tractors. Stotz does not publish horsepower or pricing on its category page, so get both from the counter.</p>
 
@@ -61,9 +61,9 @@ export const tractors_implements_rental_willcox_stotz_equipment: BlogPost = {
 
       <h2>Skid steer</h2>
 
-      <p>A skid steer or compact track loader is a better digging and loading machine than any compact tractor. It will build a pad, strip brush, load a dump trailer and run a post-hole auger with far more down-pressure. It is also a worse driveway grader (no three-point hitch, short wheelbase), a worse mower, hard on the ground it turns on, and uncomfortable to run for a long afternoon.</p>
+      <p>A skid steer or compact track loader out-digs and out-loads any compact tractor. It will build a pad, strip brush, load a dump trailer and run a post-hole auger with far more down-pressure. It is also a worse driveway grader (no three-point hitch, short wheelbase), a worse mower, and hard on the ground it turns on.</p>
 
-      <p>If your year is mostly construction, the skid steer is the right machine. If your year is mostly maintenance, it is the wrong one. Most people's year is maintenance. The construction phase is better rented or contracted, and we will come to that.</p>
+      <p>If your year is mostly construction, the skid steer is the right machine. If it is mostly maintenance, it is the wrong one. Most people's year is maintenance; the construction phase is better rented or contracted.</p>
 
       <h2>Implements that matter in this valley</h2>
 
@@ -76,7 +76,6 @@ export const tractors_implements_rental_willcox_stotz_equipment: BlogPost = {
             <tr><td><strong>Post-hole auger</strong></td><td>Fence and gate posts. In caliche it will stall; expect to pre-wet, chip and reset.</td><td>Rent for the fence project. Own one only if you fence every year.</td></tr>
             <tr><td><strong>Disc</strong></td><td>Breaking a garden or pasture reseed. On uncleared valley ground it mostly finds roots and rock.</td><td>Rent. Twice a decade for most owners.</td></tr>
             <tr><td><strong>Pallet forks</strong></td><td>Posts, panels, tanks, solar racking. Replaces a lot of back injuries.</td><td>Buy if you have a loader. Cheap relative to the tractor.</td></tr>
-            <tr><td><strong>Rear blade</strong></td><td>Snow does not justify it here. Ditching along the drive does, occasionally.</td><td>Skip until you know you need it.</td></tr>
           </tbody>
         </table>
       </div>
@@ -93,7 +92,7 @@ export const tractors_implements_rental_willcox_stotz_equipment: BlogPost = {
         <li><strong>Break-even days per year</strong> = C divided by R.</li>
       </ol>
 
-      <p>If you run the machine fewer days than that, renting is cheaper and you never change a hydraulic hose. If you run it more, or if the delivery charge from Tucson or Sierra Vista eats half the rental, buying starts to make sense. Two things tilt the result in the valley. Rental yards are not close, so delivery is a real line, which favours owning. And the jobs that justify a big machine are front-loaded in the first two years, which favours renting that machine and owning a smaller one.</p>
+      <p>Fewer days than that, renting is cheaper and you never change a hydraulic hose. More, and buying starts to make sense. Two things tilt the result here. Rental yards are not close, so delivery is a real line, which favours owning. And the jobs that justify a big machine are front-loaded in the first two years, which favours renting that machine and owning a smaller one.</p>
 
       <div class="callout">
         <span class="callout-label">Where to buy and rent, verified</span>
@@ -109,21 +108,21 @@ export const tractors_implements_rental_willcox_stotz_equipment: BlogPost = {
 
       <p><strong>Pads, roads and drainage.</strong> Building a pad to a compaction spec, cutting a road with proper crown and ditching, or doing anything near a wash is excavating and grading work, which the Registrar of Contractors classifies under A-5. If you are paying someone to do it and the contract is $1,000 or more, or the work needs a permit at any price, A.R.S. § 32-1121 says that person needs a licence. Ask for the ROC number and check it at azroc.my.site.com.</p>
 
-      <p><strong>Your own labour is different.</strong> The same statute exempts a property owner doing the work on their own land for their own occupancy. You may legally grade your own drive and build your own pad. The question is whether you should, and for a pad that a house will sit on, the answer from anyone who has fixed one is no.</p>
+      <p><strong>Your own labour is different.</strong> The same statute exempts a property owner doing the work on their own land for their own occupancy. You may legally grade your own drive and build your own pad. Whether you should, for a pad a house will sit on, is a different question, and anyone who has fixed one says no.</p>
 
       <h2>What we could not confirm</h2>
 
       <ul>
         <li>Any rental yard located in Willcox or elsewhere on the valley floor. Only marketplaces and Tucson branches were verifiable.</li>
         <li>Whether Stotz Equipment's Willcox store offers rentals or demonstrations. Its site does not say.</li>
-        <li>Horsepower and prices for the compact tractor series. Stotz does not publish them on its category pages.</li>
-        <li>The 10 to 15 percent ownership-cost rule is a rule of thumb, not a sourced figure. Replace it with your own insurance quote and the dealer's service schedule.</li>
+        <li>Horsepower and prices for the compact tractor series. Stotz does not publish them.</li>
+        <li>The 10 to 15 percent ownership-cost figure is a rule of thumb, not a sourced number. Replace it with your own quotes.</li>
         <li>Any ROC licence number for any contractor. Verify them yourself.</li>
       </ul>
 
       <h2>The short version</h2>
 
-      <p>List the jobs first. If they are mostly maintenance — driveway, material, weeds, posts — a 2 or 3 Series class compact tractor with a loader, box blade and forks is the machine, and Stotz in Willcox is the verified local dealer. If they are mostly construction, rent a skid steer or hire the work. Run the break-even arithmetic with real quotes including delivery, because the nearest verified rental yards are in Tucson. Anything over an acre of clearing, any pad a house will sit on, and any paid job of $1,000 or more or that needs a permit, goes to an ROC-licensed contractor.</p>
+      <p>List the jobs first. Mostly maintenance — driveway, material, weeds, posts — means a 2 or 3 Series class compact tractor with loader, box blade and forks, and Stotz in Willcox is the verified local dealer. Mostly construction means rent a skid steer or hire the work. Run the break-even arithmetic with real quotes including delivery, because the nearest verified rental yards are in Tucson. Over an acre of clearing, any pad a house will sit on, and any paid job of $1,000 or more or needing a permit, goes to an ROC-licensed contractor.</p>
 
       <p>Tell us the parcel and the job and <a href="/#contact">a licensed local contractor will call you to quote it</a>.</p>
     </div>

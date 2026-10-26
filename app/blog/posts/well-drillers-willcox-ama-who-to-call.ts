@@ -6,7 +6,7 @@ export const well_drillers_willcox_ama_who_to_call: BlogPost = {
   title: 'Drilling a Well in the Willcox AMA: The Sequence, and Who to Call',
   seoTitle: 'Well Drillers Serving the Willcox AMA: ADWR Steps, Exempt Well Rule, Verified Drillers',
   description:
-    'The Willcox AMA changed the paperwork, not the geology. Notice of Intent, the 35 gpm exempt-well rule, the driller\'s log, the pump report — with ADWR citations — and four drillers verified from their own sites or BBB.',
+    'The Willcox AMA changed the paperwork, not the geology. Notice of Intent, the 35 gpm exempt-well rule, the driller\'s log and pump report with ADWR citations, and four verified drillers.',
   date: '2026-09-28',
   author: 'Sulfur Springs Land Management',
   readTime: '8 min read',
@@ -26,25 +26,23 @@ export const well_drillers_willcox_ama_who_to_call: BlogPost = {
     { label: 'ADWR — Permitting and Wells (NOI, eNOI, licensed driller list, well registry)', url: 'https://www.azwater.gov/wells' },
     { label: 'A.R.S. § 45-454 — exempt wells in active management areas', url: 'https://www.azleg.gov/ars/45/00454.htm' },
     { label: 'A.R.S. § 45-596 — notice of intention to drill; drilling card; fees', url: 'https://www.azleg.gov/ars/45/00596.htm' },
-    { label: 'A.R.S. § 45-595 — well driller licence', url: 'https://www.azleg.gov/ars/45/00595.htm' },
     { label: 'A.R.S. § 45-600 — well driller report and pump installation completion report', url: 'https://www.azleg.gov/ars/45/00600.htm' },
     { label: 'BJ Drilling Company — company site', url: 'https://bjdrilling.com/' },
-    { label: 'Pride Drilling, LLC — company site', url: 'https://pridedrilling.com/' },
-    { label: 'BBB — Pride Drilling LLC (Willcox)', url: 'https://www.bbb.org/us/az/willcox/profile/drilling-contractor/pride-drilling-llc-1286-20092847' },
+    { label: 'Pride Drilling, LLC — company site (BBB profile lists start date July 2017)', url: 'https://pridedrilling.com/' },
     { label: 'BBB — Longmire Well Services Inc (Willcox)', url: 'https://www.bbb.org/us/az/willcox/profile/water-well-drilling/longmire-well-services-inc-1286-20093793' },
     { label: 'Tanner Well Service — company site', url: 'https://tannerwellservice.com/' },
   ],
   content: `
     <div class="blog-content">
-      <p>On 8 January 2025 the northern Sulphur Springs Valley became the Willcox Active Management Area. For the farm with a 1,500 gpm turbine that was a very large event. For the landowner who wants one domestic well on forty acres it changed less than the rumours say, and this post is about exactly what it did change, in what order the steps now run, and which drillers we could verify as working the basin.</p>
+      <p>On 8 January 2025 the northern Sulphur Springs Valley became the Willcox Active Management Area. For a farm running a large turbine pump that was a very large event. For the landowner who wants one domestic well on forty acres it changed less than the rumours say. This post covers exactly what did change, the order the steps now run in, and which drillers we could verify as working the basin.</p>
 
       <p>If you have not yet decided between a well and hauled water, read <a href="/blog/hauled-water-vs-drilling-a-well-in-sulfur-springs-valley-real-numbers">the real numbers</a> first. This post assumes you are drilling.</p>
 
       <h2>What the AMA is</h2>
 
-      <p>ADWR's Director issued the order initiating designation on 23 October 2024, held a hearing on 22 November, signed the Findings, Decision and Order on 19 December, and the designation took effect on 8 January 2025 under A.R.S. § 45-402. The boundary is "the entire surface watershed area that contributes to Willcox Playa," plus the upper watersheds of Leslie Creek and Rucker Canyon east of the Swisshelm Mountains, in Cochise and Graham counties. ADWR's stated basis was land subsidence and fissuring on top of long-running overdraft, and the draft management goal is to cut that overdraft by at least half by 2075.</p>
+      <p>ADWR's Director issued the order initiating designation on 23 October 2024, signed the Findings, Decision and Order on 19 December, and the designation took effect on 8 January 2025. The boundary is "the entire surface watershed area that contributes to Willcox Playa," plus the upper watersheds of Leslie Creek and Rucker Canyon east of the Swisshelm Mountains, in Cochise and Graham counties. ADWR's stated basis was land subsidence and fissuring on top of long-running overdraft; the draft management goal is to cut that overdraft by at least half by 2075.</p>
 
-      <p>The rules that bite are aimed at large wells and irrigation. New irrigation is frozen to acres that were legally irrigated in the five years before 23 October 2024. Wells pumping more than 35 gallons per minute must be metered and reported annually. Drilling, deepening or replacing a non-exempt well needs the Director's approval under § 45-598(A).</p>
+      <p>The rules that bite are aimed at large wells and irrigation. New irrigation is frozen to acres legally irrigated in the five years before 23 October 2024. Wells pumping more than 35 gallons per minute must be metered and reported annually. Drilling, deepening or replacing a non-exempt well needs the Director's approval under § 45-598(A).</p>
 
       <h2>The exempt-well rule, which is your rule</h2>
 
