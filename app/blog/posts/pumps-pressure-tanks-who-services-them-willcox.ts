@@ -67,7 +67,7 @@ export const pumps_pressure_tanks_who_services_them_willcox: BlogPost = {
 
       <h2>Solar pumping</h2>
 
-      <p>A lot of valley wells are a long way from an SSVEC line, and a solar pump is often the honest answer. The University of Arizona Extension's 2021 bulletin on PV water pumping describes the standard design: a <strong>PV-direct</strong> system with no battery, because "it is cheaper to store water than to store energy." The pump runs when the sun is up and fills a tank; the house or the stock draws from the tank.</p>
+      <p>A lot of valley wells are a long way from an SSVEC line, and a solar pump is often the honest answer. The University of Arizona Extension's 2021 bulletin on PV water pumping describes the standard design: <strong>PV-direct</strong>, no battery, because "it is cheaper to store water than to store energy." The pump runs when the sun is up and fills a tank; the house or the stock draws from the tank.</p>
 
       <p>The sizing logic is worth keeping: about three days of autonomy in storage (1,000 gallons a day means a 3,000-gallon tank), 5 to 6 peak sun hours a day in the Southwest, and 1 psi for every 2.31 feet of elevation, so gravity pressure from a tank is real but modest. The controller boosts current at dawn and dusk and takes a float switch to stop the pump when the tank is full or the well is low.</p>
 
