@@ -10,7 +10,7 @@ export const accessory_dwelling_unit_cochise_county_park_model: BlogPost = {
   readTime: "11 min read",
   category: "Rural Living",
   keywords: ["accessory dwelling unit cochise county", "adu arizona rules", "park model as adu arizona", "guest house cochise county", "second home on my land arizona", "casita permit arizona"],
-  featuredImage: "/blog/land-clearing.png",
+  featuredImage: "/blog/accessory-dwelling-unit-cochise-county-park-model.png",
   content: `<div class="blog-content">
   <p>The question comes in several forms — a casita for a parent, a guest house, somewhere for a caretaker, a second small place to rent. Cochise County has a specific answer, and it is more permissive than most people expect in one respect and considerably stricter in another.</p>
 

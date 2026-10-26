@@ -10,7 +10,7 @@ export const legal_access_landlocked_property_cochise_county: BlogPost = {
   readTime: "11 min read",
   category: "Rural Living",
   keywords: ["landlocked property arizona", "private way of necessity arizona", "legal access cochise county", "easement arizona land", "buying rural land no access", "recorded easement title report"],
-  featuredImage: "/blog/land-clearing.png",
+  featuredImage: "/blog/legal-access-landlocked-property-cochise-county.png",
   content: `<div class="blog-content">
   <p>The parcel was cheap, the listing said "easy access", and the seller drove you in on a graded dirt track that has obviously been there for years. You closed. Then a neighbour puts a gate across it.</p>
 

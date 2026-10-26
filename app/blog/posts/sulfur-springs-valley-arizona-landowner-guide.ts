@@ -10,7 +10,7 @@ export const sulfur_springs_valley_arizona_landowner_guide: BlogPost = {
   readTime: "9 min read",
   category: "Industry",
   keywords: ["sulfur springs valley", "sulphur springs valley arizona", "willcox ama", "douglas ama", "sulfur springs valley az", "cochise county groundwater", "willcox basin earth fissures"],
-  featuredImage: "/blog/water-systems.png",
+  featuredImage: "/blog/sulfur-springs-valley-arizona-landowner-guide.png",
   content: `<div class="blog-content">
   <p>People buy land in the Sulfur Springs Valley for the obvious reasons: it is open, it is affordable by Arizona standards, the mountains on both horizons are genuinely beautiful, and you can still find acreage with a view for less than a suburban lot costs in Tucson.</p>
 

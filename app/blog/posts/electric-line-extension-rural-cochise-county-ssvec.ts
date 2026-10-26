@@ -10,7 +10,7 @@ export const electric_line_extension_rural_cochise_county_ssvec: BlogPost = {
   readTime: "10 min read",
   category: "Rural Living",
   keywords: ["ssvec line extension", "electric service rural cochise county", "power to vacant land arizona", "cost to run power to property arizona", "off grid vs grid connection arizona"],
-  featuredImage: "/blog/solar-sizing.png",
+  featuredImage: "/blog/electric-line-extension-rural-cochise-county-ssvec.png",
   content: `<div class="blog-content">
   <p>Whether to connect to the grid or go off-grid is usually framed as a cost comparison. It is really a comparison between a known cost and an estimate — and the estimate has two properties that are easy to miss.</p>
 

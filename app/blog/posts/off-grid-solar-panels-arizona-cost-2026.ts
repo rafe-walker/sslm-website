@@ -10,7 +10,7 @@ export const off_grid_solar_panels_arizona_cost_2026: BlogPost = {
   readTime: "11 min read",
   category: "Off-Grid Living",
   keywords: ["off-grid solar Arizona", "how many solar panels off grid", "solar system cost Arizona 2026", "off grid solar Cochise County", "off-grid solar panels"],
-  featuredImage: "/blog/solar-sizing.png",
+  featuredImage: "/blog/off-grid-solar-panels-arizona-cost-2026.png",
   content: `
       <div class="blog-content">
         <h2>Off-Grid Solar in Arizona: How Many Panels Do You Really Need? (2026 Cost Guide)</h2>

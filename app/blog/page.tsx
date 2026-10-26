@@ -104,14 +104,14 @@ export default function BlogPage() {
             Ready to Prepare Your <span className="text-accent">Property?</span>
           </h2>
           <p className="text-textPrimary/80 mb-8">
-            Whether you need land clearing, grading, solar system consultation, or complete off-grid property development, Sulfur Springs Land Management is here to help.
+            Clearing, grading, trenching, solar or water: tell us the parcel and the job and an independent, ROC-licensed contractor who works the valley will call you to quote it. Not a licensed contractor; the quote comes from them.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
               href="/#contact"
               className="bg-accent text-bg font-semibold px-6 py-3 rounded-lg transition-all hover:shadow-lg hover:shadow-accent/30 inline-flex items-center justify-center gap-2"
             >
-              Contact SSLM for a Consultation
+              Request a Quote
               <ArrowRight className="w-4 h-4" />
             </a>
           </div>

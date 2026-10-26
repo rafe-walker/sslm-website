@@ -10,7 +10,7 @@ export const living_in_rv_while_building_cochise_county: BlogPost = {
   readTime: "9 min read",
   category: "Rural Living",
   keywords: ["live in rv while building arizona", "cochise county temporary use permit", "camping on my own land arizona", "rv on vacant land cochise county", "temporary occupancy permit arizona"],
-  featuredImage: "/blog/land-clearing.png",
+  featuredImage: "/blog/living-in-rv-while-building-cochise-county.png",
   content: `<div class="blog-content">
   <p>The plan is close to universal among people buying rural acreage: get the land cheap, park a travel trailer on it, live there while you build, and let the house happen at whatever pace the budget allows.</p>
 

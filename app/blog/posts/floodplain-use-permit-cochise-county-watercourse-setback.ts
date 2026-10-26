@@ -10,7 +10,7 @@ export const floodplain_use_permit_cochise_county_watercourse_setback: BlogPost 
   readTime: "10 min read",
   category: "Rural Living",
   keywords: ["floodplain use permit cochise county", "cochise county flood control district", "100 year floodplain arizona", "watercourse setback arizona", "fema flood map cochise county"],
-  featuredImage: "/blog/water-systems.png",
+  featuredImage: "/blog/floodplain-use-permit-cochise-county-watercourse-setback.png",
   content: `<div class="blog-content">
   <p>Most people treat the flood map as a yes-or-no question about the house pad. Am I in it? No? Good, carry on.</p>
 

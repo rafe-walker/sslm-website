@@ -111,8 +111,8 @@ def render(slug, title, category, date):
     # Footer: brand and locale
     f_brand = font(BOLD, 26)
     f_meta = font(REG, 21)
-    d.text((64, H - 108), "COCHISE LAND MANAGEMENT", font=f_brand, fill=TEXT)
-    d.text((64, H - 70), f"Cochise County, Arizona  ·  {date}", font=f_meta, fill=MUTED)
+    d.text((64, H - 108), "SULFUR SPRINGS LAND MANAGEMENT", font=f_brand, fill=TEXT)
+    d.text((64, H - 70), f"Sulphur Springs Valley, Cochise County, Arizona  ·  {date}", font=f_meta, fill=MUTED)
 
     # Small orange square, bottom right — a fixed brand mark so the set reads as
     # a series rather than as unrelated cards.
@@ -134,10 +134,10 @@ def main():
             continue
         t = open(os.path.join(POSTS, fn), encoding="utf-8").read()
 
-        img_m = re.search(r"featuredImage: '/blog/([^']+)'", t)
-        title_m = re.search(r"\n\s*title: '((?:[^'\\]|\\.)*)'", t)
-        cat_m = re.search(r"category: '([^']+)'", t)
-        date_m = re.search(r"date: '(\d{4})-(\d{2})-(\d{2})'", t)
+        img_m = re.search(r"featuredImage: ['\"]/blog/([^'\"]+)['\"]", t)
+        title_m = re.search(r"\n\s*title: '((?:[^'\\]|\\.)*)'", t) or re.search(r'\n\s*title: "((?:[^"\\]|\\.)*)"', t)
+        cat_m = re.search(r"category: ['\"]([^'\"]+)['\"]", t)
+        date_m = re.search(r"date: ['\"](\d{4})-(\d{2})-(\d{2})['\"]", t)
         if not (img_m and title_m and cat_m and date_m):
             print(f"  ! skipping {fn} — could not parse fields")
             continue
@@ -152,7 +152,7 @@ def main():
             skipped += 1
             continue
 
-        title = title_m.group(1).replace("\\'", "'")
+        title = title_m.group(1).replace("\\'", "'").replace('\\"', '"')
         months = ["January", "February", "March", "April", "May", "June", "July",
                   "August", "September", "October", "November", "December"]
         y, m, dd = date_m.groups()

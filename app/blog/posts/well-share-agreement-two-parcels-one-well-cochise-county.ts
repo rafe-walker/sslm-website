@@ -30,6 +30,7 @@ export const well_share_agreement_two_parcels_one_well_cochise_county: BlogPost 
     { label: 'Fannie Mae Selling Guide B4-1.3-04 — off-site well and septic access', url: 'https://selling-guide.fanniemae.com/sel/b4-1.3-04/site-section-appraisal-report' },
     { label: 'A.R.S. § 11-475 — recording fees', url: 'https://www.azleg.gov/ars/11/00475.htm' },
     { label: 'Cochise County Recorder — recording fees', url: 'https://www.cochise.az.gov/506/Recording-Fees' },
+    { label: 'Cochise County Recorder — office and e-recording', url: 'https://www.cochise.az.gov/498/Recorder' },
   ],
   content: `
     <div class="blog-content">
@@ -52,7 +53,7 @@ export const well_share_agreement_two_parcels_one_well_cochise_county: BlogPost 
 
       <h2>What the Willcox AMA changed, and what it did not</h2>
 
-      <p>The Willcox groundwater basin became an active management area with an official designation date of 8 January 2025, after a Director's decision on 19 December 2024. The basin covers the watershed draining to the Willcox Playa in the northern Sulphur Springs Valley, so most of Willcox, Cochise, Pearce, Sunsites and Kansas Settlement are inside it. Check the ADWR boundary map for your own parcel rather than assuming.</p>
+      <p>The Willcox groundwater basin became an active management area with an official designation date of 8 January 2025, after a Director's decision on 19 December 2024. The basin is defined as the surface watershed draining to the Willcox Playa in the northern Sulphur Springs Valley, plus the upper Leslie Creek and Rucker Canyon watersheds east of the Swisshelms. That is a watershed line, not a town line. Willcox and Kansas Settlement are plainly inside it; whether a given parcel around Pearce, Sunsites or Dragoon is inside depends on where the line falls, so check the ADWR boundary map for your own parcel rather than assuming.</p>
 
       <p>For a shared domestic well, the practical consequences are narrower than the headlines suggested:</p>
 

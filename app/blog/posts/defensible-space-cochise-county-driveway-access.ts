@@ -10,7 +10,7 @@ export const defensible_space_cochise_county_driveway_access: BlogPost = {
   readTime: "10 min read",
   category: "Rural Living",
   keywords: ["defensible space arizona", "home ignition zone", "wildfire clearing cochise county", "firewise arizona", "fire engine access driveway width", "wildfire preparation rural arizona"],
-  featuredImage: "/blog/land-clearing.png",
+  featuredImage: "/blog/defensible-space-cochise-county-driveway-access.png",
   content: `<div class="blog-content">
   <p>Most defensible space advice is about vegetation, and most of it is written for pine country. On a grassland parcel in Cochise County the vegetation half is the easier half. The part people skip is the part that decides whether anyone is able to come and help you.</p>
 

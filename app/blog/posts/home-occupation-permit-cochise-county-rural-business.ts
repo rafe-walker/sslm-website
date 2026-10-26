@@ -10,7 +10,7 @@ export const home_occupation_permit_cochise_county_rural_business: BlogPost = {
   readTime: "10 min read",
   category: "Rural Living",
   keywords: ["home occupation cochise county", "run a business from home arizona", "home business permit rural arizona", "workshop on rural property arizona", "cochise county zoning business"],
-  featuredImage: "/blog/land-clearing.png",
+  featuredImage: "/blog/home-occupation-permit-cochise-county-rural-business.png",
   content: `<div class="blog-content">
   <p>Part of the appeal of forty acres is the assumption that what you do on it is your business. For actual business, that assumption needs adjusting — Cochise County permits home occupations in every zoning district except Heavy Industry, and it regulates them with a specific goal in mind.</p>
 

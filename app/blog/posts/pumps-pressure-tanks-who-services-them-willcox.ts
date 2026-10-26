@@ -6,7 +6,7 @@ export const pumps_pressure_tanks_who_services_them_willcox: BlogPost = {
   title: 'Well Pumps and Pressure Tanks: What You Are Buying, Who Services Them',
   seoTitle: 'Well Pump and Pressure Tank Service Near Willcox: A Landowner Directory',
   description:
-    'Submersible vs jet, how a pressure tank is sized, what a controller does, when solar pumping makes sense, and the pump and supply businesses that work the Sulphur Springs Valley.',
+    'Submersible vs jet, how a pressure tank is sized, what a controller does, when solar pumping fits, and the verified pump and supply businesses serving the Sulphur Springs Valley.',
   date: '2026-09-07',
   author: 'Sulfur Springs Land Management',
   readTime: '7 min read',
@@ -23,7 +23,6 @@ export const pumps_pressure_tanks_who_services_them_willcox: BlogPost = {
   featuredImage: '/blog/pumps-pressure-tanks-who-services-them-willcox.png',
   sources: [
     { label: 'BizTucson — Simmons Pump & Supply opens third U.S. location in Willcox (April 2025)', url: 'https://biztucson.com/simmons-pump-supply-opens-third-u-s-location-in-willcox/' },
-    { label: 'SIMFLO — company site', url: 'https://simflo.com/' },
     { label: 'Willcox Chamber of Commerce & Agriculture — member directory', url: 'https://www.willcoxchamberofcommerce.com/' },
     { label: 'Tanner Well Service — company site', url: 'https://tannerwellservice.com/' },
     { label: 'BBB — Triple L Well & Pump Services, LLC (Huachuca City)', url: 'https://www.bbb.org/us/az/huachuca-city/profile/water-well-drilling/triple-l-well-pump-services-llc-1286-20103477' },
@@ -37,7 +36,7 @@ export const pumps_pressure_tanks_who_services_them_willcox: BlogPost = {
     <div class="blog-content">
       <p>A well is a hole with a casing in it. What turns it into a water system is the equipment hung in and bolted next to it: a pump, a pressure tank, a switch or controller, and the wire and pipe between them. That equipment is also what fails. The hole will outlast you; the pump will not.</p>
 
-      <p>This post does two things. It explains what each piece is for, so a quote makes sense when it arrives. Then it lists the pump and supply businesses we could verify as working the Sulphur Springs Valley, with the facts their own websites, chamber listings or BBB profiles publish and nothing more.</p>
+      <p>This post explains what each piece is for, so a quote makes sense when it arrives, then lists the pump and supply businesses we could verify as working the Sulphur Springs Valley, using only what their own websites, chamber listings or BBB profiles publish.</p>
 
       <h2>Submersible or jet</h2>
 
@@ -62,21 +61,21 @@ export const pumps_pressure_tanks_who_services_them_willcox: BlogPost = {
 
       <h2>Switches and controllers</h2>
 
-      <p>The simplest system is a mechanical pressure switch, set to cut in at 30 or 40 psi and out at 50 or 60. A three-wire submersible adds a control box above ground that holds the starting capacitor and relay; a two-wire pump has those built into the motor. Neither is exotic, and both are what a service call usually finds.</p>
+      <p>The simplest system is a mechanical pressure switch, cutting in at 30 or 40 psi and out at 50 or 60. A three-wire submersible adds a control box above ground for the starting capacitor and relay; a two-wire pump has those in the motor.</p>
 
-      <p>Constant-pressure systems use a variable frequency drive to speed the pump up and down with demand instead of banging it on and off. Nebraska notes these run the pump longer with fewer starts, use less energy, and typically need only a 1 to 2 gallon tank. The trade-off is electronics at the wellhead, in a valley with summer lightning and, for off-grid properties, an inverter that has to tolerate the drive. Ask the installer about both before saying yes.</p>
+      <p>Constant-pressure systems use a variable frequency drive to speed the pump with demand instead of banging it on and off. Nebraska notes these run longer with fewer starts, use less energy, and need only a 1 to 2 gallon tank. The trade-off is electronics at the wellhead, in a valley with summer lightning and, off grid, an inverter that has to tolerate the drive. Ask about both before saying yes.</p>
 
       <h2>Solar pumping</h2>
 
       <p>A lot of valley wells are a long way from an SSVEC line, and a solar pump is often the honest answer. The University of Arizona Extension's 2021 bulletin on PV water pumping describes the standard design: a <strong>PV-direct</strong> system with no battery, because "it is cheaper to store water than to store energy." The pump runs when the sun is up and fills a tank; the house or the stock draws from the tank.</p>
 
-      <p>The sizing logic in that bulletin is worth keeping: plan on about three days of autonomy in storage (1,000 gallons a day of demand means a 3,000-gallon tank), expect 5 to 6 peak sun hours a day in the Southwest, and remember that every 2.31 feet of elevation gives you 1 psi, so gravity pressure from a tank is real but modest. A solar controller does the low-light current boosting at dawn and dusk and takes a float switch input to stop the pump when the tank is full or the well is low.</p>
+      <p>The sizing logic is worth keeping: about three days of autonomy in storage (1,000 gallons a day means a 3,000-gallon tank), 5 to 6 peak sun hours a day in the Southwest, and 1 psi for every 2.31 feet of elevation, so gravity pressure from a tank is real but modest. The controller boosts current at dawn and dusk and takes a float switch to stop the pump when the tank is full or the well is low.</p>
 
-      <p>What solar pumping is not is a pressure system. If you want 50 psi at the shower you still need a pressure pump and tank downstream of the storage, and that is a second, smaller piece of equipment on the same quote.</p>
+      <p>Solar pumping is not a pressure system. If you want 50 psi at the shower you still need a pressure pump and tank downstream of the storage, a second, smaller item on the same quote.</p>
 
       <h2>Who services them in the valley</h2>
 
-      <p>Everything below is taken from the business's own site, its Willcox Chamber listing, or its BBB profile. We have not used, rated or ranked any of them. Call more than one.</p>
+      <p>Everything below is taken from the business's own site, its Willcox Chamber listing, or its BBB profile. We have not rated or ranked them. Call more than one.</p>
 
       <div class="table-wrap">
         <table>
@@ -85,7 +84,7 @@ export const pumps_pressure_tanks_who_services_them_willcox: BlogPost = {
             <tr>
               <td><strong>Simmons Pump &amp; Supply</strong> (SIMFLO)</td>
               <td>754 E. Maley St., Willcox</td>
-              <td>Pump distributor and manufacturer; opened its Willcox location in April 2025 in a 30,000 sq ft office and warehouse with a 10,000 sq ft turbine pump test facility managed by SIMFLO. Stocks submersibles from 0.5 to 200 HP and line-shaft turbines from 4 to 16 inches, plus water well supplies. Headquartered in Lubbock, Texas; SIMFLO says it has been U.S.-headquartered since 1952. Willcox Chamber listing: (520) 384-2273.</td>
+              <td>Pump distributor and manufacturer; opened its Willcox location in April 2025 in a 30,000 sq ft office and warehouse with a 10,000 sq ft turbine pump test facility managed by SIMFLO. Stocks submersibles from 0.5 to 200 HP and line-shaft turbines from 4 to 16 inches, plus water well supplies. Headquartered in Lubbock, Texas. Willcox Chamber listing: (520) 384-2273.</td>
             </tr>
             <tr>
               <td><strong>Tanner Well Service, LLC</strong></td>
@@ -115,21 +114,20 @@ export const pumps_pressure_tanks_who_services_them_willcox: BlogPost = {
 
       <h2>When you do not need to call anyone</h2>
 
-      <p>Short-cycling with a bladder tank: shut the pump off, drain the tank, check the air charge with a tyre gauge against the cut-in pressure. If it holds air at the right number and the problem persists, then call. No water at all after a storm: check the breaker and the control box before paying for a truck roll. A pressure switch with burnt contacts is a parts-counter item. Anything that involves pulling pipe out of a 400-foot well is not a Saturday job, and the rig that does it is the thing you are paying for.</p>
+      <p>Short-cycling with a bladder tank: shut the pump off, drain the tank, check the air charge with a tyre gauge against the cut-in pressure. If it holds air at the right number and the problem persists, then call. No water after a storm: check the breaker and the control box before paying for a truck roll. Anything that involves pulling pipe out of a 400-foot well is not a Saturday job, and the rig that does it is what you are paying for.</p>
 
       <h2>What we could not confirm</h2>
 
       <ul>
-        <li>Whether Simmons Pump &amp; Supply sells to the public or only to contractors. Its coverage describes both residential accessories and an exclusively trade customer base.</li>
-        <li>Tanner Well Service's base town. Its site lists the counties it serves and a phone number, not an address.</li>
-        <li>Any ROC or ADWR licence number for any business here. Verify them yourself at azroc.my.site.com and on ADWR's licensed driller list.</li>
+        <li>Whether Simmons Pump &amp; Supply sells to the public or only to contractors. Its coverage describes both.</li>
+        <li>Tanner Well Service's base town. Its site lists counties served and a phone number, not an address.</li>
+        <li>Any ROC or ADWR licence number for any business here. Verify them yourself.</li>
         <li>Prices. None of these businesses publishes service rates, so none appear here.</li>
-        <li>Whether the Nebraska sizing rules of thumb match what a given local installer uses. They are a check on a quote, not a substitute for one.</li>
       </ul>
 
       <h2>The short version</h2>
 
-      <p>On the valley floor your well pump is a submersible, your pressure tank is sized to the pump at roughly four times its gpm, and your controller is either a mechanical switch or a variable-speed drive with its own trade-offs. Solar pumping fills a tank and does not make pressure. Four verified businesses service this equipment here: Simmons Pump &amp; Supply in Willcox for supply, and Tanner, Triple L and BJ Drilling for installation and repair. Ask for ROC numbers, and file your own pump completion report with ADWR.</p>
+      <p>On the valley floor your well pump is a submersible, your pressure tank is sized at roughly four times the pump's gpm, and your controller is a mechanical switch or a variable-speed drive with its own trade-offs. Solar pumping fills a tank and does not make pressure. Four verified businesses: Simmons Pump &amp; Supply in Willcox for supply; Tanner, Triple L and BJ Drilling for installation and repair. Ask for ROC numbers, and file your own pump completion report with ADWR.</p>
 
       <p>Tell us the parcel and the job and <a href="/#contact">a licensed local contractor will call you to quote it</a>.</p>
     </div>

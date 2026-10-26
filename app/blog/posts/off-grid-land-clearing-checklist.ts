@@ -10,7 +10,7 @@ export const off_grid_land_clearing_checklist: BlogPost = {
   readTime: "8 min read",
   category: "Land Preparation",
   keywords: ["off grid site preparation arizona", "building pad preparation", "access road rural property", "off grid drainage arizona", "septic site prep cochise county"],
-  featuredImage: "/blog/land-clearing.png",
+  featuredImage: "/blog/off-grid-land-clearing-checklist.png",
   content: `
       <div class="blog-content">
         <h2>Preparing Your Off-Grid Property: Land Clearing Checklist</h2>

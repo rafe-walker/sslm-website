@@ -10,7 +10,7 @@ export const rural_internet_cochise_county_broadband_map: BlogPost = {
   readTime: "9 min read",
   category: "Rural Living",
   keywords: ["rural internet arizona", "fcc national broadband map", "broadband availability challenge", "internet cochise county", "off grid internet arizona", "no internet at my address"],
-  featuredImage: "/blog/water-systems.png",
+  featuredImage: "/blog/rural-internet-cochise-county-broadband-map.png",
   content: `<div class="blog-content">
   <p>You look up the parcel, the national broadband map shows two or three providers serving it at respectable speeds, and you take that as settled. Then you call them and discover the nearest line is four miles away, or the install quote has a five-figure number in it.</p>
 

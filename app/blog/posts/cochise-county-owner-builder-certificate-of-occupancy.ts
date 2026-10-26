@@ -10,7 +10,7 @@ export const cochise_county_owner_builder_certificate_of_occupancy: BlogPost = {
   readTime: "11 min read",
   category: "Rural Living",
   keywords: ["cochise county owner builder", "owner builder amendment arizona", "certificate of occupancy cochise county", "build your own home arizona", "owner builder affidavit ars 32-1121"],
-  featuredImage: "/blog/land-clearing.png",
+  featuredImage: "/blog/cochise-county-owner-builder-certificate-of-occupancy.png",
   content: `<div class="blog-content">
   <p>Cochise County has one of the more permissive owner-builder regimes in the country, and it is a genuine reason people buy land here. It comes in two versions, and the cheaper one has a consequence stated plainly on the county's own page that a lot of people find out about years later.</p>
 

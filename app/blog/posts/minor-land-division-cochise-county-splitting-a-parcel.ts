@@ -10,7 +10,7 @@ export const minor_land_division_cochise_county_splitting_a_parcel: BlogPost = {
   readTime: "11 min read",
   category: "Rural Living",
   keywords: ["minor land division cochise county", "split a parcel arizona", "lot split rural arizona", "acting in concert arizona land", "subdivision six lots arizona", "land division legal access"],
-  featuredImage: "/blog/land-clearing.png",
+  featuredImage: "/blog/minor-land-division-cochise-county-splitting-a-parcel.png",
   content: `<div class="blog-content">
   <p>Two facts about dividing land in Cochise County explain most of what goes wrong with rural parcels here, and both of them run against the assumption people arrive with.</p>
 

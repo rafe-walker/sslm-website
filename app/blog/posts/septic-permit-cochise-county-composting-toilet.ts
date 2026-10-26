@@ -10,7 +10,7 @@ export const septic_permit_cochise_county_composting_toilet: BlogPost = {
   readTime: "11 min read",
   category: "Rural Living",
   keywords: ["septic permit cochise county", "arizona type 4 general permit", "composting toilet arizona", "onsite wastewater arizona", "percolation test arizona", "gray water definition arizona"],
-  featuredImage: "/blog/water-systems.png",
+  featuredImage: "/blog/septic-permit-cochise-county-composting-toilet.png",
   content: `<div class="blog-content">
   <p>The off-grid plan usually arrives fully formed: solar on the roof, water hauled or drilled, and a composting toilet instead of a septic system. Two of those three are fine. The third is where the budget breaks, because of a definition almost nobody reads until it is too late.</p>
 

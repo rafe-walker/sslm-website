@@ -10,7 +10,7 @@ export const open_range_arizona_lawful_fence_cochise_county: BlogPost = {
   readTime: "10 min read",
   category: "Rural Living",
   keywords: ["open range arizona", "arizona lawful fence definition", "livestock trespass arizona", "fence out state", "cochise county livestock rules", "no fence district arizona"],
-  featuredImage: "/blog/land-clearing.png",
+  featuredImage: "/blog/open-range-arizona-lawful-fence-cochise-county.png",
   content: `<div class="blog-content">
   <p>A neighbour's cattle come through, eat the young trees you planted and flatten a section of drip line. In most of the country the next step is obvious: the animals' owner is responsible for the animals.</p>
 

@@ -10,7 +10,7 @@ export const building_permit_exemptions_cochise_county: BlogPost = {
   readTime: "10 min read",
   category: "Rural Living",
   keywords: ["building permit exemptions cochise county", "shed without permit arizona", "do i need a permit for a fence arizona", "water tank permit arizona", "cochise county building permit threshold"],
-  featuredImage: "/blog/land-clearing.png",
+  featuredImage: "/blog/building-permit-exemptions-cochise-county.png",
   content: `<div class="blog-content">
   <p>Cochise County publishes a list of single-family residential projects that do not need a building permit. It is genuinely useful, and it is also narrower than people remember it being — because most of the entries carry a condition, and the conditions are where the trouble is.</p>
 
