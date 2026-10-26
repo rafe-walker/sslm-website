@@ -83,11 +83,11 @@ export const electric_line_extension_rural_cochise_county_ssvec: BlogPost = {
 
   <p>Work out which of the three utilities actually serves the parcel using the county's INFOMap service area layer, because territory rather than proximity decides it. Then treat the line extension quote as an estimate rather than a price: SSVEC reserves the right to adjust it to actual cost and to bill for unanticipated costs up to six months after the work is finished. Expect a non-refundable design fee deposit at the start, and expect to obtain any required right-of-way easements yourself, at no cost to the cooperative — which is the step most likely to stall the whole thing if the route crosses land you do not own. Then compare against off-grid on the full picture, including estimate risk, easement risk and time, rather than on headline numbers. A quarter mile from the line, connect. Several miles out, do the arithmetic before you assume.</p>
 
-  <p>Sulfur Springs Land Management clears routes, digs trenches and builds the access that both answers depend on. If the easement is the obstacle, that is worth knowing before the design fee, not after.</p>
+  <p>Both answers depend on the same groundwork — a cleared route, a trench, an access road — and all of it is licensed-contractor work. Tell us the parcel and the job and a licensed local contractor will call you to quote it — <a href="/#contact">start here</a>. If the easement is the obstacle, that is worth knowing before the design fee, not after.</p>
 </div>
   <section class="gear-block">
     <h2>Gear for this job</h2>
-    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually put on a job.</em></p>
+    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually use out here.</em></p>
     <ul>
       <li><a href="https://www.amazon.com/dp/B075RTSTKS?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Victron BMV-712 Smart Battery Monitor with 500A Shunt</a> — If you are weighing a line extension against a system, measure your actual consumption first. Most people guess high on some loads and low on others.</li>
       <li><a href="https://www.amazon.com/dp/B00XB36W0A?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">VIQUA VH200 Stainless UV Water System, 9 GPM 35W</a> — The kind of continuous load that quietly changes the sizing answer, and the reason to list every load before comparing.</li>

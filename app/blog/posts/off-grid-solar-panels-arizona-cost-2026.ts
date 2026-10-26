@@ -139,7 +139,7 @@ export const off_grid_solar_panels_arizona_cost_2026: BlogPost = {
 
         <p>Cochise County's monsoon season brings another consideration: water. A solar array pad that has not been graded for drainage can turn into a pond during a July storm, undermining the pad base and potentially damaging equipment. Proper grading with drainage swales around the array protects your investment for the long term.</p>
 
-        <p>This is where Sulfur Springs Land Management fits in. We handle the site preparation that makes a solar installation go smoothly: clearing mesquite and brush from the array area, grading a level compacted pad, cutting drainage swales to redirect monsoon water, and trenching conduit runs from the array to the battery house or structure. We work alongside solar installers so the electrical contractor shows up to a site that is ready — not to raw desert that needs a week of prep before the first rack goes in the ground.</p>
+        <p>This is where the groundwork comes in. The site preparation that makes a solar installation go smoothly — clearing mesquite and brush from the array area, grading a level compacted pad, cutting drainage swales to redirect monsoon water, and trenching conduit runs from the array to the battery house — is excavation work, and in Arizona that means an ROC-licensed contractor once the job passes $1,000. A good one coordinates with the solar installer so the electrical contractor shows up to a site that is ready, not to raw desert that needs a week of prep before the first rack goes in the ground.</p>
 
         <h3>Common Mistakes That Cost Real Money</h3>
 
@@ -155,15 +155,13 @@ export const off_grid_solar_panels_arizona_cost_2026: BlogPost = {
 
         <h3>Ready to Start? SSLM Handles the Site Work</h3>
 
-        <p>If you are planning an off-grid solar installation on a Cochise County property, the site preparation phase is where mistakes are hardest and most expensive to fix later. Sulfur Springs Land Management specializes in exactly this work — clearing, grading, trenching, and pad prep for solar installations on rural Arizona land.</p>
-
-        <p>We can assess your property, identify shading issues, recommend array placement, and prepare the site so your solar installer can hit the ground running. Contact us to schedule a site visit and get a quote for the ground work behind your off-grid solar system.</p>
+        <p>If you are planning an off-grid solar installation on a Cochise County property, the site preparation phase is where mistakes are hardest and most expensive to fix later. Get the pad, the drainage and the conduit trench quoted by a licensed contractor before the panels are ordered, and have the installer and the dirt contractor talk to each other about array placement and shading. Tell us the parcel and the job and a licensed local contractor will call you to quote it — <a href="/#contact">start here</a>.</p>
 
         <p><strong>Call (520) 402-5877 or email inquiries@sulfurspringslandmanagement.com to discuss your project.</strong></p>
       
   <section class="gear-block">
     <h2>Gear for this job</h2>
-    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually put on a job.</em></p>
+    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually use out here.</em></p>
     <ul>
       <li><a href="https://www.amazon.com/dp/B0BJ78JZ2B?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">LiTime 12V 100Ah LiFePO4 Battery (Group 31)</a> — LiFePO4 tolerates the depth of discharge that lead-acid will not.</li>
       <li><a href="https://www.amazon.com/dp/B073ZJ43L1?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Victron SmartSolar MPPT 100/50 Charge Controller</a> — MPPT recovers meaningful yield over PWM on a cold, bright morning.</li>

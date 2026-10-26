@@ -83,11 +83,11 @@ export const floodplain_use_permit_cochise_county_watercourse_setback: BlogPost 
 
   <p>Cochise County regulates the 100-year floodplain, and a floodplain use permit is not only about houses — building, grading, filling, walls, fencing and any other man-made change can all trigger it. Inside a regulated floodplain or a FEMA special flood hazard area, the lowest floor of a conventional home or the lowest structural frame of a manufactured home has to sit at least a foot above the expected 100-year flood where the elevation is known. And separately from all of that, every structure must be set back from the primary bank of any watercourse by somewhere between 50 and 300 feet depending on peak flow — a rule that applies whether or not you are in the mapped floodplain, and one that quietly decides where the house goes on a lot of parcels in this valley. Check the map, then walk the washes, then draw the building envelope.</p>
 
-  <p>Sulfur Springs Land Management grades, builds access and installs erosion control across the valley. Getting the drainage right before monsoon is cheaper than fixing it afterwards, every time.</p>
+  <p>Grading, access and erosion control inside a floodplain are contractor jobs that need the permit in hand first. Tell us the parcel and the job and a licensed local contractor will call you to quote it — <a href="/#contact">start here</a>. Getting the drainage right before monsoon is cheaper than fixing it afterwards, every time.</p>
 </div>
   <section class="gear-block">
     <h2>Gear for this job</h2>
-    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually put on a job.</em></p>
+    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually use out here.</em></p>
     <ul>
       <li><a href="https://www.amazon.com/dp/B0DWZMB7SP?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Farm Plastic Supply Straw Wattle, 9 in x 25 ft</a> — Goes on contour across disturbed ground and slows sheet flow before it becomes a rill. Cheaper than regrading in August.</li>
       <li><a href="https://www.amazon.com/dp/B0CQPSSSXN?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Sandbaggy Type C Silt Fence, 3 ft x 100 ft, with Stakes</a> — For keeping your sediment on your parcel, which is a neighbour problem as much as an erosion one.</li>

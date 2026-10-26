@@ -99,11 +99,11 @@ export const accessory_dwelling_unit_cochise_county_park_model: BlogPost = {
 
   <p>A second dwelling on one parcel is allowed, but as a planning application that must be approved in writing before any building permit is issued. You need an existing single-family home first, you must live on the parcel yourself, and the ADU must be no taller than the main house. The county permits at least one attached and one detached ADU per parcel, plus one additional detached ADU on lots of an acre or more. An RV, a railroad car or a camper shell can never be the ADU; a park model can, under A.R.S. &sect; 11-820.03 on parcels zoned one dwelling per three acres or more, at 320 to 400 square feet, on a proper foundation, with the axles and wheels removed. Ownership can never be split from the main house. And check the size cap directly with Planning, because the county's own two published answers do not match.</p>
 
-  <p>Sulfur Springs Land Management does the pads, access and utility trenching a second dwelling needs. The septic capacity question is usually the one worth answering first.</p>
+  <p>The pads, access and utility trenching a second dwelling needs are all licensed-contractor work. Tell us the parcel and the job and a licensed local contractor will call you to quote it — <a href="/#contact">start here</a>. The septic capacity question is usually the one worth answering first.</p>
 </div>
   <section class="gear-block">
     <h2>Gear for this job</h2>
-    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually put on a job.</em></p>
+    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually use out here.</em></p>
     <ul>
       <li><a href="https://www.amazon.com/dp/B0DJ2P2XN5?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Victron SmartShunt 300A Battery Monitor</a> — A second dwelling is a second load. Knowing what the bank actually does over a week beats guessing before you add one.</li>
       <li><a href="https://www.amazon.com/dp/B07KT9F38P?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">EPEVER 40A MPPT Charge Controller (Tracer4210AN G3)</a> — If the ADU gets its own small array rather than sharing, this is the sensible size to start at.</li>

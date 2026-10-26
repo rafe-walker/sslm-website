@@ -1,6 +1,7 @@
 'use client';
 
 import { Mountain, Shield } from 'lucide-react';
+import { SITE } from '@/app/lib/site';
 
 export default function Footer() {
   return (
@@ -48,13 +49,16 @@ export default function Footer() {
             <ul className="space-y-2 text-sm text-textSecondary">
               <li><a href="mailto:inquiries@sulfurspringslandmanagement.com" className="hover:text-accent transition-colors break-all">inquiries@sulfurspringslandmanagement.com</a></li>
               <li><a href="tel:+15204025877" className="hover:text-accent transition-colors">(520) 402-5877</a></li>
-              <li><span>Cochise County, AZ</span></li>
+              <li><span>Sulphur Springs Valley, Cochise County, AZ</span></li>
               <li className="pt-2"><a href="https://strongholdprecisionaerials.com" target="_blank" rel="noopener noreferrer" className="text-xs text-accent hover:text-accentLight transition-colors font-bold">Stronghold Precision Aerials</a></li>
             </ul>
           </div>
         </div>
 
         <div className="border-t border-borderColor pt-8">
+          <p className="text-xs text-textSecondary leading-relaxed mb-6 max-w-3xl">
+            <strong className="text-textPrimary">Not a licensed contractor.</strong> {SITE.posture}
+          </p>
           <div className="flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-textSecondary">
             <p>&copy; 2026 Sulfur Springs Land Management. All rights reserved.</p>
             <p>A Stormhaven Enterprises LLC Company</p>

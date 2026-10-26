@@ -63,12 +63,12 @@ export const hauled_water_vs_drilling_a_well_in_sulfur_springs_valley_real_numbe
   <li><strong>Factor in reliability.</strong> Do you need water to be 100% under your control, or can you accept delivery delays? Wells are more self-reliant.</li>
   </ol>
   <h2>Getting Started: Next Steps</h2>
-  <p>Whether you choose a well or hauled water, Sulfur Springs Land Management can help you plan the infrastructure. We've sized solar systems for well pumps, designed tank placement and drainage for monsoon season, and guided landowners through ADWR registration. We understand Cochise County conditions and the specific challenges of Sulfur Springs Valley.</p>
+  <p>Whether you choose a well or hauled water, the infrastructure — a tank pad, a trench to the house, power for a pump — is licensed-contractor work, and ADWR registration is the driller's job. Tell us the parcel and the job and a licensed local contractor will call you to quote it — <a href="/#contact">start here</a>.</p>
   <p>The water decision is foundational. Get it right, and your off-grid property works smoothly for decades. Get it wrong, and you're dealing with high costs or unreliable service for years. Contact Sulfur Springs Land Management to assess your property, research local aquifer conditions, and develop a water plan that fits your situation and budget.</p>
   
   <section class="gear-block">
     <h2>Gear for this job</h2>
-    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually put on a job.</em></p>
+    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually use out here.</em></p>
     <ul>
       <li><a href="https://www.amazon.com/dp/B01BFC5Q9Q?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">RomoTech 550 Gallon Storage Tank with Legs</a> — Legs give you gravity head without building a stand.</li>
       <li><a href="https://www.amazon.com/dp/B002XM5G70?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">SHURFLO 4008 12V Fresh Water Pump, 3.0 GPM</a> — The standard 12V pressure pump for hauled-water systems.</li>

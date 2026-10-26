@@ -82,11 +82,11 @@ export const defensible_space_cochise_county_driveway_access: BlogPost = {
 
   <p>Defensible space is measured from the building, not the boundary: nought to five feet, five to thirty, thirty to a hundred, with at least thirty feet maintained around structures. On grassland the first five feet does most of the work, and it wants to be non-combustible rather than merely tidy — no mulch, no woodpile, no propane against the wall. Half the published advice is about the building itself, not the vegetation, so clear the gutters and seal the gaps while you are at it. And before any of that, measure the drive: twelve feet wide, fifteen feet of overhead clearance, somewhere to turn around, a surface that will hold a loaded engine, and an address sign that will still be legible in smoke. The best-cleared house in the valley is worth very little if nobody can reach it.</p>
 
-  <p>Sulfur Springs Land Management does access roads, turnarounds and clearing across the valley. If your drive is the weak link, that is the job we would start with.</p>
+  <p>Access roads, turnarounds and clearing are all jobs a licensed local contractor quotes. Tell us the parcel and the job and a licensed local contractor will call you to quote it — <a href="/#contact">start here</a>. If your drive is the weak link, that is the job we would start with.</p>
 </div>
   <section class="gear-block">
     <h2>Gear for this job</h2>
-    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually put on a job.</em></p>
+    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually use out here.</em></p>
     <ul>
       <li><a href="https://www.amazon.com/dp/B00KXM6OT6?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Echo CS-590 Timber Wolf 20 in Gas Chainsaw</a> — Enough saw for mesquite without being enough saw to hurt you badly. The overhead clearance work is what you will actually use it for.</li>
       <li><a href="https://www.amazon.com/dp/B00GZ4OJ4I?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Extendable Bypass Lopper, 29.5 to 37.5 in</a> — Most of the Immediate Zone is small stuff you should not be starting a chainsaw for.</li>

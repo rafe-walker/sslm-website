@@ -95,7 +95,7 @@ export const sulfur_springs_valley_arizona_landowner_guide: BlogPost = {
 </div>
   <section class="gear-block">
     <h2>Gear for this job</h2>
-    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually put on a job.</em></p>
+    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually use out here.</em></p>
     <ul>
       <li><a href="https://www.amazon.com/dp/B0837Z5PBJ?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Varify 17-in-1 Drinking Water Test Kit</a> — Baseline your water before you plumb anything to a tap.</li>
       <li><a href="https://www.amazon.com/dp/B01BFC5Q9Q?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">RomoTech 550 Gallon Storage Tank with Legs</a> — Legs give you gravity head without building a stand.</li>

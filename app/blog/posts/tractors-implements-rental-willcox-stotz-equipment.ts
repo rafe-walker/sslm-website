@@ -1,0 +1,131 @@
+import type { BlogPost } from '../types'
+
+export const tractors_implements_rental_willcox_stotz_equipment: BlogPost = {
+  id: '32',
+  slug: 'tractors-implements-rental-willcox-stotz-equipment',
+  title: 'Tractors, Implements and Rental for a Valley Parcel: What 40 Acres Actually Needs',
+  seoTitle: 'Compact Tractor vs Skid Steer vs Rental for a Willcox-Area Parcel: Stotz Equipment and the Arithmetic',
+  description:
+    'Stotz Equipment in Willcox, what a 40-acre owner really needs (compact tractor with loader and box blade, skid steer, or a rental), the buy-vs-rent arithmetic, and when to hire a licensed contractor instead.',
+  date: '2026-09-14',
+  author: 'Sulfur Springs Land Management',
+  readTime: '7 min read',
+  category: 'Local Businesses',
+  keywords: [
+    'tractor dealer willcox az',
+    'stotz equipment willcox',
+    'compact tractor for 40 acres',
+    'box blade vs skid steer',
+    'equipment rental cochise county',
+    'buy vs rent tractor',
+    'post hole auger caliche',
+  ],
+  featuredImage: '/blog/tractors-implements-rental-willcox-stotz-equipment.png',
+  sources: [
+    { label: 'Stotz Equipment — Willcox, AZ location', url: 'https://stotzeq.com/locations/willcox-az' },
+    { label: 'Stotz Equipment — company site and compact tractors', url: 'https://stotzeq.com/' },
+    { label: 'Willcox Chamber of Commerce & Agriculture — member directory', url: 'https://www.willcoxchamberofcommerce.com/' },
+    { label: 'Cochise County — Land Clearing Ordinance', url: 'https://www.cochise.az.gov/617/Land-Clearing-Ordinance' },
+    { label: 'A.R.S. § 32-1121 — exemptions from contractor licensing (owner-builder, under $1,000)', url: 'https://www.azleg.gov/ars/32/01121.htm' },
+    { label: 'A.A.C. R4-9-102 — ROC classifications (A-5 Excavating, Grading and Oil Surfacing)', url: 'https://www.law.cornell.edu/regulations/arizona/Ariz-Admin-Code-SS-R4-9-102' },
+    { label: 'Big Rentals — Willcox listing (marketplace, not a yard)', url: 'https://www.bigrentals.com/locations/us/arizona/willcox/equipment-rentals' },
+    { label: 'United Rentals — Tucson branches', url: 'https://www.unitedrentals.com/locations/az/tucson/equipment-tool-rentals/01j' },
+  ],
+  content: `
+    <div class="blog-content">
+      <p>Somewhere in the first year on a valley parcel, usually after the second time the driveway washboards, the thought arrives: I should just buy a tractor.</p>
+
+      <p>Sometimes that is right. Often it is a very expensive way to own a machine that runs eleven hours a year. This post is about telling the two cases apart, what the machine should be if you do buy, which implements earn their place in this soil, where you can buy or rent in and around Willcox, and the jobs where the correct tool is a licensed contractor's phone number.</p>
+
+      <h2>Start from the jobs, not the machine</h2>
+
+      <p>Write down what the parcel actually asks of you over a year. For most owner-occupied 20 to 40 acre properties on the valley floor the honest list is short:</p>
+
+      <ul>
+        <li>Grading the driveway after monsoon. Several times a summer, a few hours each.</li>
+        <li>Moving material: gravel for the pad, a load of base course, mesquite rounds, a pallet of fence posts.</li>
+        <li>Knocking down weeds and grass along fence lines and around structures for <a href="/blog/defensible-space-cochise-county-driveway-access">defensible space</a>.</li>
+        <li>Setting posts. Fence, gate, shade structure, the solar rack.</li>
+        <li>Occasionally breaking ground: a garden, a small pasture reseed, a trench for a water line.</li>
+      </ul>
+
+      <p>Notice what is not on the list. Building the pad. Cutting a new road. Clearing more than an acre of mesquite. Installing the septic. Those are not frequent, they are not small, and they are the jobs a compact tractor is worst at.</p>
+
+      <h2>Compact tractor with loader and box blade</h2>
+
+      <p>For the list above, a compact utility tractor with a front loader and a box blade on the three-point hitch is the machine that does the most. The loader moves material and lifts posts. The box blade, with its scarifier teeth down, cuts washboard and fills the low spots on a gravel drive in one or two passes, then smooths with the teeth up. The three-point hitch takes every other implement you will ever want.</p>
+
+      <p>Stotz Equipment, the John Deere dealer at <strong>331 W Rex Allen Dr in Willcox</strong>, lists compact tractors in four tiers on its site: 1 Series sub-compact, and 2, 3 and 4 Series compact. The 1 Series is a large lawn tractor with a hitch and is undersized for a 40-acre driveway. The 2 and 3 Series are where most rural owners land; the 4 Series starts to overlap with genuine utility tractors. Stotz does not publish horsepower or pricing on its category page, so get both from the counter.</p>
+
+      <p>Weight matters more than horsepower here. Grading is a ballast job, and a light tractor with a box blade skates over caliche instead of cutting it. Fill the rear tyres, hang weight on the back when running the loader, and buy the heavier of two machines you are choosing between.</p>
+
+      <h2>Skid steer</h2>
+
+      <p>A skid steer or compact track loader is a better digging and loading machine than any compact tractor. It will build a pad, strip brush, load a dump trailer and run a post-hole auger with far more down-pressure. It is also a worse driveway grader (no three-point hitch, short wheelbase), a worse mower, hard on the ground it turns on, and uncomfortable to run for a long afternoon.</p>
+
+      <p>If your year is mostly construction, the skid steer is the right machine. If your year is mostly maintenance, it is the wrong one. Most people's year is maintenance. The construction phase is better rented or contracted, and we will come to that.</p>
+
+      <h2>Implements that matter in this valley</h2>
+
+      <div class="table-wrap">
+        <table>
+          <thead><tr><th>Implement</th><th>What it does here</th><th>Buy, rent or skip</th></tr></thead>
+          <tbody>
+            <tr><td><strong>Box blade</strong></td><td>Driveway grading, spreading gravel, rough levelling around the pad.</td><td>Buy. You will use it more than everything else combined.</td></tr>
+            <tr><td><strong>Rotary cutter (brush hog)</strong></td><td>Grass and light brush along fence lines and the defensible zone. Not mesquite of any size.</td><td>Buy if you keep pasture or a long fence line; otherwise rent once a year.</td></tr>
+            <tr><td><strong>Post-hole auger</strong></td><td>Fence and gate posts. In caliche it will stall; expect to pre-wet, chip and reset.</td><td>Rent for the fence project. Own one only if you fence every year.</td></tr>
+            <tr><td><strong>Disc</strong></td><td>Breaking a garden or pasture reseed. On uncleared valley ground it mostly finds roots and rock.</td><td>Rent. Twice a decade for most owners.</td></tr>
+            <tr><td><strong>Pallet forks</strong></td><td>Posts, panels, tanks, solar racking. Replaces a lot of back injuries.</td><td>Buy if you have a loader. Cheap relative to the tractor.</td></tr>
+            <tr><td><strong>Rear blade</strong></td><td>Snow does not justify it here. Ditching along the drive does, occasionally.</td><td>Skip until you know you need it.</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <h2>The buy-versus-rent arithmetic</h2>
+
+      <p>None of the businesses named in this post publishes rental rates or tractor prices online, so there are no dollar figures below. The arithmetic still works, and you fill in the quotes.</p>
+
+      <ol>
+        <li><strong>Price the machine</strong> as a package: tractor, loader, box blade, forks, delivery. Call it P.</li>
+        <li><strong>Estimate annual ownership cost.</strong> A defensible rough rule is 10 to 15 percent of P per year once you add depreciation, insurance, fluids, filters, a tyre, and a shed to keep the sun off the plastics. Call it C.</li>
+        <li><strong>Count your days.</strong> How many days a year would the machine actually run? Be honest. Driveway grading five times a year is five half-days.</li>
+        <li><strong>Price a rental day</strong> for the same class of machine, including delivery both ways, because you probably do not own a trailer rated for it. Call it R.</li>
+        <li><strong>Break-even days per year</strong> = C divided by R.</li>
+      </ol>
+
+      <p>If you run the machine fewer days than that, renting is cheaper and you never change a hydraulic hose. If you run it more, or if the delivery charge from Tucson or Sierra Vista eats half the rental, buying starts to make sense. Two things tilt the result in the valley. Rental yards are not close, so delivery is a real line, which favours owning. And the jobs that justify a big machine are front-loaded in the first two years, which favours renting that machine and owning a smaller one.</p>
+
+      <div class="callout">
+        <span class="callout-label">Where to buy and rent, verified</span>
+        <p><strong>Stotz Equipment, Willcox</strong> — 331 W Rex Allen Dr, (520) 766-0610, Monday to Friday 7:00 AM to 5:00 PM. Family-owned John Deere dealer since 1947, 24 locations in eight Western states. Sells compact tractors, compact construction equipment, Gator utility vehicles and used equipment, with parts and service. Listed in the Willcox Chamber directory as "Stotz Equipment-Arizona Machinery Co." Its site does not advertise rentals; ask whether the Willcox store does.</p>
+        <p><strong>Rental yards.</strong> We could not verify a rental yard physically located in Willcox. The Willcox results that come up online are marketplaces that state they "do not own or operate equipment yards." United Rentals' nearest listed branches are in Tucson, roughly 80 miles from Willcox. If you know of a yard in the valley, we would like to list it; we will not name one we could not confirm.</p>
+      </div>
+
+      <h2>When the right tool is a contractor</h2>
+
+      <p>Some jobs fail the arithmetic no matter what you own, and some fail the law.</p>
+
+      <p><strong>Clearing more than an acre.</strong> Cochise County requires a Clearing Permit for clearing more than one acre that is not exempt, with erosion control required until the ground is stabilised. One acre or less for residential use is exempt. The county's fee is $50, but the permit is the small part; the erosion-control obligation is the real work, and the contractor doing the clearing should be the one carrying it. Our <a href="/blog/land-clearing-cochise-county-guide">land clearing guide</a> walks the rest.</p>
+
+      <p><strong>Pads, roads and drainage.</strong> Building a pad to a compaction spec, cutting a road with proper crown and ditching, or doing anything near a wash is excavating and grading work, which the Registrar of Contractors classifies under A-5. If you are paying someone to do it and the contract is $1,000 or more, or the work needs a permit at any price, A.R.S. § 32-1121 says that person needs a licence. Ask for the ROC number and check it at azroc.my.site.com.</p>
+
+      <p><strong>Your own labour is different.</strong> The same statute exempts a property owner doing the work on their own land for their own occupancy. You may legally grade your own drive and build your own pad. The question is whether you should, and for a pad that a house will sit on, the answer from anyone who has fixed one is no.</p>
+
+      <h2>What we could not confirm</h2>
+
+      <ul>
+        <li>Any rental yard located in Willcox or elsewhere on the valley floor. Only marketplaces and Tucson branches were verifiable.</li>
+        <li>Whether Stotz Equipment's Willcox store offers rentals or demonstrations. Its site does not say.</li>
+        <li>Horsepower and prices for the compact tractor series. Stotz does not publish them on its category pages.</li>
+        <li>The 10 to 15 percent ownership-cost rule is a rule of thumb, not a sourced figure. Replace it with your own insurance quote and the dealer's service schedule.</li>
+        <li>Any ROC licence number for any contractor. Verify them yourself.</li>
+      </ul>
+
+      <h2>The short version</h2>
+
+      <p>List the jobs first. If they are mostly maintenance — driveway, material, weeds, posts — a 2 or 3 Series class compact tractor with a loader, box blade and forks is the machine, and Stotz in Willcox is the verified local dealer. If they are mostly construction, rent a skid steer or hire the work. Run the break-even arithmetic with real quotes including delivery, because the nearest verified rental yards are in Tucson. Anything over an acre of clearing, any pad a house will sit on, and any paid job of $1,000 or more or that needs a permit, goes to an ROC-licensed contractor.</p>
+
+      <p>Tell us the parcel and the job and <a href="/#contact">a licensed local contractor will call you to quote it</a>.</p>
+    </div>
+  `,
+}

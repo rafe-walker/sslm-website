@@ -96,11 +96,11 @@ export const cochise_county_owner_builder_certificate_of_occupancy: BlogPost = {
 
   <p>Cochise County lets you build your own rural house with reduced cost and reduced inspection, in two flavours. Option 1 gives you plan review, limited inspections of the mechanical, electrical, plumbing and fire items, and possibly a conditioned Certificate of Occupancy. Option 2 gives you neither review nor inspections and no Certificate of Occupancy at all, because the county has not verified anything — and the county itself flags that lenders, insurers and future buyers may then want more from you. Eligibility needs a parcel of at least four acres <em>in a district whose own minimum is at least four acres</em>, and you get one use of it every five years. Everything else — septic, zoning, floodplain, well, statewide codes — applies exactly as before. And if you take the plain owner-builder route instead, read the affidavit: sole occupancy, no sale or rent within a year of completion.</p>
 
-  <p>Sulfur Springs Land Management handles the site work either way — access, pad, drainage and the approvals that sit outside the building permit.</p>
+  <p>The site work is the same either way — access, pad, drainage and the approvals that sit outside the building permit. Tell us the parcel and the job and a licensed local contractor will call you to quote it — <a href="/#contact">start here</a>.</p>
 </div>
   <section class="gear-block">
     <h2>Gear for this job</h2>
-    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually put on a job.</em></p>
+    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually use out here.</em></p>
     <ul>
       <li><a href="https://www.amazon.com/dp/B003825F0M?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Johnson Level 40-6517 Self-Levelling Rotary Laser System</a> — If nobody is inspecting your work, your own layout has to be right. Foundations and pads are where that starts.</li>
       <li><a href="https://www.amazon.com/dp/B008F6UJB6?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Bon Tool 8 x 8 in Dirt Tamper, Steel Handle</a> — Compaction around footings and trenches, done by hand where a machine cannot reach.</li>

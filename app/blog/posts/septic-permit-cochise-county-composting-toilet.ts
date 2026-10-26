@@ -94,7 +94,7 @@ export const septic_permit_cochise_county_composting_toilet: BlogPost = {
 </div>
   <section class="gear-block">
     <h2>Gear for this job</h2>
-    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually put on a job.</em></p>
+    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually use out here.</em></p>
     <ul>
       <li><a href="https://www.amazon.com/dp/B01I3IXTGW?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Rust-Oleum Inverted Marking Paint, Fluorescent Orange</a> — Mark the reserve area the day it is identified. An unmarked reserve area is an area someone parks a skid steer on.</li>
       <li><a href="https://www.amazon.com/dp/B091JGX4WB?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Safe Home DIY Bacteria in Water Test Kit</a> — If you have a well and a leach field on the same parcel, a baseline bacteria test before either goes in is worth having on file.</li>

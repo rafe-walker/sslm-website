@@ -155,13 +155,13 @@ export const off_grid_land_clearing_checklist: BlogPost = {
 
         <h3>Getting Started</h3>
 
-        <p>Sulfur Springs Land Management specializes in off-grid property preparation. We handle site assessment, clearing, grading, drainage design, and infrastructure development. Our team understands Cochise County conditions and helps you navigate common challenges. Proper site preparation is the foundation for successful off-grid living.</p>
+        <p>Site assessment, clearing, grading, drainage and the rest of the infrastructure on this list are licensed-contractor work in Arizona once the job passes the $1,000 handyman limit. Proper site preparation is the foundation for successful off-grid living, and the order matters as much as the work. Tell us the parcel and the job and a licensed local contractor will call you to quote it — <a href="/#contact">start here</a>.</p>
 
         <p><strong>Contact Sulfur Springs Land Management to assess your off-grid property and develop a preparation plan.</strong></p>
       
   <section class="gear-block">
     <h2>Gear for this job</h2>
-    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually put on a job.</em></p>
+    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually use out here.</em></p>
     <ul>
       <li><a href="https://www.amazon.com/dp/B001VU6BGA?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Komelon Open Reel Fiberglass Tape Measure, 300 ft</a> — Long enough to lay out a pad or a setback without pacing it.</li>
       <li><a href="https://www.amazon.com/dp/B01I3IXTGW?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Rust-Oleum Inverted Marking Paint, Fluorescent Orange</a> — Marks corners and utility routes so nobody has to guess.</li>

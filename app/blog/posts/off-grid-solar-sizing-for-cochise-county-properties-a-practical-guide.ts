@@ -104,7 +104,7 @@ export const off_grid_solar_sizing_for_cochise_county_properties_a_practical_gui
   
   <section class="gear-block">
     <h2>Gear for this job</h2>
-    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually put on a job.</em></p>
+    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually use out here.</em></p>
     <ul>
       <li><a href="https://www.amazon.com/dp/B0BJ78JZ2B?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">LiTime 12V 100Ah LiFePO4 Battery (Group 31)</a> — LiFePO4 tolerates the depth of discharge that lead-acid will not.</li>
       <li><a href="https://www.amazon.com/dp/B073ZJ43L1?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Victron SmartSolar MPPT 100/50 Charge Controller</a> — MPPT recovers meaningful yield over PWM on a cold, bright morning.</li>

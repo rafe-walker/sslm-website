@@ -23,7 +23,7 @@ export const water_systems_off_grid_arizona: BlogPost = {
 
       <h2>Option 1: Hauled Water with Storage Tanks</h2>
       <p>This is the most common starting point for off-grid properties in the area. A water hauler delivers bulk water to your property and fills a storage tank. In Cochise County, expect to pay between $0.03 and $0.05 per gallon for delivered water, with most haulers requiring a minimum delivery of 1,000 gallons.</p>
-      <p>You will need a food-grade polyethylene tank rated for potable water. We recommend a minimum of 2,500 gallons for a single-person setup and 5,000 gallons for a family. Tanks should be placed on a level, compacted pad. We install tanks on graded pads with proper base preparation to prevent settling and ensure the tank outlet is positioned for gravity feed or easy pump access.</p>
+      <p>You will need a food-grade polyethylene tank rated for potable water. We recommend a minimum of 2,500 gallons for a single-person setup and 5,000 gallons for a family. Tanks should be placed on a level, compacted pad. A good contractor sets tanks on a graded pad with proper base preparation to prevent settling, and positions the tank outlet for gravity feed or easy pump access.</p>
       <p>A pressurized delivery system from the tank to your home requires a 12V or 24V demand pump, a pressure tank, and basic plumbing. This setup provides normal household water pressure at every faucet and costs between $500 and $1,200 for parts depending on the complexity.</p>
 
       <h2>Option 2: Well Drilling</h2>
@@ -44,16 +44,16 @@ export const water_systems_off_grid_arizona: BlogPost = {
       <p>The most resilient off-grid water setups combine two or more sources. Our recommended approach for Cochise County properties is to start with hauled water and a 3,000-gallon tank for immediate water access, add a rainwater collection system when your roof structure is in place, and plan for a well as a long-term investment when budget allows.</p>
       <p>This layered approach gives you water on day one while building toward full independence. Each system backs up the others, so a delayed water delivery or a dry monsoon season never leaves you without water.</p>
 
-      <h2>What Sulfur Springs Land Management Provides</h2>
-      <p>We handle the heavy infrastructure for your water system. Our services include tank pad grading and preparation for stable tank placement, trenching for water lines from tank to house with proper burial depth, large tank delivery and setup for tanks up to 3,000 gallons and above, pump system installation including demand pumps and pressure tanks, and connection to your existing or new plumbing.</p>
-      <p>We work with local well drillers and plumbers to coordinate the full installation, so you have a single point of contact for your entire water system project.</p>
+      <h2>Who does the work</h2>
+      <p>The heavy infrastructure for a water system is licensed-contractor work: tank pad grading and preparation, trenching for water lines from tank to house at proper burial depth, delivery and setting of tanks of 3,000 gallons and above, pump system installation including demand pumps and pressure tanks, and connection to new or existing plumbing. Expect a general or excavation contractor for the pad and trench and a plumbing contractor for the pressure side; the tank supplier usually delivers.</p>
+      <p>Ask each contractor for their ROC licence number and check it at azroc.my.site.com before signing anything.</p>
 
       <h2>Get Started</h2>
-      <p>Every off-grid property in Cochise County has unique water challenges based on location, terrain, and intended use. Contact us for a free site evaluation and we will recommend the most practical and cost-effective water solution for your specific property.</p>
+      <p>Every off-grid property in Cochise County has unique water challenges based on location, terrain and intended use. Tell us the parcel and the job and a licensed local contractor will call you to quote it — <a href="/#contact">start here</a>.</p>
     
   <section class="gear-block">
     <h2>Gear for this job</h2>
-    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually put on a job.</em></p>
+    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually use out here.</em></p>
     <ul>
       <li><a href="https://www.amazon.com/dp/B01BFC5Q9Q?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">RomoTech 550 Gallon Storage Tank with Legs</a> — Legs give you gravity head without building a stand.</li>
       <li><a href="https://www.amazon.com/dp/B002XM5G70?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">SHURFLO 4008 12V Fresh Water Pump, 3.0 GPM</a> — The standard 12V pressure pump for hauled-water systems.</li>

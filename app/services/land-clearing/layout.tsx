@@ -2,7 +2,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Land Clearing & Brush Removal | Sulfur Springs Land Management',
-  description: 'Professional land clearing services in Cochise County, Arizona. We clear brush, mesquite, creosote, and overgrowth to prepare your rural property for building, create firebreaks, and restore usable land.',
+  description: 'Land clearing in the Sulphur Springs Valley, Cochise County, Arizona, by independent ROC-licensed contractors: brush, mesquite and creosote removal, firebreaks and building-site prep. Request a quote.',
   alternates: {
     canonical: 'https://sulfurspringslandmanagement.com/services/land-clearing',
   },

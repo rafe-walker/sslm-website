@@ -67,7 +67,7 @@ export const goat_kids_like_to_hide_always_use_the_chihuahua_rule: BlogPost = {
   
   <section class="gear-block">
     <h2>Gear for this job</h2>
-    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually put on a job.</em></p>
+    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually use out here.</em></p>
     <ul>
       <li><a href="https://www.amazon.com/dp/B07VNGQYYZ?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Crackshot Guardz Snake Bite Leg Gaiters</a> — Most bites land below the knee, and brush work is exactly where they happen.</li>
       <li><a href="https://www.amazon.com/dp/B00DF29ISK?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Ironclad Ranchworx Leather Gloves</a> — Catclaw and mesquite thorns go straight through fabric gloves.</li>

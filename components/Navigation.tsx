@@ -54,7 +54,7 @@ export default function Navigation() {
             onClick={() => scrollToSection('contact')}
             className="hidden md:block px-6 py-2 bg-accent text-bg rounded-lg font-bold text-sm hover:bg-accentLight transition-colors"
           >
-            Get a Free Estimate
+            Get a Quote
           </motion.button>
 
           <button
@@ -90,7 +90,7 @@ export default function Navigation() {
                 onClick={() => scrollToSection('contact')}
                 className="w-full px-4 py-2 bg-accent text-bg rounded-lg font-bold text-sm hover:bg-accentLight transition-colors mt-2"
               >
-                Get a Free Estimate
+                Get a Quote
               </button>
             </div>
           </div>

@@ -74,11 +74,11 @@ export const should_i_save_money_with_b_grade_panels_or_go_a_grade: BlogPost = {
   <h2>The Bottom Line for Off-Grid Cochise County</h2>
   <p>B-grade panels are a legitimate product category, and in some contexts—grid-tied systems, oversized arrays, experienced DIYers—they're a reasonable choice. But for off-grid living in Sulfur Springs Valley, where you're designing a system to be self-sufficient and you're living with the consequences of underperformance every day, A-grade is the right call.</p>
   <p>Our solar resource is exceptional. Our climate is stable. What we don't have is a grid to bail us out if our panels underdeliver. Spend the extra $1,000–1,500 on A-grade panels, design your system with margin, and you'll have reliable power for decades.</p>
-  <p>If you're sizing an off-grid solar system for your Cochise County property and you're weighing these decisions, Sulfur Springs Land Management can help you design a system that's right-sized for our conditions and backed by equipment you can count on. Contact us to assess your property and develop a solar plan that accounts for Sulfur Springs Valley's unique climate and your actual power needs.</p>
+  <p>If you are sizing an off-grid solar system for a Cochise County property and weighing these decisions, have a licensed solar installer size it from your actual loads and the valley's climate, and insist on the written warranty Arizona law requires of the installer. Tell us the parcel and the job and a licensed local contractor will call you to quote it — <a href="/#contact">start here</a>.</p>
   
   <section class="gear-block">
     <h2>Gear for this job</h2>
-    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually put on a job.</em></p>
+    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually use out here.</em></p>
     <ul>
       <li><a href="https://www.amazon.com/dp/B073ZJ43L1?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Victron SmartSolar MPPT 100/50 Charge Controller</a> — MPPT recovers meaningful yield over PWM on a cold, bright morning.</li>
       <li><a href="https://www.amazon.com/dp/B075RTSTKS?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Victron BMV-712 Smart Battery Monitor with 500A Shunt</a> — A shunt-based monitor is the only honest state-of-charge reading.</li>

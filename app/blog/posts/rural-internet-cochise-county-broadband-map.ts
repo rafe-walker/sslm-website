@@ -86,11 +86,11 @@ export const rural_internet_cochise_county_broadband_map: BlogPost = {
 
   <p>The national broadband map is self-reported by providers, so it answers "could this location be served" rather than "can I get service". Check the exact parcel rather than the area, note the technology type and not just the speed, and confirm every listed provider with a written quote to that address. If a provider is listed but will not actually connect you — refused service, an outsized connection fee, or no installation scheduled within ten business days of asking — that is a documented ground for an availability challenge, and the provider has to respond. If your parcel is not on the map at all, file a location challenge, because a place that does not exist in the data cannot be counted as unserved when funding is handed out. Then go and stand on the land with a phone, because terrain decides more here than any map does.</p>
 
-  <p>Sulfur Springs Land Management clears, grades and builds access across the valley. If getting a signal means a mast, a pad or a line of sight through mesquite, that is groundwork, and it is worth planning with everything else rather than after.</p>
+  <p>If the answer turns out to be a mast on a pad at the end of a new access road, that is licensed-contractor work. Tell us the parcel and the job and a licensed local contractor will call you to quote it — <a href="/#contact">start here</a>. If getting a signal means a mast, a pad or a line of sight through mesquite, that is groundwork, and it is worth planning with everything else rather than after.</p>
 </div>
   <section class="gear-block">
     <h2>Gear for this job</h2>
-    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually put on a job.</em></p>
+    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually use out here.</em></p>
     <ul>
       <li><a href="https://www.amazon.com/dp/B0B1959MT7?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">SPYPOINT Flex Cellular Trail Camera</a> — Runs on cellular rather than broadband, which makes it the realistic way to keep an eye on a parcel you have not connected yet.</li>
       <li><a href="https://www.amazon.com/dp/B01N5TEHLI?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Ambient Weather WS-2902 Wi-Fi Smart Weather Station</a> — Local wind and rain data is genuinely useful out here, and it is the sort of thing that only earns its keep once you have a connection to hang it on.</li>

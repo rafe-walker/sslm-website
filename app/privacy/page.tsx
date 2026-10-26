@@ -65,7 +65,7 @@ export default function PrivacyPolicy() {
             <div>
               <h3 className="font-bold text-lg mb-2">Information You Provide Directly</h3>
               <p className="text-textSecondary leading-relaxed">
-                When you submit a contact form, request a free estimate, or communicate with us via email or phone, we collect:
+                When you submit a contact form, request a quote, or communicate with us via email or phone, we collect:
               </p>
               <ul className="list-disc list-inside text-textSecondary mt-2 space-y-1">
                 <li>Name, email address, and phone number</li>
@@ -112,7 +112,7 @@ export default function PrivacyPolicy() {
         <motion.section variants={itemVariants} className="mb-12">
           <h2 className="text-2xl font-bold mb-4 text-accent">5. Information Sharing</h2>
           <p className="text-textSecondary leading-relaxed mb-4">
-            We do not sell, trade, or rent your personal information to third parties. We may share your information only in the following circumstances:
+            Sulfur Springs Land Management is a referral service. When you send a quote request, we share the details you give us (name, contact details, parcel or location, and the work described) with up to three independent, ROC-licensed contractors so they can quote the job, and they may contact you about that request. We do not sell your information to data brokers or advertisers. Beyond the contractors we refer, we share information only in the following circumstances:
           </p>
           <ul className="list-disc list-inside text-textSecondary space-y-2">
             <li>With service providers who assist us in operating our website and conducting our business, under confidentiality agreements</li>

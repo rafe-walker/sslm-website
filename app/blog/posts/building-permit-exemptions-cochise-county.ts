@@ -91,11 +91,11 @@ export const building_permit_exemptions_cochise_county: BlogPost = {
 
   <p>State law sets the threshold at $1,000 in value, and Cochise County publishes a list of single-family residential projects that are exempt below and around it. The useful ones out here are a detached storage shed at 200 square feet or less with no utilities, a water tank on grade up to 5,000 gallons with a height-to-width ratio no steeper than 2:1, a deck under 30 inches, a retaining wall up to 4 feet, and fences up to 7 feet. That last one carries a catch: an informational permit is still required on a corner lot above 3 feet, in a FEMA flood hazard area, in a designated wash, or in a platted subdivision. And exempt from a permit never means exempt from the rules — setbacks, floodplain, the watercourse erosion setback and your septic reserve area all still apply. The shed exemption dies the moment you run a wire to it.</p>
 
-  <p>Sulfur Springs Land Management does the pads, access and drainage that sit underneath all of this, permitted or not.</p>
+  <p>The pads, access and drainage that sit underneath all of this need doing whether the structure is permitted or not. Tell us the parcel and the job and a licensed local contractor will call you to quote it — <a href="/#contact">start here</a>.</p>
 </div>
   <section class="gear-block">
     <h2>Gear for this job</h2>
-    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually put on a job.</em></p>
+    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually use out here.</em></p>
     <ul>
       <li><a href="https://www.amazon.com/dp/B008OMGHS0?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Robert Manufacturing R400-1 Bob Red Brass Float Valve, 1 in NPT</a> — If you are running a tank under the 5,000 gallon exemption, a mechanical float is what stops a delivery becoming a flood.</li>
       <li><a href="https://www.amazon.com/dp/B0002DKAL4?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Lifegard Aquatics 1 Inch Bulkhead Fitting Kit</a> — Tank penetrations done properly the first time. The exemption covers the tank; it does not cover the puddle.</li>

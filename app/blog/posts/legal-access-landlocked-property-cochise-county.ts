@@ -106,7 +106,7 @@ export const legal_access_landlocked_property_cochise_county: BlogPost = {
 </div>
   <section class="gear-block">
     <h2>Gear for this job</h2>
-    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually put on a job.</em></p>
+    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually use out here.</em></p>
     <ul>
       <li><a href="https://www.amazon.com/dp/B06WRSR2PG?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Rhino USA Recovery Tow Strap, 3 in x 30 ft</a> — Nobody maintains a private easement but you. Carry recovery gear the first few times you drive an unimproved access route.</li>
       <li><a href="https://www.amazon.com/dp/B000KL0WDE?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Keson GB500 Braided Nylon Mason Twine, 500 ft</a> — Once a surveyor has found the easement line, string is how you keep equipment inside it.</li>

@@ -72,11 +72,11 @@ export const open_range_arizona_lawful_fence_cochise_county: BlogPost = {
 
   <p>Arizona is a fence-out state. Under A.R.S. &sect; 3-1427 you cannot recover for damage done by trespassing animals unless your land was already enclosed within a lawful fence, and "lawful fence" is a statutory specification rather than a compliment — posts no more than 30 feet apart, at least four barbed wires, top wire at 50 inches, the others 12, 22 and 32 inches below it, or something demonstrably as effective at turning livestock. Meanwhile the county requires your own livestock to be confined, on any parcel over about 0.82 acres, with corrals set 50 feet off the property lines. The cheap and usually correct answer is to fence what matters — house yard, garden, orchard, septic reserve — to a proper standard, rather than running a perimeter you cannot afford to build properly.</p>
 
-  <p>Sulfur Springs Land Management clears fence lines and builds access across the valley. If you are pricing a perimeter, the clearing is usually the part people forget to cost.</p>
+  <p>Clearing a fence line is a contractor job if it runs past the $1,000 handyman limit. Tell us the parcel and the job and a licensed local contractor will call you to quote it — <a href="/#contact">start here</a>. If you are pricing a perimeter, the clearing is usually the part people forget to cost.</p>
 </div>
   <section class="gear-block">
     <h2>Gear for this job</h2>
-    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually put on a job.</em></p>
+    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually use out here.</em></p>
     <ul>
       <li><a href="https://www.amazon.com/dp/B006767T96?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">6-1/2 ft Green Studded Steel T-Post</a> — The statute allows 30-foot post spacing as a maximum. On uneven desert ground, closer is what actually keeps wire at the right height.</li>
       <li><a href="https://www.amazon.com/dp/B074F1DN8C?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">2 Ton Come Along Power Puller with 10 ft Cable</a> — "Tightly stretched" is in the statute. A come-along is how four wires get there without a tractor.</li>

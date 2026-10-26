@@ -64,7 +64,7 @@ export default function ServicePageLayout({ icon: Icon, title, accentWord, subti
       <section className="py-20 px-4 bg-bgCard border-y border-borderColor">
         <div className="max-w-6xl mx-auto">
           <motion.div initial={{ opacity: 0, y: 20 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} transition={{ duration: 0.5 }}>
-            <h2 className="text-3xl font-bold mb-4 text-center">What We Deliver</h2>
+            <h2 className="text-3xl font-bold mb-4 text-center">What the Job Includes</h2>
             <p className="text-textSecondary text-center mb-12 max-w-2xl mx-auto">Every engagement is tailored to your property. Here is what you can expect.</p>
             <div className="grid md:grid-cols-2 gap-8">
               {features.map((f, i) => (
@@ -85,7 +85,7 @@ export default function ServicePageLayout({ icon: Icon, title, accentWord, subti
       <section className="py-20 px-4">
         <div className="max-w-4xl mx-auto">
           <motion.div initial={{ opacity: 0, y: 20 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} transition={{ duration: 0.5 }}>
-            <h2 className="text-3xl font-bold mb-4 text-center">Our Process</h2>
+            <h2 className="text-3xl font-bold mb-4 text-center">How the Work Goes</h2>
             <p className="text-textSecondary text-center mb-12 max-w-xl mx-auto">From consultation to final walkthrough, every project follows a proven workflow.</p>
             <div className="space-y-8">
               {process.map((s, i) => (

@@ -87,11 +87,11 @@ export const home_occupation_permit_cochise_county_rural_business: BlogPost = {
 
   <p>Home occupations are permitted in every Cochise County zoning district except Heavy Industry, as an accessory use, and the governing idea is that the business should be invisible from outside. The floor area cap is 25% of the <em>residence</em> — not of the workshop — so a big shop does not buy you more business space. No more than two non-family employees on site, parking met on your own ground, no change to residential appearance, and one non-illuminated sign of four square feet at five feet high, with vehicle signage exempt. The rule that decides it for most rural trades is the flat prohibition on any outdoor display or storage of materials, goods, supplies or equipment. If your work needs a yard, a home occupation is the wrong instrument and a Special Use Authorization is the conversation to have instead. If it does not, and you are not building anything, it is one application and no other permits.</p>
 
-  <p>Sulfur Springs Land Management builds the pads, access and hardstanding a rural workshop sits on — and knowing which side of the outdoor-storage line you are on before pouring concrete is worth the phone call.</p>
+  <p>The pads, access and hardstanding a rural workshop sits on are contractor work — and knowing which side of the outdoor-storage line you are on before pouring concrete is worth the phone call to Planning first. Tell us the parcel and the job and a licensed local contractor will call you to quote it — <a href="/#contact">start here</a>.</p>
 </div>
   <section class="gear-block">
     <h2>Gear for this job</h2>
-    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually put on a job.</em></p>
+    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually use out here.</em></p>
     <ul>
       <li><a href="https://www.amazon.com/dp/B07NWFJH9B?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">LEPOWER Solar LED Security Light, 1600 lm, Motion Sensor</a> — A workshop a long way from the house wants light on approach, and solar avoids trenching a circuit you would then need permitted.</li>
       <li><a href="https://www.amazon.com/dp/B077Q5XM87?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">iCrimp MC4 Solar Crimping Tool Kit, 14-10 AWG</a> — If the shop gets its own small array, properly crimped MC4 ends are the difference between a connection and a fire.</li>

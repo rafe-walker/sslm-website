@@ -79,11 +79,11 @@ export const living_in_rv_while_building_cochise_county: BlogPost = {
 
   <p>You cannot camp on vacant land you own in unincorporated Cochise County — the county's answer is a flat no covering all forms and all durations, because camping requires an established use on the parcel. Living in an RV is allowed in two situations only: alongside an existing principal use such as a house, for up to six months in a calendar year, or while a principal use is under construction. Both need an approved temporary use permit, it is one RV rather than several, and renting it out is not permitted. So the trailer cannot lead — the access, the zoning, the septic and the building permit all come first, and the practical effect is that you find out whether the parcel works before you are living on it.</p>
 
-  <p>Sulfur Springs Land Management does the groundwork that has to happen in that window — access, pad, drainage — and doing it in the right order is most of the value.</p>
+  <p>The groundwork that has to happen in that window — access, pad, drainage — is licensed-contractor work, and doing it in the right order is most of the value. Tell us the parcel and the job and a licensed local contractor will call you to quote it — <a href="/#contact">start here</a>.</p>
 </div>
   <section class="gear-block">
     <h2>Gear for this job</h2>
-    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually put on a job.</em></p>
+    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually use out here.</em></p>
     <ul>
       <li><a href="https://www.amazon.com/dp/B004ME11FS?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Camco TastePURE 25 ft Potable Water Hose</a> — Drinking-water rated rather than a garden hose. Obvious until the first summer, when a garden hose starts tasting like a garden hose.</li>
       <li><a href="https://www.amazon.com/dp/B01BFC5Q32?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">RomoTech 325 Gallon Polyethylene Storage Tank with Legs</a> — Legs give you gravity feed without building a stand, which is what you want for a trailer rather than a house.</li>

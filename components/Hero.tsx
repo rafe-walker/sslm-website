@@ -1,6 +1,7 @@
 'use client';
 
 import { Shield, ChevronDown } from 'lucide-react';
+import { SITE } from '@/app/lib/site';
 
 export default function Hero() {
   const scrollToSection = (id: string) => {
@@ -13,7 +14,7 @@ export default function Hero() {
   return (
     <section id="hero" className="pt-32 pb-20 px-4 sm:px-6 lg:px-8 relative overflow-hidden min-h-screen flex items-center">
       <div className="absolute inset-0">
-        <video autoPlay muted loop playsInline poster="/og-image.png" className="absolute inset-0 w-full h-full object-cover">
+        <video autoPlay muted loop playsInline preload="none" poster="/hero-poster.jpg" className="absolute inset-0 w-full h-full object-cover">
           <source src="/hero-video.mp4" type="video/mp4" />
         </video>
         <div className="absolute inset-0 bg-black/60" />
@@ -37,7 +38,7 @@ export default function Hero() {
         <p
           className="text-lg sm:text-xl text-textSecondary mb-8 max-w-2xl mx-auto leading-relaxed"
         >
-          Full-service land management for the Sulfur Springs Valley and rural Cochise County. From raw desert to livable homestead — clearing, grading, solar, water, and everything in between.
+          Land clearing, grading, trenching, solar and water for the Sulphur Springs Valley — Willcox, Cochise, Pearce, Sunsites, Dragoon and the rest of rural Cochise County. Tell us the parcel and the job; a licensed local contractor calls you to quote it.
         </p>
 
         <div
@@ -47,7 +48,7 @@ export default function Hero() {
             onClick={() => scrollToSection('contact')}
             className="px-8 py-3 bg-accent text-bg rounded-lg font-bold hover:bg-accentLight transition-colors"
           >
-            Get a Free Estimate
+            Get a Quote from a Licensed Contractor
           </button>
           <button
             onClick={() => scrollToSection('services')}
@@ -56,6 +57,8 @@ export default function Hero() {
             View Services
           </button>
         </div>
+
+        <p className="mt-6 text-sm text-textSecondary max-w-2xl mx-auto">{SITE.postureShort}</p>
 
         <div
           className="mt-12 flex justify-center"

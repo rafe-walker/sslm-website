@@ -138,7 +138,7 @@ export const land_clearing_cochise_county_guide: BlogPost = {
       
   <section class="gear-block">
     <h2>Gear for this job</h2>
-    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually put on a job.</em></p>
+    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually use out here.</em></p>
     <ul>
       <li><a href="https://www.amazon.com/dp/B000KL2V6A?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Truper 5 lb Pick Mattock, 36 in Fibreglass Handle</a> — The tool that actually works in caliche when a shovel will not.</li>
       <li><a href="https://www.amazon.com/dp/B0014C4QMG?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Silky ZUBAT Curved Hand Saw, 330 mm</a> — Cuts mesquite and catclaw faster than a bow saw and fits on a belt.</li>

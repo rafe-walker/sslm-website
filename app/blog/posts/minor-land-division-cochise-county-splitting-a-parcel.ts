@@ -95,7 +95,7 @@ export const minor_land_division_cochise_county_splitting_a_parcel: BlogPost = {
 </div>
   <section class="gear-block">
     <h2>Gear for this job</h2>
-    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually put on a job.</em></p>
+    <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually use out here.</em></p>
     <ul>
       <li><a href="https://www.amazon.com/dp/B001VU6BGA?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Komelon Open Reel Fiberglass Tape Measure, 300 ft</a> — Not a substitute for the survey you are required to commission, but enough to sanity-check a proposed line before you pay for one.</li>
       <li><a href="https://www.amazon.com/dp/B01I3IXTGW?tag=stormhaven05-20" target="_blank" rel="sponsored nofollow noopener">Rust-Oleum Inverted Marking Paint, Fluorescent Orange</a> — Mark the proposed division and the reserved utility easement on the ground. Lines that exist only on paper get built over.</li>
