@@ -52,6 +52,7 @@ export default function Footer() {
               <li><a href="tel:+15204025877" className="hover:text-accent transition-colors">(520) 402-5877</a></li>
               <li><span>Sulphur Springs Valley, Cochise County, AZ</span></li>
               <li className="pt-2"><a href="https://strongholdprecisionaerials.com" target="_blank" rel="noopener noreferrer" className="text-xs text-accent hover:text-accentLight transition-colors font-bold">Stronghold Precision Aerials</a></li>
+              <li><a href="https://azlandlist.com" target="_blank" rel="noopener noreferrer" className="text-xs text-accent hover:text-accentLight transition-colors font-bold">AZ Land List — county land data &amp; guides</a></li>
             </ul>
           </div>
         </div>
