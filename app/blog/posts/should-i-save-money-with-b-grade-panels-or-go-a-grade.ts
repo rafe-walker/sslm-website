@@ -76,6 +76,7 @@ export const should_i_save_money_with_b_grade_panels_or_go_a_grade: BlogPost = {
   <p>Our solar resource is exceptional. Our climate is stable. What we don't have is a grid to bail us out if our panels underdeliver. Spend the extra $1,000–1,500 on A-grade panels, design your system with margin, and you'll have reliable power for decades.</p>
   <p>If you are sizing an off-grid solar system for a Cochise County property and weighing these decisions, have a licensed solar installer size it from your actual loads and the valley's climate, and insist on the written warranty Arizona law requires of the installer. Tell us the parcel and the job and a licensed local contractor will call you to quote it — <a href="/#contact">start here</a>.</p>
   
+    <div class="callout"><span class="callout-label">Run the numbers</span><p>Free, sourced calculators on our sister site, no signup:</p><ul><li><a href="https://plotnode.io/calculators/solar-sizing/" rel="noopener">Off-grid solar sizing calculator</a> — array watts from your daily load and December sun hours, battery bank from autonomy days and depth of discharge.</li><li><a href="https://plotnode.io/calculators/battery-autonomy/" rel="noopener">Battery autonomy calculator</a> — days your bank carries the load with inverter losses included.</li></ul></div>
   <section class="gear-block">
     <h2>Gear for this job</h2>
     <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually use out here.</em></p>

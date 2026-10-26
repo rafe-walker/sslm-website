@@ -159,6 +159,7 @@ export const off_grid_solar_panels_arizona_cost_2026: BlogPost = {
 
         <p><strong>Call (520) 402-5877 or email inquiries@sulfurspringslandmanagement.com to discuss your project.</strong></p>
       
+    <div class="callout"><span class="callout-label">Run the numbers</span><p>Free, sourced calculators on our sister site, no signup:</p><ul><li><a href="https://plotnode.io/calculators/solar-sizing/" rel="noopener">Off-grid solar sizing calculator</a> — array watts from your daily load and December sun hours, battery bank from autonomy days and depth of discharge.</li><li><a href="https://plotnode.io/calculators/panel-tilt/" rel="noopener">Solar panel tilt calculator</a> — fixed tilt for annual, winter or summer bias at your latitude.</li></ul></div>
   <section class="gear-block">
     <h2>Gear for this job</h2>
     <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually use out here.</em></p>

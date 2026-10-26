@@ -66,6 +66,7 @@ export const hauled_water_vs_drilling_a_well_in_sulfur_springs_valley_real_numbe
   <p>Whether you choose a well or hauled water, the infrastructure — a tank pad, a trench to the house, power for a pump — is licensed-contractor work, and ADWR registration is the driller's job. Tell us the parcel and the job and a licensed local contractor will call you to quote it — <a href="/#contact">start here</a>.</p>
   <p>The water decision is foundational. Get it right, and your off-grid property works smoothly for decades. Get it wrong, and you're dealing with high costs or unreliable service for years. Contact Sulfur Springs Land Management to assess your property, research local aquifer conditions, and develop a water plan that fits your situation and budget.</p>
   
+    <div class="callout"><span class="callout-label">Run the numbers</span><p>Free, sourced calculators on our sister site, no signup:</p><ul><li><a href="https://plotnode.io/calculators/cistern-sizing/" rel="noopener">Hauled-water cistern sizing calculator</a> — household × gallons per day × days of autonomy, snapped to standard tank sizes.</li><li><a href="https://plotnode.io/calculators/water-catchment/" rel="noopener">Rainwater catchment calculator</a> — roof area × annual rainfall × 0.623 × 0.90 collection efficiency.</li></ul></div>
   <section class="gear-block">
     <h2>Gear for this job</h2>
     <p class="disclosure"><em>Affiliate links — we may earn a commission from purchases at no extra cost to you. We only list gear we would actually use out here.</em></p>
