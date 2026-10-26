@@ -1,7 +1,8 @@
 'use client'
 
 import Link from 'next/link'
-import { blogPosts, BlogPost } from '../posts'
+import { relatedTo } from '../posts'
+import type { BlogPost } from '../types'
 import { motion } from 'framer-motion'
 import { ArrowLeft, BookOpen, Share2, Mountain } from 'lucide-react'
 
@@ -120,6 +121,19 @@ export default function BlogPostClient({ post }: { post: BlogPost }) {
             </div>
           </motion.div>
 
+          {post.sources && post.sources.length > 0 && (
+            <section className="mt-12 pt-8 border-t border-accent/10 text-sm">
+              <h3 className="text-lg font-bold mb-3">Sources</h3>
+              <ul className="space-y-1 text-textPrimary/80">
+                {post.sources.map((s) => (
+                  <li key={s.url}>
+                    <a href={s.url} target="_blank" rel="noopener noreferrer" className="text-accent hover:underline">{s.label}</a>
+                  </li>
+                ))}
+              </ul>
+            </section>
+          )}
+
           {/* Related Posts */}
           <motion.div
             initial={{ opacity: 0, y: 20 }}
@@ -128,11 +142,9 @@ export default function BlogPostClient({ post }: { post: BlogPost }) {
             transition={{ duration: 0.5 }}
             className="mt-16 pt-12 border-t border-accent/10"
           >
-            <h3 className="text-2xl font-bold mb-8">More from the Blog</h3>
+            <h3 className="text-2xl font-bold mb-8">Related guides</h3>
             <div className="grid md:grid-cols-2 gap-6">
-              {blogPosts
-                .filter((p) => p.id !== post.id)
-                .map((relatedPost) => (
+              {relatedTo(post, 4).map((relatedPost) => (
                   <Link
                     key={relatedPost.id}
                     href={`/blog/${relatedPost.slug}`}
